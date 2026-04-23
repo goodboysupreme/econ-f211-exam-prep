@@ -4,53 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Final Mixed Quiz — ECON F211</title>
-<link rel="stylesheet" href="assets/css/styles.css">
-<style>
-  .chapter-tag {
-    display: inline-block;
-    font-family: var(--font-mono);
-    font-size: 0.68rem;
-    letter-spacing: .06em;
-    padding: 2px 8px;
-    border-radius: 3px;
-    margin-bottom: 6px;
-    background: rgba(201,168,76,.13);
-    color: var(--gold);
-    border: 1px solid rgba(201,168,76,.25);
-  }
-  .chapter-tag.ch16 { background: rgba(100,180,160,.1); color: #64b4a0; border-color: rgba(100,180,160,.25); }
-  .chapter-tag.ch19 { background: rgba(180,130,100,.1); color: #b48264; border-color: rgba(180,130,100,.25); }
-  .chapter-tag.ch20 { background: rgba(100,140,200,.1); color: #6494c8; border-color: rgba(100,140,200,.25); }
-  .chapter-tag.ch21 { background: rgba(180,100,160,.1); color: #b464a0; border-color: rgba(180,100,160,.25); }
-  .final-score {
-    text-align: center;
-    font-family: var(--font-head);
-    font-size: 2rem;
-    color: var(--gold);
-    margin: 0 0 8px;
-  }
-  .final-score-sub {
-    text-align: center;
-    font-family: var(--font-body);
-    font-size: 1rem;
-    color: var(--muted);
-    margin-bottom: 28px;
-  }
-  .score-ring {
-    width: 110px; height: 110px;
-    border-radius: 50%;
-    border: 4px solid var(--gold);
-    display: flex; flex-direction: column;
-    align-items: center; justify-content: center;
-    margin: 0 auto 12px;
-    background: rgba(201,168,76,.06);
-  }
-  .score-ring .ring-num { font-family: var(--font-head); font-size: 1.9rem; color: var(--gold); line-height:1; }
-  .score-ring .ring-denom { font-family: var(--font-mono); font-size: 0.78rem; color: var(--muted); }
-</style>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
 <nav class="site-nav">
   <div class="nav-inner">
     <a href="index.html" class="nav-brand">ECON F211</a>
@@ -59,423 +15,538 @@
       <li><a href="ch19.html">Ch 19</a></li>
       <li><a href="ch20.html">Ch 20</a></li>
       <li><a href="ch21.html">Ch 21</a></li>
+      <li><a href="final-quiz.html" class="active">Final Quiz</a></li>
       <li><a href="practice-quiz.html">Practice</a></li>
     </ul>
   </div>
 </nav>
 
 <div class="page-wrap">
-  <section class="hero" style="padding-bottom:32px">
-    <div class="hero-tag">All Chapters · 40 Questions</div>
-    <h1>Final Mixed Quiz</h1>
-    <p class="hero-sub">Covers all four chapters. Select the best answer for each question, then submit for instant feedback and a final score.</p>
-  </section>
-
-  <div class="quiz-progress-wrap">
-    <div class="quiz-progress-bar"><div class="progress-fill" id="progress-fill-final" style="width:0%"></div></div>
-    <span class="progress-label" id="progress-label-final">0 / 40</span>
+  <div class="final-banner">
+    <div class="chapter-tag">All Chapters · 40 Questions</div>
+    <h2>Final Mixed Quiz</h2>
+    <p>Covers all four chapters. Select the best answer for each question, then submit for instant feedback and a final score.</p>
   </div>
 
-  <form id="quiz-final" class="quiz-form">
+  <div class="progress-wrap">
+    <div class="progress-label">
+      <span>Progress</span>
+      <span id="progress-label-final">0 / 40</span>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill-final" style="width:0%"></div></div>
+  </div>
 
-    <!-- ── CHAPTER 16 ── 10 questions ──────────────────────────────── -->
-
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">1. A factory's private marginal cost of production is \(MC = 10 + 2Q\). It creates pollution with a marginal external cost of \(MEC = Q\). If the market price is $40, what is the socially optimal quantity of production?</p>
-      <label class="option-label" data-q="1" data-val="a"><input type="radio" name="q1" value="a"> 10 units</label>
-      <label class="option-label" data-q="1" data-val="b"><input type="radio" name="q1" value="b"> 15 units</label>
-      <label class="option-label" data-q="1" data-val="c"><input type="radio" name="q1" value="c"> 20 units</label>
-      <label class="option-label" data-q="1" data-val="d"><input type="radio" name="q1" value="d"> 40 units</label>
+  <form id="quiz-final">
+    <!-- All 40 questions with correct classes from your styles.css -->
+    <!-- CHAPTER 16 -->
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 1</div>
+      <div class="question-text">A factory's private marginal cost of production is \(MC = 10 + 2Q\). It creates pollution with a marginal external cost of \(MEC = Q\). If the market price is $40, what is the socially optimal quantity of production?</div>
+      <div class="options">
+        <label class="option-label" data-q="1" data-val="a"><span class="option-key">A</span> 10 units</label>
+        <label class="option-label" data-q="1" data-val="b"><span class="option-key">B</span> 15 units</label>
+        <label class="option-label" data-q="1" data-val="c"><span class="option-key">C</span> 20 units</label>
+        <label class="option-label" data-q="1" data-val="d"><span class="option-key">D</span> 40 units</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">2. Using the information from the previous question, what is the deadweight loss resulting from the unregulated market outcome?</p>
-      <label class="option-label" data-q="2" data-val="a"><input type="radio" name="q2" value="a"> $25.00</label>
-      <label class="option-label" data-q="2" data-val="b"><input type="radio" name="q2" value="b"> $37.50</label>
-      <label class="option-label" data-q="2" data-val="c"><input type="radio" name="q2" value="c"> $75.00</label>
-      <label class="option-label" data-q="2" data-val="d"><input type="radio" name="q2" value="d"> $150.00</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 2</div>
+      <div class="question-text">Using the information from the previous question, what is the deadweight loss resulting from the unregulated market outcome?</div>
+      <div class="options">
+        <label class="option-label" data-q="2" data-val="a"><span class="option-key">A</span> $25.00</label>
+        <label class="option-label" data-q="2" data-val="b"><span class="option-key">B</span> $37.50</label>
+        <label class="option-label" data-q="2" data-val="c"><span class="option-key">C</span> $75.00</label>
+        <label class="option-label" data-q="2" data-val="d"><span class="option-key">D</span> $150.00</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">3. A rancher's cattle cause $100 in damage to a farmer's crops. The rancher could build a fence for $80, or the farmer could build one for $60. If the farmer has the legal right to be free from damage, what is the efficient outcome according to the Coase theorem?</p>
-      <label class="option-label" data-q="3" data-val="a"><input type="radio" name="q3" value="a"> The rancher pays the farmer $100 in damages.</label>
-      <label class="option-label" data-q="3" data-val="b"><input type="radio" name="q3" value="b"> The rancher builds a fence for $80.</label>
-      <label class="option-label" data-q="3" data-val="c"><input type="radio" name="q3" value="c"> The farmer builds a fence, paid for by the rancher (at a price between $60 and $80).</label>
-      <label class="option-label" data-q="3" data-val="d"><input type="radio" name="q3" value="d"> The farmer builds a fence at their own expense.</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 3</div>
+      <div class="question-text">A rancher's cattle cause $100 in damage to a farmer's crops. The rancher could build a fence for $80, or the farmer could build one for $60. If the farmer has the legal right to be free from damage, what is the efficient outcome according to the Coase theorem?</div>
+      <div class="options">
+        <label class="option-label" data-q="3" data-val="a"><span class="option-key">A</span> The rancher pays the farmer $100 in damages.</label>
+        <label class="option-label" data-q="3" data-val="b"><span class="option-key">B</span> The rancher builds a fence for $80.</label>
+        <label class="option-label" data-q="3" data-val="c"><span class="option-key">C</span> The farmer builds a fence, paid for by the rancher (at a price between $60 and $80).</label>
+        <label class="option-label" data-q="3" data-val="d"><span class="option-key">D</span> The farmer builds a fence at their own expense.</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">4. Firm A's pollution abatement cost is $20/unit, while Firm B's is $50/unit. The government wants to reduce total pollution by 2 units. Under a cap-and-trade system where each firm is initially given a mandate to reduce 1 unit, what is the most likely outcome?</p>
-      <label class="option-label" data-q="4" data-val="a"><input type="radio" name="q4" value="a"> Each firm abates 1 unit to meet its mandate.</label>
-      <label class="option-label" data-q="4" data-val="b"><input type="radio" name="q4" value="b"> Firm A abates 2 units and sells a permit to Firm B.</label>
-      <label class="option-label" data-q="4" data-val="c"><input type="radio" name="q4" value="c"> Firm B abates 2 units and sells a permit to Firm A.</label>
-      <label class="option-label" data-q="4" data-val="d"><input type="radio" name="q4" value="d"> Neither firm abates and they pay a fine instead.</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 4</div>
+      <div class="question-text">Firm A's pollution abatement cost is $20/unit, while Firm B's is $50/unit. The government wants to reduce total pollution by 2 units. Under a cap-and-trade system where each firm is initially given a mandate to reduce 1 unit, what is the most likely outcome?</div>
+      <div class="options">
+        <label class="option-label" data-q="4" data-val="a"><span class="option-key">A</span> Each firm abates 1 unit to meet its mandate.</label>
+        <label class="option-label" data-q="4" data-val="b"><span class="option-key">B</span> Firm A abates 2 units and sells a permit to Firm B.</label>
+        <label class="option-label" data-q="4" data-val="c"><span class="option-key">C</span> Firm B abates 2 units and sells a permit to Firm A.</label>
+        <label class="option-label" data-q="4" data-val="d"><span class="option-key">D</span> Neither firm abates and they pay a fine instead.</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">5. A town has two residents, Abe and Betty. Their demands for a public park are \(P_A = 10 - Q\) and \(P_B = 20 - Q\). What is the town's total willingness to pay for the 5th acre of the park?</p>
-      <label class="option-label" data-q="5" data-val="a"><input type="radio" name="q5" value="a"> $5</label>
-      <label class="option-label" data-q="5" data-val="b"><input type="radio" name="q5" value="b"> $15</label>
-      <label class="option-label" data-q="5" data-val="c"><input type="radio" name="q5" value="c"> $20</label>
-      <label class="option-label" data-q="5" data-val="d"><input type="radio" name="q5" value="d"> $30</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 5</div>
+      <div class="question-text">A town has two residents, Abe and Betty. Their demands for a public park are \(P_A = 10 - Q\) and \(P_B = 20 - Q\). What is the town's total willingness to pay for the 5th acre of the park?</div>
+      <div class="options">
+        <label class="option-label" data-q="5" data-val="a"><span class="option-key">A</span> $5</label>
+        <label class="option-label" data-q="5" data-val="b"><span class="option-key">B</span> $15</label>
+        <label class="option-label" data-q="5" data-val="c"><span class="option-key">C</span> $20</label>
+        <label class="option-label" data-q="5" data-val="d"><span class="option-key">D</span> $30</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">6. Using the information from the previous question, if the marginal cost to provide the park is constant at $18 per acre, what is the socially optimal size of the park?</p>
-      <label class="option-label" data-q="6" data-val="a"><input type="radio" name="q6" value="a"> 4 acres</label>
-      <label class="option-label" data-q="6" data-val="b"><input type="radio" name="q6" value="b"> 6 acres</label>
-      <label class="option-label" data-q="6" data-val="c"><input type="radio" name="q6" value="c"> 9 acres</label>
-      <label class="option-label" data-q="6" data-val="d"><input type="radio" name="q6" value="d"> 12 acres</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 6</div>
+      <div class="question-text">Using the information from the previous question, if the marginal cost to provide the park is constant at $18 per acre, what is the socially optimal size of the park?</div>
+      <div class="options">
+        <label class="option-label" data-q="6" data-val="a"><span class="option-key">A</span> 4 acres</label>
+        <label class="option-label" data-q="6" data-val="b"><span class="option-key">B</span> 6 acres</label>
+        <label class="option-label" data-q="6" data-val="c"><span class="option-key">C</span> 9 acres</label>
+        <label class="option-label" data-q="6" data-val="d"><span class="option-key">D</span> 12 acres</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">7. The private demand for flu shots is \(P = 25 - 0.5Q\), and the marginal cost is $10. Each shot has a positive external benefit of $5. What is the deadweight loss in the unregulated market?</p>
-      <label class="option-label" data-q="7" data-val="a"><input type="radio" name="q7" value="a"> $25</label>
-      <label class="option-label" data-q="7" data-val="b"><input type="radio" name="q7" value="b"> $50</label>
-      <label class="option-label" data-q="7" data-val="c"><input type="radio" name="q7" value="c"> $75</label>
-      <label class="option-label" data-q="7" data-val="d"><input type="radio" name="q7" value="d"> $100</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 7</div>
+      <div class="question-text">The private demand for flu shots is \(P = 25 - 0.5Q\), and the marginal cost is $10. Each shot has a positive external benefit of $5. What is the deadweight loss in the unregulated market?</div>
+      <div class="options">
+        <label class="option-label" data-q="7" data-val="a"><span class="option-key">A</span> $25</label>
+        <label class="option-label" data-q="7" data-val="b"><span class="option-key">B</span> $50</label>
+        <label class="option-label" data-q="7" data-val="c"><span class="option-key">C</span> $75</label>
+        <label class="option-label" data-q="7" data-val="d"><span class="option-key">D</span> $100</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">8. A farmer considers adding one more sheep to a common pasture. The private benefit to the farmer is $50. The cost of overgrazing imposed on the entire community of 10 farmers is $80. The rational farmer will:</p>
-      <label class="option-label" data-q="8" data-val="a"><input type="radio" name="q8" value="a"> Not add the sheep, because the social cost ($80) exceeds the social benefit ($50).</label>
-      <label class="option-label" data-q="8" data-val="b"><input type="radio" name="q8" value="b"> Add the sheep, because their private benefit ($50) exceeds their private cost ($8).</label>
-      <label class="option-label" data-q="8" data-val="c"><input type="radio" name="q8" value="c"> Not add the sheep, because the private benefit is too low.</label>
-      <label class="option-label" data-q="8" data-val="d"><input type="radio" name="q8" value="d"> Add the sheep, but only if other farmers agree not to.</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 8</div>
+      <div class="question-text">A farmer considers adding one more sheep to a common pasture. The private benefit to the farmer is $50. The cost of overgrazing imposed on the entire community of 10 farmers is $80. The rational farmer will:</div>
+      <div class="options">
+        <label class="option-label" data-q="8" data-val="a"><span class="option-key">A</span> Not add the sheep, because the social cost ($80) exceeds the social benefit ($50).</label>
+        <label class="option-label" data-q="8" data-val="b"><span class="option-key">B</span> Add the sheep, because their private benefit ($50) exceeds their private cost ($8).</label>
+        <label class="option-label" data-q="8" data-val="c"><span class="option-key">C</span> Not add the sheep, because the private benefit is too low.</label>
+        <label class="option-label" data-q="8" data-val="d"><span class="option-key">D</span> Add the sheep, but only if other farmers agree not to.</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">9. A congested city street that does not charge a toll is best described as what type of good?</p>
-      <label class="option-label" data-q="9" data-val="a"><input type="radio" name="q9" value="a"> Private Good</label>
-      <label class="option-label" data-q="9" data-val="b"><input type="radio" name="q9" value="b"> Public Good</label>
-      <label class="option-label" data-q="9" data-val="c"><input type="radio" name="q9" value="c"> Common Resource</label>
-      <label class="option-label" data-q="9" data-val="d"><input type="radio" name="q9" value="d"> Club Good</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 9</div>
+      <div class="question-text">A congested city street that does not charge a toll is best described as what type of good?</div>
+      <div class="options">
+        <label class="option-label" data-q="9" data-val="a"><span class="option-key">A</span> Private Good</label>
+        <label class="option-label" data-q="9" data-val="b"><span class="option-key">B</span> Public Good</label>
+        <label class="option-label" data-q="9" data-val="c"><span class="option-key">C</span> Common Resource</label>
+        <label class="option-label" data-q="9" data-val="d"><span class="option-key">D</span> Club Good</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch16">Chapter 16</span>
-      <p class="q-text">10. Demand for a product is \(Q_d = 100 - P\), and supply (private MC) is \(Q_s = P\). Each unit produced creates a marginal external cost of $20. What size Pigouvian tax would lead to the efficient outcome?</p>
-      <label class="option-label" data-q="10" data-val="a"><input type="radio" name="q10" value="a"> $10</label>
-      <label class="option-label" data-q="10" data-val="b"><input type="radio" name="q10" value="b"> $20</label>
-      <label class="option-label" data-q="10" data-val="c"><input type="radio" name="q10" value="c"> $40</label>
-      <label class="option-label" data-q="10" data-val="d"><input type="radio" name="q10" value="d"> $50</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 16</div>
+      <div class="question-num">Question 10</div>
+      <div class="question-text">Demand for a product is \(Q_d = 100 - P\), and supply (private MC) is \(Q_s = P\). Each unit produced creates a marginal external cost of $20. What size Pigouvian tax would lead to the efficient outcome?</div>
+      <div class="options">
+        <label class="option-label" data-q="10" data-val="a"><span class="option-key">A</span> $10</label>
+        <label class="option-label" data-q="10" data-val="b"><span class="option-key">B</span> $20</label>
+        <label class="option-label" data-q="10" data-val="c"><span class="option-key">C</span> $40</label>
+        <label class="option-label" data-q="10" data-val="d"><span class="option-key">D</span> $50</label>
+      </div>
     </div>
 
-    <!-- ── CHAPTER 19 ── 10 questions ──────────────────────────────── -->
-
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">11. A country's tax system is: 10% on income up to $20,000; 20% on income from $20,001 to $50,000; and 30% on income above $50,000. If a person earns $70,000, what is their average tax rate?</p>
-      <label class="option-label" data-q="11" data-val="a"><input type="radio" name="q11" value="a"> 15%</label>
-      <label class="option-label" data-q="11" data-val="b"><input type="radio" name="q11" value="b"> 20%</label>
-      <label class="option-label" data-q="11" data-val="c"><input type="radio" name="q11" value="c"> 25%</label>
-      <label class="option-label" data-q="11" data-val="d"><input type="radio" name="q11" value="d"> 30%</label>
+    <!-- CHAPTER 19 -->
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 11</div>
+      <div class="question-text">A country's tax system is: 10% on income up to $20,000; 20% on income from $20,001 to $50,000; and 30% on income above $50,000. If a person earns $70,000, what is their average tax rate?</div>
+      <div class="options">
+        <label class="option-label" data-q="11" data-val="a"><span class="option-key">A</span> 15%</label>
+        <label class="option-label" data-q="11" data-val="b"><span class="option-key">B</span> 20%</label>
+        <label class="option-label" data-q="11" data-val="c"><span class="option-key">C</span> 25%</label>
+        <label class="option-label" data-q="11" data-val="d"><span class="option-key">D</span> 30%</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">12. Using the tax system from the previous question, what is the marginal tax rate for someone earning $45,000 who considers working overtime to earn an extra $1,000?</p>
-      <label class="option-label" data-q="12" data-val="a"><input type="radio" name="q12" value="a"> 10%</label>
-      <label class="option-label" data-q="12" data-val="b"><input type="radio" name="q12" value="b"> 20%</label>
-      <label class="option-label" data-q="12" data-val="c"><input type="radio" name="q12" value="c"> 25%</label>
-      <label class="option-label" data-q="12" data-val="d"><input type="radio" name="q12" value="d"> 30%</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 12</div>
+      <div class="question-text">Using the tax system from the previous question, what is the marginal tax rate for someone earning $45,000 who considers working overtime to earn an extra $1,000?</div>
+      <div class="options">
+        <label class="option-label" data-q="12" data-val="a"><span class="option-key">A</span> 10%</label>
+        <label class="option-label" data-q="12" data-val="b"><span class="option-key">B</span> 20%</label>
+        <label class="option-label" data-q="12" data-val="c"><span class="option-key">C</span> 25%</label>
+        <label class="option-label" data-q="12" data-val="d"><span class="option-key">D</span> 30%</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">13. Demand for gasoline is \(Q_d = 150 - 25P\) and supply is \(Q_s = 50P\). If a $1.50 per gallon excise tax is imposed on suppliers, how much of the tax burden falls on consumers?</p>
-      <label class="option-label" data-q="13" data-val="a"><input type="radio" name="q13" value="a"> $0.50</label>
-      <label class="option-label" data-q="13" data-val="b"><input type="radio" name="q13" value="b"> $0.75</label>
-      <label class="option-label" data-q="13" data-val="c"><input type="radio" name="q13" value="c"> $1.00</label>
-      <label class="option-label" data-q="13" data-val="d"><input type="radio" name="q13" value="d"> $1.50</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 13</div>
+      <div class="question-text">Demand for gasoline is \(Q_d = 150 - 25P\) and supply is \(Q_s = 50P\). If a $1.50 per gallon excise tax is imposed on suppliers, how much of the tax burden falls on consumers?</div>
+      <div class="options">
+        <label class="option-label" data-q="13" data-val="a"><span class="option-key">A</span> $0.50</label>
+        <label class="option-label" data-q="13" data-val="b"><span class="option-key">B</span> $0.75</label>
+        <label class="option-label" data-q="13" data-val="c"><span class="option-key">C</span> $1.00</label>
+        <label class="option-label" data-q="13" data-val="d"><span class="option-key">D</span> $1.50</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">14. Using the information from the previous question, what is the deadweight loss (excess burden) of the gasoline tax?</p>
-      <label class="option-label" data-q="14" data-val="a"><input type="radio" name="q14" value="a"> $12.50</label>
-      <label class="option-label" data-q="14" data-val="b"><input type="radio" name="q14" value="b"> $18.75</label>
-      <label class="option-label" data-q="14" data-val="c"><input type="radio" name="q14" value="c"> $25.00</label>
-      <label class="option-label" data-q="14" data-val="d"><input type="radio" name="q14" value="d"> $37.50</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 14</div>
+      <div class="question-text">Using the information from the previous question, what is the deadweight loss (excess burden) of the gasoline tax?</div>
+      <div class="options">
+        <label class="option-label" data-q="14" data-val="a"><span class="option-key">A</span> $12.50</label>
+        <label class="option-label" data-q="14" data-val="b"><span class="option-key">B</span> $18.75</label>
+        <label class="option-label" data-q="14" data-val="c"><span class="option-key">C</span> $25.00</label>
+        <label class="option-label" data-q="14" data-val="d"><span class="option-key">D</span> $37.50</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">15. A city imposes a $100 annual "wheel tax" on every car owner. Person A earns $20,000 and owns one car. Person B earns $100,000 and owns one car. This tax is regressive because their average tax rates are:</p>
-      <label class="option-label" data-q="15" data-val="a"><input type="radio" name="q15" value="a"> 0.5% for A and 0.1% for B</label>
-      <label class="option-label" data-q="15" data-val="b"><input type="radio" name="q15" value="b"> 1.0% for A and 0.5% for B</label>
-      <label class="option-label" data-q="15" data-val="c"><input type="radio" name="q15" value="c"> 0.5% for both A and B</label>
-      <label class="option-label" data-q="15" data-val="d"><input type="radio" name="q15" value="d"> 0.1% for both A and B</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 15</div>
+      <div class="question-text">A city imposes a $100 annual "wheel tax" on every car owner. Person A earns $20,000 and owns one car. Person B earns $100,000 and owns one car. This tax is regressive because their average tax rates are:</div>
+      <div class="options">
+        <label class="option-label" data-q="15" data-val="a"><span class="option-key">A</span> 0.5% for A and 0.1% for B</label>
+        <label class="option-label" data-q="15" data-val="b"><span class="option-key">B</span> 1.0% for A and 0.5% for B</label>
+        <label class="option-label" data-q="15" data-val="c"><span class="option-key">C</span> 0.5% for both A and B</label>
+        <label class="option-label" data-q="15" data-val="d"><span class="option-key">D</span> 0.1% for both A and B</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">16. A corporate profits tax is levied only on firms in Sector X. Initially, the after-tax rate of return is 10% in the untaxed Sector Y and 6% in Sector X. What is the most likely long-run adjustment?</p>
-      <label class="option-label" data-q="16" data-val="a"><input type="radio" name="q16" value="a"> Capital will flow from Sector Y to Sector X, equalizing returns.</label>
-      <label class="option-label" data-q="16" data-val="b"><input type="radio" name="q16" value="b"> Capital will flow from Sector X to Sector Y, equalizing returns.</label>
-      <label class="option-label" data-q="16" data-val="c"><input type="radio" name="q16" value="c"> Wages in Sector X will rise to compensate for lower profits.</label>
-      <label class="option-label" data-q="16" data-val="d"><input type="radio" name="q16" value="d"> The government will remove the tax due to the imbalance.</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 16</div>
+      <div class="question-text">A corporate profits tax is levied only on firms in Sector X. Initially, the after-tax rate of return is 10% in the untaxed Sector Y and 6% in Sector X. What is the most likely long-run adjustment?</div>
+      <div class="options">
+        <label class="option-label" data-q="16" data-val="a"><span class="option-key">A</span> Capital will flow from Sector Y to Sector X, equalizing returns.</label>
+        <label class="option-label" data-q="16" data-val="b"><span class="option-key">B</span> Capital will flow from Sector X to Sector Y, equalizing returns.</label>
+        <label class="option-label" data-q="16" data-val="c"><span class="option-key">C</span> Wages in Sector X will rise to compensate for lower profits.</label>
+        <label class="option-label" data-q="16" data-val="d"><span class="option-key">D</span> The government will remove the tax due to the imbalance.</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">17. A taxpayer in the 35% marginal tax bracket makes a $1,000 tax-deductible charitable contribution. By how much does this contribution reduce their final tax bill?</p>
-      <label class="option-label" data-q="17" data-val="a"><input type="radio" name="q17" value="a"> $0</label>
-      <label class="option-label" data-q="17" data-val="b"><input type="radio" name="q17" value="b"> $350</label>
-      <label class="option-label" data-q="17" data-val="c"><input type="radio" name="q17" value="c"> $650</label>
-      <label class="option-label" data-q="17" data-val="d"><input type="radio" name="q17" value="d"> $1,000</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 17</div>
+      <div class="question-text">A taxpayer in the 35% marginal tax bracket makes a $1,000 tax-deductible charitable contribution. By how much does this contribution reduce their final tax bill?</div>
+      <div class="options">
+        <label class="option-label" data-q="17" data-val="a"><span class="option-key">A</span> $0</label>
+        <label class="option-label" data-q="17" data-val="b"><span class="option-key">B</span> $350</label>
+        <label class="option-label" data-q="17" data-val="c"><span class="option-key">C</span> $650</label>
+        <label class="option-label" data-q="17" data-val="d"><span class="option-key">D</span> $1,000</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">18. An individual earns a $60,000 salary, receives $5,000 in stock dividends, and their stock portfolio increases in value by $10,000 (which they do not sell). What is their economic income for the year?</p>
-      <label class="option-label" data-q="18" data-val="a"><input type="radio" name="q18" value="a"> $60,000</label>
-      <label class="option-label" data-q="18" data-val="b"><input type="radio" name="q18" value="b"> $65,000</label>
-      <label class="option-label" data-q="18" data-val="c"><input type="radio" name="q18" value="c"> $75,000</label>
-      <label class="option-label" data-q="18" data-val="d"><input type="radio" name="q18" value="d"> $5,000</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 18</div>
+      <div class="question-text">An individual earns a $60,000 salary, receives $5,000 in stock dividends, and their stock portfolio increases in value by $10,000 (which they do not sell). What is their economic income for the year?</div>
+      <div class="options">
+        <label class="option-label" data-q="18" data-val="a"><span class="option-key">A</span> $60,000</label>
+        <label class="option-label" data-q="18" data-val="b"><span class="option-key">B</span> $65,000</label>
+        <label class="option-label" data-q="18" data-val="c"><span class="option-key">C</span> $75,000</label>
+        <label class="option-label" data-q="18" data-val="d"><span class="option-key">D</span> $5,000</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">19. A $1 tax is imposed on two goods. Demand for Good A is perfectly inelastic. Demand for Good B is highly elastic. The excess burden (deadweight loss) of the tax will be:</p>
-      <label class="option-label" data-q="19" data-val="a"><input type="radio" name="q19" value="a"> Larger for Good A</label>
-      <label class="option-label" data-q="19" data-val="b"><input type="radio" name="q19" value="b"> Larger for Good B</label>
-      <label class="option-label" data-q="19" data-val="c"><input type="radio" name="q19" value="c"> The same for both goods</label>
-      <label class="option-label" data-q="19" data-val="d"><input type="radio" name="q19" value="d"> Zero for both goods</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 19</div>
+      <div class="question-text">A $1 tax is imposed on two goods. Demand for Good A is perfectly inelastic. Demand for Good B is highly elastic. The excess burden (deadweight loss) of the tax will be:</div>
+      <div class="options">
+        <label class="option-label" data-q="19" data-val="a"><span class="option-key">A</span> Larger for Good A</label>
+        <label class="option-label" data-q="19" data-val="b"><span class="option-key">B</span> Larger for Good B</label>
+        <label class="option-label" data-q="19" data-val="c"><span class="option-key">C</span> The same for both goods</label>
+        <label class="option-label" data-q="19" data-val="d"><span class="option-key">D</span> Zero for both goods</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch19">Chapter 19</span>
-      <p class="q-text">20. A payroll tax is levied on employers. If labor supply is very inelastic and labor demand is elastic, who bears most of the tax burden?</p>
-      <label class="option-label" data-q="20" data-val="a"><input type="radio" name="q20" value="a"> Employers</label>
-      <label class="option-label" data-q="20" data-val="b"><input type="radio" name="q20" value="b"> Workers</label>
-      <label class="option-label" data-q="20" data-val="c"><input type="radio" name="q20" value="c"> Consumers of the firm's product</label>
-      <label class="option-label" data-q="20" data-val="d"><input type="radio" name="q20" value="d"> The burden is split equally</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 19</div>
+      <div class="question-num">Question 20</div>
+      <div class="question-text">A payroll tax is levied on employers. If labor supply is very inelastic and labor demand is elastic, who bears most of the tax burden?</div>
+      <div class="options">
+        <label class="option-label" data-q="20" data-val="a"><span class="option-key">A</span> Employers</label>
+        <label class="option-label" data-q="20" data-val="b"><span class="option-key">B</span> Workers</label>
+        <label class="option-label" data-q="20" data-val="c"><span class="option-key">C</span> Consumers of the firm's product</label>
+        <label class="option-label" data-q="20" data-val="d"><span class="option-key">D</span> The burden is split equally</label>
+      </div>
     </div>
 
-    <!-- ── CHAPTER 20 ── 10 questions ──────────────────────────────── -->
-
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">21. An economy has a total population of 100 million, a labor force of 60 million, and 57 million employed people. What is the unemployment rate?</p>
-      <label class="option-label" data-q="21" data-val="a"><input type="radio" name="q21" value="a"> 3.0%</label>
-      <label class="option-label" data-q="21" data-val="b"><input type="radio" name="q21" value="b"> 5.0%</label>
-      <label class="option-label" data-q="21" data-val="c"><input type="radio" name="q21" value="c"> 5.7%</label>
-      <label class="option-label" data-q="21" data-val="d"><input type="radio" name="q21" value="d"> 43.0%</label>
+    <!-- CHAPTER 20 -->
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 21</div>
+      <div class="question-text">An economy has a total population of 100 million, a labor force of 60 million, and 57 million employed people. What is the unemployment rate?</div>
+      <div class="options">
+        <label class="option-label" data-q="21" data-val="a"><span class="option-key">A</span> 3.0%</label>
+        <label class="option-label" data-q="21" data-val="b"><span class="option-key">B</span> 5.0%</label>
+        <label class="option-label" data-q="21" data-val="c"><span class="option-key">C</span> 5.7%</label>
+        <label class="option-label" data-q="21" data-val="d"><span class="option-key">D</span> 43.0%</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">22. Using the data from the previous question, what is the labor force participation rate?</p>
-      <label class="option-label" data-q="22" data-val="a"><input type="radio" name="q22" value="a"> 57%</label>
-      <label class="option-label" data-q="22" data-val="b"><input type="radio" name="q22" value="b"> 60%</label>
-      <label class="option-label" data-q="22" data-val="c"><input type="radio" name="q22" value="c"> 95%</label>
-      <label class="option-label" data-q="22" data-val="d"><input type="radio" name="q22" value="d"> 100%</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 22</div>
+      <div class="question-text">Using the data from the previous question, what is the labor force participation rate?</div>
+      <div class="options">
+        <label class="option-label" data-q="22" data-val="a"><span class="option-key">A</span> 57%</label>
+        <label class="option-label" data-q="22" data-val="b"><span class="option-key">B</span> 60%</label>
+        <label class="option-label" data-q="22" data-val="c"><span class="option-key">C</span> 95%</label>
+        <label class="option-label" data-q="22" data-val="d"><span class="option-key">D</span> 100%</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">23. An economy's real GDP is $10T in Q1, $9.9T in Q2, $9.8T in Q3, and $9.85T in Q4. Which quarter most likely represents the trough of the business cycle?</p>
-      <label class="option-label" data-q="23" data-val="a"><input type="radio" name="q23" value="a"> Q1</label>
-      <label class="option-label" data-q="23" data-val="b"><input type="radio" name="q23" value="b"> Q2</label>
-      <label class="option-label" data-q="23" data-val="c"><input type="radio" name="q23" value="c"> Q3</label>
-      <label class="option-label" data-q="23" data-val="d"><input type="radio" name="q23" value="d"> Q4</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 23</div>
+      <div class="question-text">An economy's real GDP is $10T in Q1, $9.9T in Q2, $9.8T in Q3, and $9.85T in Q4. Which quarter most likely represents the trough of the business cycle?</div>
+      <div class="options">
+        <label class="option-label" data-q="23" data-val="a"><span class="option-key">A</span> Q1</label>
+        <label class="option-label" data-q="23" data-val="b"><span class="option-key">B</span> Q2</label>
+        <label class="option-label" data-q="23" data-val="c"><span class="option-key">C</span> Q3</label>
+        <label class="option-label" data-q="23" data-val="d"><span class="option-key">D</span> Q4</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">24. In the circular flow of income, which of the following is an "injection" into the spending stream?</p>
-      <label class="option-label" data-q="24" data-val="a"><input type="radio" name="q24" value="a"> Household saving</label>
-      <label class="option-label" data-q="24" data-val="b"><input type="radio" name="q24" value="b"> Taxes paid to the government</label>
-      <label class="option-label" data-q="24" data-val="c"><input type="radio" name="q24" value="c"> Government spending on roads</label>
-      <label class="option-label" data-q="24" data-val="d"><input type="radio" name="q24" value="d"> Spending on imported goods</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 24</div>
+      <div class="question-text">In the circular flow of income, which of the following is an "injection" into the spending stream?</div>
+      <div class="options">
+        <label class="option-label" data-q="24" data-val="a"><span class="option-key">A</span> Household saving</label>
+        <label class="option-label" data-q="24" data-val="b"><span class="option-key">B</span> Taxes paid to the government</label>
+        <label class="option-label" data-q="24" data-val="c"><span class="option-key">C</span> Government spending on roads</label>
+        <label class="option-label" data-q="24" data-val="d"><span class="option-key">D</span> Spending on imported goods</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">25. The overall price level in an economy was 110 in Year 1 and 105 in Year 2. This change is best described as:</p>
-      <label class="option-label" data-q="25" data-val="a"><input type="radio" name="q25" value="a"> Inflation</label>
-      <label class="option-label" data-q="25" data-val="b"><input type="radio" name="q25" value="b"> Deflation</label>
-      <label class="option-label" data-q="25" data-val="c"><input type="radio" name="q25" value="c"> Stagflation</label>
-      <label class="option-label" data-q="25" data-val="d"><input type="radio" name="q25" value="d"> Hyperinflation</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 25</div>
+      <div class="question-text">The overall price level in an economy was 110 in Year 1 and 105 in Year 2. This change is best described as:</div>
+      <div class="options">
+        <label class="option-label" data-q="25" data-val="a"><span class="option-key">A</span> Inflation</label>
+        <label class="option-label" data-q="25" data-val="b"><span class="option-key">B</span> Deflation</label>
+        <label class="option-label" data-q="25" data-val="c"><span class="option-key">C</span> Stagflation</label>
+        <label class="option-label" data-q="25" data-val="d"><span class="option-key">D</span> Hyperinflation</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">26. To combat a recession, the government cuts taxes and increases its spending. This is an example of:</p>
-      <label class="option-label" data-q="26" data-val="a"><input type="radio" name="q26" value="a"> Expansionary fiscal policy</label>
-      <label class="option-label" data-q="26" data-val="b"><input type="radio" name="q26" value="b"> Contractionary fiscal policy</label>
-      <label class="option-label" data-q="26" data-val="c"><input type="radio" name="q26" value="c"> Expansionary monetary policy</label>
-      <label class="option-label" data-q="26" data-val="d"><input type="radio" name="q26" value="d"> Contractionary monetary policy</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 26</div>
+      <div class="question-text">To combat a recession, the government cuts taxes and increases its spending. This is an example of:</div>
+      <div class="options">
+        <label class="option-label" data-q="26" data-val="a"><span class="option-key">A</span> Expansionary fiscal policy</label>
+        <label class="option-label" data-q="26" data-val="b"><span class="option-key">B</span> Contractionary fiscal policy</label>
+        <label class="option-label" data-q="26" data-val="c"><span class="option-key">C</span> Expansionary monetary policy</label>
+        <label class="option-label" data-q="26" data-val="d"><span class="option-key">D</span> Contractionary monetary policy</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">27. To combat high inflation, the central bank raises interest rates. This is an example of:</p>
-      <label class="option-label" data-q="27" data-val="a"><input type="radio" name="q27" value="a"> Expansionary fiscal policy</label>
-      <label class="option-label" data-q="27" data-val="b"><input type="radio" name="q27" value="b"> Contractionary fiscal policy</label>
-      <label class="option-label" data-q="27" data-val="c"><input type="radio" name="q27" value="c"> Expansionary monetary policy</label>
-      <label class="option-label" data-q="27" data-val="d"><input type="radio" name="q27" value="d"> Contractionary monetary policy</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 27</div>
+      <div class="question-text">To combat high inflation, the central bank raises interest rates. This is an example of:</div>
+      <div class="options">
+        <label class="option-label" data-q="27" data-val="a"><span class="option-key">A</span> Expansionary fiscal policy</label>
+        <label class="option-label" data-q="27" data-val="b"><span class="option-key">B</span> Contractionary fiscal policy</label>
+        <label class="option-label" data-q="27" data-val="c"><span class="option-key">C</span> Expansionary monetary policy</label>
+        <label class="option-label" data-q="27" data-val="d"><span class="option-key">D</span> Contractionary monetary policy</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">28. In a severe recession, millions of workers are unemployed and willing to work for less than the current wage, but wages don't fall quickly. This situation is an example of:</p>
-      <label class="option-label" data-q="28" data-val="a"><input type="radio" name="q28" value="a"> A business cycle peak</label>
-      <label class="option-label" data-q="28" data-val="b"><input type="radio" name="q28" value="b"> Sticky wages</label>
-      <label class="option-label" data-q="28" data-val="c"><input type="radio" name="q28" value="c"> High inflation</label>
-      <label class="option-label" data-q="28" data-val="d"><input type="radio" name="q28" value="d"> Fiscal policy failure</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 28</div>
+      <div class="question-text">In a severe recession, millions of workers are unemployed and willing to work for less than the current wage, but wages don't fall quickly. This situation is an example of:</div>
+      <div class="options">
+        <label class="option-label" data-q="28" data-val="a"><span class="option-key">A</span> A business cycle peak</label>
+        <label class="option-label" data-q="28" data-val="b"><span class="option-key">B</span> Sticky wages</label>
+        <label class="option-label" data-q="28" data-val="c"><span class="option-key">C</span> High inflation</label>
+        <label class="option-label" data-q="28" data-val="d"><span class="option-key">D</span> Fiscal policy failure</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">29. Which of the following is a government transfer payment and is NOT included in the 'G' component of GDP?</p>
-      <label class="option-label" data-q="29" data-val="a"><input type="radio" name="q29" value="a"> The salary of a military general</label>
-      <label class="option-label" data-q="29" data-val="b"><input type="radio" name="q29" value="b"> The construction of a new highway</label>
-      <label class="option-label" data-q="29" data-val="c"><input type="radio" name="q29" value="c"> A Social Security check sent to a retiree</label>
-      <label class="option-label" data-q="29" data-val="d"><input type="radio" name="q29" value="d"> A new computer for the Department of Commerce</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 29</div>
+      <div class="question-text">Which of the following is a government transfer payment and is NOT included in the 'G' component of GDP?</div>
+      <div class="options">
+        <label class="option-label" data-q="29" data-val="a"><span class="option-key">A</span> The salary of a military general</label>
+        <label class="option-label" data-q="29" data-val="b"><span class="option-key">B</span> The construction of a new highway</label>
+        <label class="option-label" data-q="29" data-val="c"><span class="option-key">C</span> A Social Security check sent to a retiree</label>
+        <label class="option-label" data-q="29" data-val="d"><span class="option-key">D</span> A new computer for the Department of Commerce</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch20">Chapter 20</span>
-      <p class="q-text">30. According to Keynesian theory, if the economy is in a deep recession, the most appropriate government response is to:</p>
-      <label class="option-label" data-q="30" data-val="a"><input type="radio" name="q30" value="a"> Wait for wages to fall and the market to self-correct.</label>
-      <label class="option-label" data-q="30" data-val="b"><input type="radio" name="q30" value="b"> Increase government spending to boost aggregate demand.</label>
-      <label class="option-label" data-q="30" data-val="c"><input type="radio" name="q30" value="c"> Raise interest rates to encourage saving.</label>
-      <label class="option-label" data-q="30" data-val="d"><input type="radio" name="q30" value="d"> Balance the budget by raising taxes.</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 20</div>
+      <div class="question-num">Question 30</div>
+      <div class="question-text">According to Keynesian theory, if the economy is in a deep recession, the most appropriate government response is to:</div>
+      <div class="options">
+        <label class="option-label" data-q="30" data-val="a"><span class="option-key">A</span> Wait for wages to fall and the market to self-correct.</label>
+        <label class="option-label" data-q="30" data-val="b"><span class="option-key">B</span> Increase government spending to boost aggregate demand.</label>
+        <label class="option-label" data-q="30" data-val="c"><span class="option-key">C</span> Raise interest rates to encourage saving.</label>
+        <label class="option-label" data-q="30" data-val="d"><span class="option-key">D</span> Balance the budget by raising taxes.</label>
+      </div>
     </div>
 
-    <!-- ── CHAPTER 21 ── 10 questions ──────────────────────────────── -->
-
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">31. Given: C=$7000, I=$1500, G=$2000, Exports=$500, Imports=$800, Depreciation=$300. What is the Gross Domestic Product (GDP)?</p>
-      <label class="option-label" data-q="31" data-val="a"><input type="radio" name="q31" value="a"> $9,900</label>
-      <label class="option-label" data-q="31" data-val="b"><input type="radio" name="q31" value="b"> $10,200</label>
-      <label class="option-label" data-q="31" data-val="c"><input type="radio" name="q31" value="c"> $10,500</label>
-      <label class="option-label" data-q="31" data-val="d"><input type="radio" name="q31" value="d"> $11,800</label>
+    <!-- CHAPTER 21 -->
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 31</div>
+      <div class="question-text">Given: C=$7000, I=$1500, G=$2000, Exports=$500, Imports=$800, Depreciation=$300. What is the Gross Domestic Product (GDP)?</div>
+      <div class="options">
+        <label class="option-label" data-q="31" data-val="a"><span class="option-key">A</span> $9,900</label>
+        <label class="option-label" data-q="31" data-val="b"><span class="option-key">B</span> $10,200</label>
+        <label class="option-label" data-q="31" data-val="c"><span class="option-key">C</span> $10,500</label>
+        <label class="option-label" data-q="31" data-val="d"><span class="option-key">D</span> $11,800</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">32. Using the data from the previous question, what is the Net National Product (NNP), assuming net factor income from abroad is zero?</p>
-      <label class="option-label" data-q="32" data-val="a"><input type="radio" name="q32" value="a"> $1,200</label>
-      <label class="option-label" data-q="32" data-val="b"><input type="radio" name="q32" value="b"> $9,900</label>
-      <label class="option-label" data-q="32" data-val="c"><input type="radio" name="q32" value="c"> $10,200</label>
-      <label class="option-label" data-q="32" data-val="d"><input type="radio" name="q32" value="d"> $10,500</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 32</div>
+      <div class="question-text">Using the data from the previous question, what is the Net National Product (NNP), assuming net factor income from abroad is zero?</div>
+      <div class="options">
+        <label class="option-label" data-q="32" data-val="a"><span class="option-key">A</span> $1,200</label>
+        <label class="option-label" data-q="32" data-val="b"><span class="option-key">B</span> $9,900</label>
+        <label class="option-label" data-q="32" data-val="c"><span class="option-key">C</span> $10,200</label>
+        <label class="option-label" data-q="32" data-val="d"><span class="option-key">D</span> $10,500</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">33. A logger sells wood to a sawmill for $100. The sawmill sells lumber to a furniture maker for $250. The maker sells a table to a retailer for $600, who then sells it for $900. What is the total value added?</p>
-      <label class="option-label" data-q="33" data-val="a"><input type="radio" name="q33" value="a"> $250</label>
-      <label class="option-label" data-q="33" data-val="b"><input type="radio" name="q33" value="b"> $600</label>
-      <label class="option-label" data-q="33" data-val="c"><input type="radio" name="q33" value="c"> $900</label>
-      <label class="option-label" data-q="33" data-val="d"><input type="radio" name="q33" value="d"> $1,850</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 33</div>
+      <div class="question-text">A logger sells wood to a sawmill for $100. The sawmill sells lumber to a furniture maker for $250. The maker sells a table to a retailer for $600, who then sells it for $900. What is the total value added?</div>
+      <div class="options">
+        <label class="option-label" data-q="33" data-val="a"><span class="option-key">A</span> $250</label>
+        <label class="option-label" data-q="33" data-val="b"><span class="option-key">B</span> $600</label>
+        <label class="option-label" data-q="33" data-val="c"><span class="option-key">C</span> $900</label>
+        <label class="option-label" data-q="33" data-val="d"><span class="option-key">D</span> $1,850</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">34. An economy produces 100 apples at $2/apple and 50 oranges at $3/orange. What is the nominal GDP?</p>
-      <label class="option-label" data-q="34" data-val="a"><input type="radio" name="q34" value="a"> $150</label>
-      <label class="option-label" data-q="34" data-val="b"><input type="radio" name="q34" value="b"> $200</label>
-      <label class="option-label" data-q="34" data-val="c"><input type="radio" name="q34" value="c"> $350</label>
-      <label class="option-label" data-q="34" data-val="d"><input type="radio" name="q34" value="d"> $500</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 34</div>
+      <div class="question-text">An economy produces 100 apples at $2/apple and 50 oranges at $3/orange. What is the nominal GDP?</div>
+      <div class="options">
+        <label class="option-label" data-q="34" data-val="a"><span class="option-key">A</span> $150</label>
+        <label class="option-label" data-q="34" data-val="b"><span class="option-key">B</span> $200</label>
+        <label class="option-label" data-q="34" data-val="c"><span class="option-key">C</span> $350</label>
+        <label class="option-label" data-q="34" data-val="d"><span class="option-key">D</span> $500</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">35. Year 1: 100 apples at $2, 50 oranges at $3. Year 2: 120 apples at $2.50, 60 oranges at $3.50. Using Year 1 as the base year, what is Real GDP in Year 2?</p>
-      <label class="option-label" data-q="35" data-val="a"><input type="radio" name="q35" value="a"> $350</label>
-      <label class="option-label" data-q="35" data-val="b"><input type="radio" name="q35" value="b"> $420</label>
-      <label class="option-label" data-q="35" data-val="c"><input type="radio" name="q35" value="c"> $510</label>
-      <label class="option-label" data-q="35" data-val="d"><input type="radio" name="q35" value="d"> $550</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 35</div>
+      <div class="question-text">Year 1: 100 apples at $2, 50 oranges at $3. Year 2: 120 apples at $2.50, 60 oranges at $3.50. Using Year 1 as the base year, what is Real GDP in Year 2?</div>
+      <div class="options">
+        <label class="option-label" data-q="35" data-val="a"><span class="option-key">A</span> $350</label>
+        <label class="option-label" data-q="35" data-val="b"><span class="option-key">B</span> $420</label>
+        <label class="option-label" data-q="35" data-val="c"><span class="option-key">C</span> $510</label>
+        <label class="option-label" data-q="35" data-val="d"><span class="option-key">D</span> $550</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">36. Using the data from the previous two questions, what is the real GDP growth rate from Year 1 to Year 2?</p>
-      <label class="option-label" data-q="36" data-val="a"><input type="radio" name="q36" value="a"> 15.0%</label>
-      <label class="option-label" data-q="36" data-val="b"><input type="radio" name="q36" value="b"> 20.0%</label>
-      <label class="option-label" data-q="36" data-val="c"><input type="radio" name="q36" value="c"> 31.4%</label>
-      <label class="option-label" data-q="36" data-val="d"><input type="radio" name="q36" value="d"> 45.7%</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 36</div>
+      <div class="question-text">Using the data from the previous two questions, what is the real GDP growth rate from Year 1 to Year 2?</div>
+      <div class="options">
+        <label class="option-label" data-q="36" data-val="a"><span class="option-key">A</span> 15.0%</label>
+        <label class="option-label" data-q="36" data-val="b"><span class="option-key">B</span> 20.0%</label>
+        <label class="option-label" data-q="36" data-val="c"><span class="option-key">C</span> 31.4%</label>
+        <label class="option-label" data-q="36" data-val="d"><span class="option-key">D</span> 45.7%</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">37. Using the data from the previous questions, what is the GDP deflator for Year 2?</p>
-      <label class="option-label" data-q="37" data-val="a"><input type="radio" name="q37" value="a"> 100.0</label>
-      <label class="option-label" data-q="37" data-val="b"><input type="radio" name="q37" value="b"> 115.5</label>
-      <label class="option-label" data-q="37" data-val="c"><input type="radio" name="q37" value="c"> 121.4</label>
-      <label class="option-label" data-q="37" data-val="d"><input type="radio" name="q37" value="d"> 145.7</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 37</div>
+      <div class="question-text">Using the data from the previous questions, what is the GDP deflator for Year 2?</div>
+      <div class="options">
+        <label class="option-label" data-q="37" data-val="a"><span class="option-key">A</span> 100.0</label>
+        <label class="option-label" data-q="37" data-val="b"><span class="option-key">B</span> 115.5</label>
+        <label class="option-label" data-q="37" data-val="c"><span class="option-key">C</span> 121.4</label>
+        <label class="option-label" data-q="37" data-val="d"><span class="option-key">D</span> 145.7</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">38. Given: National Income = $12,000B; Retained Corporate Earnings = $500B; Personal Taxes = $1,500B. What is Disposable Personal Income?</p>
-      <label class="option-label" data-q="38" data-val="a"><input type="radio" name="q38" value="a"> $10,000B</label>
-      <label class="option-label" data-q="38" data-val="b"><input type="radio" name="q38" value="b"> $10,500B</label>
-      <label class="option-label" data-q="38" data-val="c"><input type="radio" name="q38" value="c"> $11,500B</label>
-      <label class="option-label" data-q="38" data-val="d"><input type="radio" name="q38" value="d"> $12,000B</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 38</div>
+      <div class="question-text">Given: National Income = $12,000B; Retained Corporate Earnings = $500B; Personal Taxes = $1,500B. What is Disposable Personal Income?</div>
+      <div class="options">
+        <label class="option-label" data-q="38" data-val="a"><span class="option-key">A</span> $10,000B</label>
+        <label class="option-label" data-q="38" data-val="b"><span class="option-key">B</span> $10,500B</label>
+        <label class="option-label" data-q="38" data-val="c"><span class="option-key">C</span> $11,500B</label>
+        <label class="option-label" data-q="38" data-val="d"><span class="option-key">D</span> $12,000B</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">39. If Disposable Personal Income is $10,000B, Personal Consumption is $9,200B, and other personal outlays are $300B, what is the personal saving rate?</p>
-      <label class="option-label" data-q="39" data-val="a"><input type="radio" name="q39" value="a"> 2.5%</label>
-      <label class="option-label" data-q="39" data-val="b"><input type="radio" name="q39" value="b"> 5.0%</label>
-      <label class="option-label" data-q="39" data-val="c"><input type="radio" name="q39" value="c"> 8.0%</label>
-      <label class="option-label" data-q="39" data-val="d"><input type="radio" name="q39" value="d"> 10.0%</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 39</div>
+      <div class="question-text">If Disposable Personal Income is $10,000B, Personal Consumption is $9,200B, and other personal outlays are $300B, what is the personal saving rate?</div>
+      <div class="options">
+        <label class="option-label" data-q="39" data-val="a"><span class="option-key">A</span> 2.5%</label>
+        <label class="option-label" data-q="39" data-val="b"><span class="option-key">B</span> 5.0%</label>
+        <label class="option-label" data-q="39" data-val="c"><span class="option-key">C</span> 8.0%</label>
+        <label class="option-label" data-q="39" data-val="d"><span class="option-key">D</span> 10.0%</label>
+      </div>
     </div>
 
-    <div class="quiz-question">
-      <span class="chapter-tag ch21">Chapter 21</span>
-      <p class="q-text">40. In a given year, an economy's Nominal GDP is $20 trillion and its GDP deflator is 125. What is the Real GDP?</p>
-      <label class="option-label" data-q="40" data-val="a"><input type="radio" name="q40" value="a"> $16 trillion</label>
-      <label class="option-label" data-q="40" data-val="b"><input type="radio" name="q40" value="b"> $20 trillion</label>
-      <label class="option-label" data-q="40" data-val="c"><input type="radio" name="q40" value="c"> $25 trillion</label>
-      <label class="option-label" data-q="40" data-val="d"><input type="radio" name="q40" value="d"> $125 trillion</label>
+    <div class="question-block">
+      <div class="chapter-tag">Chapter 21</div>
+      <div class="question-num">Question 40</div>
+      <div class="question-text">In a given year, an economy's Nominal GDP is $20 trillion and its GDP deflator is 125. What is the Real GDP?</div>
+      <div class="options">
+        <label class="option-label" data-q="40" data-val="a"><span class="option-key">A</span> $16 trillion</label>
+        <label class="option-label" data-q="40" data-val="b"><span class="option-key">B</span> $20 trillion</label>
+        <label class="option-label" data-q="40" data-val="c"><span class="option-key">C</span> $25 trillion</label>
+        <label class="option-label" data-q="40" data-val="d"><span class="option-key">D</span> $125 trillion</label>
+      </div>
     </div>
-
   </form>
 
-  <div id="result-banner-final" style="display:none"></div>
-
-  <div class="quiz-actions">
-    <button class="btn-submit" onclick="submitFinalQuiz()">Submit Quiz</button>
-    <button class="btn-reset" onclick="resetFinalQuiz()">Reset</button>
+  <div id="result-banner-final" class="result-banner">
+    <div>
+      <div class="result-score">Your Score: <span id="score-num">0</span> / 40</div>
+      <div class="result-msg" id="score-msg"></div>
+    </div>
   </div>
 
-  <div id="score-display" style="display:none">
-    <div class="score-ring">
-      <span class="ring-num" id="score-num">0</span>
-      <span class="ring-denom" id="score-denom">/ 40</span>
-    </div>
-    <p class="final-score" id="score-pct"></p>
-    <p class="final-score-sub" id="score-msg"></p>
+  <div class="quiz-controls">
+    <button type="button" class="btn btn-primary" onclick="submitFinalQuiz()">Submit Quiz</button>
+    <button type="button" class="btn btn-outline" onclick="resetFinalQuiz()">Reset</button>
   </div>
 </div>
 
 <script>
 const FINAL_KEY = [
-  /* 1-10  Ch16 */ 'a','b','c','b','c','b','a','b','c','b',
-  /* 11-20 Ch19 */ 'b','b','c','b','a','b','b','c','b','b',
-  /* 21-30 Ch20 */ 'b','b','c','c','b','a','d','b','c','b',
-  /* 31-40 Ch21 */ 'b','b','c','c','b','b','c','a','b','a'
+  'a','b','c','b','c','b','a','b','c','b',  // 1-10 Ch16
+  'b','b','c','b','a','b','b','c','b','b',  // 11-20 Ch19
+  'b','b','c','c','b','a','d','b','c','b',  // 21-30 Ch20
+  'b','b','c','c','b','b','c','a','b','a'   // 31-40 Ch21
 ];
 
 function updateFinalProgress() {
   const answered = new Set();
-  document.querySelectorAll('#quiz-final input[type=radio]:checked').forEach(r => answered.add(r.name));
+  document.querySelectorAll('#quiz-final .option-label input[type="radio"]:checked').forEach(r => answered.add(r.name));
   const count = answered.size;
   const pct = Math.round((count / 40) * 100);
   document.getElementById('progress-fill-final').style.width = pct + '%';
@@ -488,42 +559,40 @@ function submitFinalQuiz() {
 
   FINAL_KEY.forEach((correct, i) => {
     const qNum = i + 1;
-    const selected = form.querySelector('input[name="q' + qNum + '"]:checked');
-    const options = form.querySelectorAll('label[data-q="' + qNum + '"]');
-    options.forEach(lbl => lbl.classList.remove('correct', 'wrong'));
+    const labels = form.querySelectorAll(`label[data-q="${qNum}"]`);
+    const selected = form.querySelector(`input[name="q${qNum}"]:checked`);
+
+    labels.forEach(lbl => lbl.classList.remove('correct', 'wrong', 'selected'));
 
     if (selected) {
-      const selLabel = form.querySelector('label[data-q="' + qNum + '"][data-val="' + selected.value + '"]');
+      const selLabel = form.querySelector(`label[data-q="${qNum}"][data-val="${selected.value}"]`);
       if (selected.value === correct) {
         score++;
         if (selLabel) selLabel.classList.add('correct');
       } else {
         if (selLabel) selLabel.classList.add('wrong');
-        const corrLabel = form.querySelector('label[data-q="' + qNum + '"][data-val="' + correct + '"]');
+        const corrLabel = form.querySelector(`label[data-q="${qNum}"][data-val="${correct}"]`);
         if (corrLabel) corrLabel.classList.add('correct');
       }
     } else {
-      const corrLabel = form.querySelector('label[data-q="' + qNum + '"][data-val="' + correct + '"]');
+      const corrLabel = form.querySelector(`label[data-q="${qNum}"][data-val="${correct}"]`);
       if (corrLabel) corrLabel.classList.add('correct');
     }
-    form.querySelectorAll('input[name="q' + qNum + '"]').forEach(r => r.disabled = true);
+
+    form.querySelectorAll(`input[name="q${qNum}"]`).forEach(r => r.disabled = true);
   });
 
   const pct = Math.round((score / 40) * 100);
   const banner = document.getElementById('result-banner-final');
-  banner.textContent = 'Score: ' + score + ' / 40 (' + pct + '%)';
-  banner.className = 'result-banner ' + (pct >= 70 ? 'pass' : 'fail');
-  banner.style.display = 'block';
+  banner.classList.add('show');
 
-  const display = document.getElementById('score-display');
-  display.style.display = 'block';
   document.getElementById('score-num').textContent = score;
-  document.getElementById('score-pct').textContent = pct + '%';
+
   const msgs = [
     [90, 'Outstanding — you know this material cold.'],
     [75, 'Strong performance — review any missed questions.'],
     [60, 'Passing range — revisit the sections you struggled with.'],
-    [0,  'Keep studying — go back through the chapter summaries.']
+    [0, 'Keep studying — go back through the chapter summaries.']
   ];
   document.getElementById('score-msg').textContent = msgs.find(m => pct >= m[0])[1];
 
@@ -534,16 +603,19 @@ function submitFinalQuiz() {
 
 function resetFinalQuiz() {
   const form = document.getElementById('quiz-final');
-  form.querySelectorAll('input[type=radio]').forEach(r => { r.checked = false; r.disabled = false; });
-  form.querySelectorAll('label.correct, label.wrong').forEach(l => l.classList.remove('correct', 'wrong'));
-  document.getElementById('result-banner-final').style.display = 'none';
-  document.getElementById('score-display').style.display = 'none';
+  form.querySelectorAll('input[type="radio"]').forEach(r => { r.checked = false; r.disabled = false; });
+  form.querySelectorAll('label.option-label').forEach(l => l.classList.remove('correct', 'wrong', 'selected'));
+  document.getElementById('result-banner-final').classList.remove('show');
   document.getElementById('progress-fill-final').style.width = '0%';
   document.getElementById('progress-label-final').textContent = '0 / 40';
 }
 
-document.querySelectorAll('#quiz-final input[type=radio]').forEach(r => {
-  r.addEventListener('change', updateFinalProgress);
+document.querySelectorAll('#quiz-final .option-label').forEach(label => {
+  label.addEventListener('click', function() {
+    const radio = this.querySelector('input[type="radio"]');
+    if (radio) radio.checked = true;
+    updateFinalProgress();
+  });
 });
 </script>
 </body>
