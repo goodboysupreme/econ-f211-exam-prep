@@ -600,7 +600,13 @@ function resetPQ() {
 }
 
 document.querySelectorAll('#quiz-pq input[type=radio]').forEach(r => {
-  r.addEventListener('change', updatePQProgress);
+  r.addEventListener('change', function() {
+    const qNum = this.name.replace('q','');
+    document.querySelectorAll(`#quiz-pq label[data-q="${qNum}"]`).forEach(l => l.classList.remove('selected'));
+    const parentLabel = this.closest('label');
+    if (parentLabel) parentLabel.classList.add('selected');
+    updatePQProgress();
+  });
 });
 </script>
 </body>

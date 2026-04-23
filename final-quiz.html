@@ -613,7 +613,12 @@ function resetFinalQuiz() {
 document.querySelectorAll('#quiz-final .option-label').forEach(label => {
   label.addEventListener('click', function() {
     const radio = this.querySelector('input[type="radio"]');
-    if (radio) radio.checked = true;
+    if (radio) {
+      radio.checked = true;
+      const qNum = this.dataset.q;
+      document.querySelectorAll(`#quiz-final label[data-q="${qNum}"]`).forEach(l => l.classList.remove('selected'));
+      this.classList.add('selected');
+    }
     updateFinalProgress();
   });
 });
