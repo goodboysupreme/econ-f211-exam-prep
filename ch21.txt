@@ -1,0 +1,1976 @@
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+456 part IV Concepts and problems in macroeconomics 
+labor market. What is measured along the demand curve? 
+What factors determine the quantity of labor demanded 
+during a given period? What is measured along the labor 
+supply curve? What factors determine the quantity of la-
+bor supplied by households during a given period? What 
+is the opportunity cost of holding a job?
+ 1.3 According to Eurostat, the European Union (EU) statisti-
+cal office, the unemployment rate in the EU (composed 
+of 28 countries) has steadily increased in the years follow-
+ing the 2007–08 global financial crisis, from a low of 7 
+percent in 2007 to a peak of 10.9 percent in 2013, with a 
+small reversal in 2014. Yet the average growth rate in the 
+EU 28 countries has followed a much less regular path, 
+decreasing from a peak of 3.1 percent in 2007 to a low 
+of -4.4 percent in 2009 (a recessionary year), returning 
+positive in 2010 and 2011 (respectively, 2.1 percent and 
+1.7 percent), but turning negative again in 2012 (-0.5 
+percent), then slightly positive in 2013 (0.2 percent) and 
+slightly accelerating in 2014 (1.4 percent). How can you 
+explain these contrasting trends?
+ 1.4 Describe the state of the economy in the country where 
+you live, both in dynamic terms—comparing this year with 
+the last few years—and in comparative terms, with other 
+countries of a similar income category. Is economic growth 
+strong or weak? Is unemployment high or low? Is inflation 
+excessive or not? How have economic growth, unemploy-
+ment and inflation evolved over the past few years?
+ 1.5 Explain briefly how macroeconomics is different from 
+microeconomics. How can macroeconomists use micro-
+economic theory to guide them in their work, and why 
+might they want to do so?
+ 1.6 A 2001 study by Berndt and Rappaport found that 
+between 1976 and 1999, the average price of desktop 
+computers in the United States had declined such that 
+the 1999 price was only 0.069 percent of the 1976 price – 
+a 1,445-fold decrease over a twenty-three year period. 
+Does this imply that U.S. consumers’ purchasing power 
+has increased 1,445 times during the same period? What 
+do increases or decreases in individual goods’ price levels 
+tell us about inflation? About consumers’ purchasing 
+power?
+20.2 tHe Components oF tHe 
+maCroeConomy
+Learning Objective: Discuss the interaction between the four 
+components of the macroeconomy.
+ 2.1 Several member states of the European Union have 
+ adopted, since 2009–10, contractionary fiscal policy 
+ measures consisting of cuts in government spending 
+and increases in taxation. These policies, often dubbed 
+ “austerity” policies by their opponents, have led the 
+latter to question their opportunity in a context of slow 
+ economic growth and high unemployment. Why?
+ 2.2 In which market arenas can each of the following goods 
+and services be traded?
+a. A government bond.
+b. A haircut at your local hairdresser.
+c. Your skills as an economist.
+d. A pair of second-hand shoes at the local market.
+e. The average goals scored by a famous soccer player.
+f. An insurance contract for your car.
+20.3 a brieF History oF maCroeConomiCs
+Learning Objective: Summarize the macroeconomic history of 
+the United States between 1929 and 1970.
+ 3.1 Many of the expansionary periods during the twentieth 
+century occurred during wars. Why do you think this is 
+true?
+ 3.2 John Maynard Keynes was the first to show that govern-
+ment policy could be used to change aggregate output 
+and prevent recession by stabilizing the economy. 
+Describe the economy of the world at the time Keynes 
+was writing. Describe the economy of the United States 
+today. What measures are being proposed by poten-
+tial presidential candidates for the election of 2016 
+to stimulate growth in the economy? Do any of these 
+proposed policies follow the policies proposed by John 
+Maynard Keynes? If so, which policies and from which 
+candidates?
+ 3.3 Assume that the demand for flight attendants increases 
+significantly as a result of an increase in demand for air 
+travel. Explain what will happen to unemployment using 
+both classical and Keynesian reasoning.
+ 3.4 Explain why the length and severity of the Great 
+Depression necessitated a fundamental rethinking of 
+the operations of the macroeconomy.
+20.4 tHe U.s. eConomy sinCe 1970
+Learning Objective: Describe the U.S. Economy Since 1970.
+ 4.1 The Economics in Practice describes prosperity and 
+ recession as they are depicted in literature. Looking at 
+data on GDP growth released by the Organization for 
+Economic Cooperation and Development in its Interim 
+Economic Outlook (available at http://www.oecd.org/
+eco/outlook/economicoutlook.htm), how would you 
+compare the economic performance of “emerging 
+ markets” such as Brazil, China and Russia with respect 
+to advanced  industrial economies such as Germany, the 
+United Kingdom and the United States over the past year 
+or two? Are these economies expanding or shrinking?
+457 
+21 
+We saw in the last chapter that macroeconomics is concerned with aggregate output, 
+ unemployment, and inflation. In this chapter, we discuss the measurement of aggregate output 
+and inflation. In the next chapter, we discuss the measurement of unemployment. Accurate 
+measures of these variables are critical for understanding the economy. Without good measures, 
+economists would have a hard time analyzing how the economy works and policy makers would 
+have little to guide them on which policies are best for the economy.
+Much of the macroeconomic data we use come from the national income and product 
+ accounts, which are compiled by the Bureau of Economic Analysis (BEA) of the U.S. Department 
+of Commerce. It is hard to overestimate the importance of these accounts. They are, in fact, 
+one of the great inventions of the twentieth century. (See the Economics in Practice, p. 466.) They 
+not only convey data about the performance of the economy but also provide a conceptual 
+ framework that macroeconomists use to think about how the pieces of the economy fit together. 
+When economists think about the macroeconomy, the categories and vocabulary they use come 
+from the national income and product accounts.
+The national income and product accounts can be compared with the mechanical or  wiring 
+diagrams for an automobile engine. The diagrams do not explain how an engine works, but 
+they identify the key parts of an engine and show how they are connected. Trying to understand 
+the macroeconomy without understanding national income accounting is like trying to fix an 
+ engine without a mechanical diagram and with no names for the engine parts.
+Measuring National 
+Output and National 
+Income
+Chapter Outline 
+and learning 
+ObjeCtives 
+21.1 Gross Domestic 
+Product p. 458
+Describe GDP funda-
+mentals and differentiate 
+ between GDP and GNP.
+21.2 Calculating 
+GDP p. 460
+Explain two methods for 
+calculating GDP.
+21.3 Nominal versus 
+Real GDP p. 465
+Discuss the difference 
+ between real GDP and 
+nominal GDP.
+21.4 Limitations of 
+the GDP Concept  
+p. 470
+Discuss the limitations 
+of using GDP to measure 
+well-being.
+Looking Ahead p. 472
+458 Part IV Concepts and Problems in Macroeconomics 
+There are literally thousands of variables in the national income and product accounts. In 
+this chapter, we discuss only the most important. This chapter is meant to convey the way the 
+national income and product accounts represent or organize the economy and the sizes of the 
+various pieces of the economy.
+Gross Domestic Product
+The key concept in the national income and product accounts is gross domestic product (GDP).
+national income and product 
+accounts Data collected and 
+published by the government 
+describing the various compo-
+nents of national income and 
+output in the economy.
+21.1 Learning Objective
+Describe GDP fundamentals 
+and differentiate between  
+GDP and GNP.
+gross domestic product 
+(GDP) The total market 
+value of all final goods and 
+ services produced within a 
+given period by factors of 
+ production located within  
+a country.
+Table 21.1  Value added in the Production of a Gallon  
+of Gasoline (Hypothetical Numbers)
+Stage of Production
+Value of Sales
+Value Added
+(1) Oil drilling
+$3.00
+$3.00
+(2) Refining
+ 3.30
+ 0.30
+(3) Shipping
+ 3.60
+ 0.30
+(4) Retail sale
+ 4.00
+ 0.40
+Total value added
+$4.00
+GDP is the total market value of a country’s output. It is the market value of all final goods 
+and services produced within a given period of time by factors of production located 
+within a country.
+U.S. GDP for 2014—the value of all output produced by factors of production in the United 
+States in 2014—was $17,418.9 billion.
+GDP is a critical concept. Just as an individual firm needs to evaluate the success or failure 
+of its operations each year, so the economy as a whole needs to assess itself. GDP, as a measure of 
+the total production of an economy, provides us with a country’s economic report card. Because 
+GDP is so important, we need to take time to explain exactly what its definition means.
+Final Goods and Services
+First, note that the definition refers to final goods and services. Many goods produced in the 
+economy are not classified as final goods, but instead as intermediate goods. Intermediate goods 
+are produced by one firm for use in further processing or for resale by another firm. For example, 
+tires sold to automobile manufacturers are intermediate goods. The chips that go in Apple’s 
+iPhone are also intermediate goods. The value of intermediate goods is not counted in GDP.
+Why are intermediate goods not counted in GDP? Suppose that in producing a car, General 
+Motors (GM) pays $200 to Goodyear for tires. GM uses these tires (among other components) 
+to assemble a car, which it sells for $24,000. The value of the car (including its tires) is $24,000, 
+not $24,000 + $200. The final price of the car already reflects the value of all its components. 
+To count in GDP both the value of the tires sold to the automobile manufacturers and the value 
+of the automobiles sold to the consumers would result in double counting. It would also lead us 
+to conclude that a decision by GM to produce its own tires rather than buy them from Goodyear 
+leads to a reduction in the value of goods produced by the economy.
+Double counting can also be avoided by counting only the value added to a product by each 
+firm in its production process. The value added during some stage of production is the differ-
+ence between the value of goods as they leave that stage of production and the cost of the goods 
+as they entered that stage. Value added is illustrated in Table 21.1. The four stages of the produc-
+tion of a gallon of gasoline are: (1) oil drilling, (2) refining, (3) shipping, and (4) retail sale. In the 
+first stage, value added is the value of the crude oil. In the second stage, the refiner purchases 
+the oil from the driller, refines it into gasoline, and sells it to the shipper. The refiner pays the 
+driller $3.00 per gallon and charges the shipper $3.30. The value added by the refiner is thus 
+final goods and services  
+Goods and services produced 
+for final use.
+intermediate goods Goods 
+that are produced by one firm 
+for use in further processing or 
+for resale by another firm.
+value added The difference 
+between the value of goods as 
+they leave a stage of produc-
+tion and the cost of the goods 
+as they entered that stage.
+ChaPter 21  Measuring National Output and National Income 459 
+$0.30 per gallon. The shipper then sells the gasoline to retailers for $3.60. The value added in the 
+third stage of production is $0.30. Finally, the retailer sells the gasoline to consumers for $4.00. 
+The value added at the fourth stage is $0.40, and the total value added in the production process 
+is $4.00, the same as the value of sales at the retail level. Adding the total values of sales at each 
+stage of production ($3.00 + $3.30 + $3.60 + $4.00 = $13.90) would significantly overesti-
+mate the value of the gallon of gasoline.
+In calculating GDP, we can sum up the value added at each stage of production or we 
+can take the value of final sales. We do not use the value of total sales in an economy to 
+ measure how much output has been produced.
+Exclusion of Used Goods and Paper Transactions
+GDP is concerned only with new, or current, production. Old output is not counted in current 
+GDP because it was already counted when it was produced. It would be double counting to 
+count sales of used goods in current GDP. If someone sells a used car to you, the transaction is 
+not counted in GDP because no new production has taken place. Similarly, a house is counted in 
+GDP only at the time it is built, not each time it is resold. In short:
+GDP does not count transactions in which money or goods changes hands and in which 
+no new goods and services are produced.
+Sales of stocks and bonds are not counted in GDP. These exchanges are transfers of 
+ ownership of assets, either electronically or through paper exchanges, and do not correspond to 
+current production. What if you sell the stock or bond for more than you originally paid for it? 
+Profits from the stock or bond market have nothing to do with current production, so they are 
+not counted in GDP. However, if you pay a fee to a broker for selling a stock of yours to someone 
+else, this fee is counted in GDP because the broker is performing a service for you. This service 
+is part of current production. Be careful to distinguish between exchanges of stocks and bonds 
+for money (or for other stocks and bonds), which do not involve current production, and fees for 
+performing such exchanges, which do.
+Exclusion of Output Produced Abroad by Domestically 
+Owned Factors of Production
+GDP is the value of output produced by factors of production located within a country.
+The three basic factors of production are land, labor, and capital. The output produced by U.S. 
+citizens abroad—for example, U.S. citizens working for a foreign company—is not counted in 
+U.S. GDP because the output is not produced within the United States. Likewise, profits earned 
+abroad by U.S. companies are not counted in U.S. GDP. However, the output produced by 
+ foreigners working in the United States is counted in U.S. GDP because the output is produced 
+within the United States. Also, profits earned in the United States by foreign-owned companies 
+are counted in U.S. GDP.
+It is sometimes useful to have a measure of the output produced by factors of production 
+owned by a country’s citizens regardless of where the output is produced. This measure is called 
+gross national product (GNP). For most countries, including the United States, the difference 
+between GDP and GNP is small. In 2014, GNP for the United States was $17,630.6 billion, which 
+is close to the $17,418.9 billion value for U.S. GDP.
+The distinction between GDP and GNP can be tricky. Consider the Honda plant in 
+Marysville, Ohio. The plant is owned by the Honda Corporation, a Japanese firm, but most 
+gross national product (GNP)  
+The total market value of 
+all final goods and  services 
+ produced within a given period 
+by factors of  production 
+owned by a country’s citizens, 
+ regardless of where the output 
+is produced.
+460 Part IV Concepts and Problems in Macroeconomics 
+of the workers employed at the plant are U.S. workers. Although all the output of the plant is 
+included in U.S. GDP, only part of it is included in U.S. GNP. The wages paid to U.S. workers 
+are part of U.S. GNP, whereas the profits from the plant are not. The profits from the plant 
+are counted in Japanese GNP because this is output produced by Japanese-owned factors of 
+ production (Japanese capital in this case). The profits, however, are not counted in Japanese 
+GDP because they were not earned in Japan.
+Calculating GDP
+GDP can be computed two ways. One way is to add up the total amount spent on all final goods 
+and services during a given period. This is the expenditure approach to calculating GDP. The other 
+way is to add up the income—wages, rents, interest, and profits—received by all factors of produc-
+tion in producing final goods and services. This is the income approach to calculating GDP. These 
+two methods lead to the same value for GDP for the reason we discussed in the  previous chapter: 
+Every payment (expenditure) by a buyer is at the same time a receipt (income) for the seller. We can measure 
+either income received or expenditures made, and we will end up with the same total output.
+Suppose the economy is made up of just one firm and the firm’s total output this year sells 
+for $1 million. Because the total amount spent on output this year is $1 million, this year’s GDP 
+is $1 million. (Remember: The expenditure approach calculates GDP on the basis of the total 
+amount spent on final goods and services in the economy.) However, every one of the million 
+ dollars of GDP either is paid to someone or remains with the owners of the firm as profit. Using 
+the income approach, we add up the wages paid to employees of the firm, the interest paid to 
+those who lent money to the firm, and the rents paid to those who leased land, buildings, or 
+equipment to the firm. What is left over is profit, which is, of course, income to the owners 
+of the firm. If we add up the incomes of all the factors of production, including profits to the 
+ owners, we get a GDP of $1 million.
+The Expenditure Approach
+Recall from the previous chapter the four main groups in the economy: households, firms, the 
+government, and the rest of the world. There are also four main categories of expenditure:
+■
+■Personal consumption expenditures (C): household spending on consumer goods
+■
+■Gross private domestic investment (I): spending by firms and households on new capital, 
+that is, plant, equipment, inventory, and new residential structures
+■
+■Government consumption and gross investment (G)
+■
+■Net exports (EX - IM): net spending by the rest of the world, or exports (EX) minus 
+imports (IM)
+The expenditure approach calculates GDP by adding together these four components of 
+spending. It is shown here in equation form:
+21.2 Learning Objective
+Explain two methods for 
+ calculating GDP.
+expenditure approach A 
+method of computing GDP 
+that measures the total 
+amount spent on all final 
+goods and services during a 
+given period.
+income approach A method 
+of computing GDP that mea-
+sures the income—wages, rents, 
+interest, and profits—received 
+by all factors of production 
+in producing final goods and 
+services.
+GDP = C + I + G + (EX - IM)
+U.S. GDP was $17,418.9 billion in 2014. The four components of the expenditure approach 
+are shown in Table 21.2, along with their various categories. 
+Personal Consumption Expenditures (C) The largest part of GDP consists of personal 
+consumption expenditures (C). Table 21.2 shows that in 2014, the amount of personal consump-
+tion expenditures accounted for 68.5 percent of GDP. These are expenditures by consumers on 
+goods and services.
+There are three main categories of consumer expenditures: durable goods, nondurable 
+goods, and services. Durable goods, such as automobiles, furniture, and household appliances, 
+last a relatively long time. Nondurable goods, such as food, clothing, gasoline, and cigarettes, 
+are used up fairly quickly. Payments for services—those things we buy that do not involve the 
+personal consumption 
+ expenditures (C)  
+Expenditures by consumers  
+on goods and services.
+durable goods Goods that 
+last a relatively long time, 
+such as cars and household 
+appliances.
+nondurable goods Goods 
+that are used up fairly quickly, 
+such as food and clothing.
+services The things we buy 
+that do not involve the produc-
+tion of physical things, such as 
+legal and medical services and 
+education.
+ChaPter 21  Measuring National Output and National Income 461 
+Table 21.2 Components of U.S. GDP, 2014: The expenditure approach
+Note: Numbers may not add exactly because of rounding.
+Source: U.S. Bureau of Economic Analysis, March 27, 2015.
+Billions of Dollars ($)
+Percentage of GDP (%)
+Personal consumption expenditures (C)
+11,930.3
+ 68.5
+ Durable goods
+1,302.5
+ 7.5
+ Nondurable goods
+2,666.2
+15.3
+ Services
+7,961.7
+45.7
+Gross private domestic investment (I)
+ 2,851.6
+ 16.4
+ Nonresidential
+2,210.5
+12.7
+ Residential
+  559.1
+ 3.2
+ Change in business inventories
+   82.0
+ 0.5
+Government consumption and gross investment (G)  3,175.2
+ 18.2
+ Federal
+1,219.2
+ 7.0
+ State and local
+1,956.1
+11.2
+Net exports (EX - IM) 
+ −538.2
+ −3.1
+ Exports (EX
+2,337.0
+13.4
+ Imports (IM)
+      
+2,875.2
+    
+16.5
+Gross domestic product
+17,418.9
+100.0
+E con o m i c s  i n  P r ac t i c E 
+Where Does eBay Get Counted?
+eBay runs an online marketplace with more than 220  million 
+registered users who buy and sell 2.4 billion items a year, rang-
+ing from children’s toys to oil paintings. In December 2007, one 
+eBay user auctioned off a 1933 Chicago World’s Fair pennant. 
+The winning bid was slightly more than $20.
+eBay is traded on the New York Stock Exchange, employs 
+hundreds of people, and has a market value of about $40 billion. 
+With regard to eBay, what do you think gets counted as part of 
+current GDP?
+That 1933 pennant, for example, does not get counted. The 
+production of that pennant was counted back in 1933. The 
+many cartons of K’nex bricks sent from one home to another 
+don’t count either. Their value was counted when the bricks 
+were first produced. What about a newly minted Scrabble 
+game? One of the interesting features of eBay is that it has 
+changed from being a market in which individuals  market 
+their hand-me-downs to a place that small and even large 
+businesses use as a sales site. The value of the new Scrabble 
+game would be counted as part of this year’s GDP if it were 
+produced this year.
+So do any of eBay’s services count as part of GDP? eBay’s 
+business is to provide a marketplace for exchange. In doing 
+so, it uses labor and capital and creates value. In return for 
+creating this value, eBay charges fees to the sellers that use 
+its site. The value of these fees does enter into GDP. So 
+although the old knickknacks that people sell on eBay do 
+ThiNkiNG PrAcTicAlly
+1. John has a 2009 honda civic. in 2013, he sells it to 
+Mary for $10,000. is that $10,000 counted in the 
+GDP for 2013?
+2. if John is an automobile dealer, does that change 
+your answer to Question 1 at all?
+not contribute to current GDP, the cost of finding an inter-
+ested buyer for those old goods does indeed get counted.
+production of physical items—include expenditures for doctors, lawyers, and educational institu-
+tions. As Table 21.2 shows, in 2014, durable goods expenditures accounted for 7.5 percent of GDP, 
+nondurables for 15.3 percent, and services for 45.7 percent. Almost half of GDP is now service 
+consumption.
+462 Part IV Concepts and Problems in Macroeconomics 
+Gross Private Domestic Investment (I) Investment, as we use the term in economics, 
+refers to the purchase of new capital—housing, plants, equipment, and inventory. The economic 
+use of the term is in contrast to its everyday use, where investment often refers to purchases of 
+stocks, bonds, or mutual funds.
+Total investment in capital by the private sector is called gross private domestic 
+ investment (I). Expenditures by firms for machines, tools, plants, and so on make up 
+ nonresidential investment.1 Because these are goods that firms buy for their own final use, 
+they are part of “final sales” and counted in GDP. Expenditures for new houses and  apartment 
+ buildings constitute residential investment. The third component of gross  private domestic 
+investment, the change in business inventories, is the amount by which firms’  inventories 
+change during a period. Business inventories can be looked at as the goods that firms 
+ produce now but intend to sell later. In 2014, gross private domestic investment accounted 
+for 16.4 percent of GDP. Of that, 12.7 percent was nonresidential investment, 3.2 percent was 
+ residential investment, and 0.5 percent was change in business inventories.
+Change in Business Inventories 
+Why is the change in business inventories considered a 
+component of investment—the purchase of new capital? To run a business most firms hold 
+inventories, in part because they cannot predict exactly how much will be sold each day and 
+want to avoid losing sales by running out of a product. Inventories—goods produced for later 
+sale—are counted as capital because they produce value in the future. An increase in inventories 
+is an increase in capital.
+Regarding GDP, remember that it is not the market value of total final sales during the 
+period, but rather the market value of total final production. The relationship between total 
+ production and total sales is as follows:
+gross private domestic invest-
+ment (I) Total investment in 
+capital—that is, the  purchase 
+of new housing, plants, 
+ equipment, and inventory by 
+the private (or nongovern-
+ment) sector.
+nonresidential investment  
+Expenditures by firms for 
+machines, tools, plants, and 
+so on.
+1 The distinction between what is considered investment and what is considered consumption is sometimes fairly arbitrary.  
+A firm’s purchase of a car or a truck is counted as investment, but a household’s purchase of a car or a truck is counted 
+as  consumption of durable goods. In general, expenditures by firms for items that last longer than a year are counted as 
+ investment expenditures. Expenditures for items that last less than a year are seen as purchases of intermediate goods.
+residential investment  
+Expenditures by households 
+and firms on new houses and 
+apartment buildings.
+change in business inventories  
+The amount by which firms’ 
+inventories change during a 
+period. inventories are the 
+goods that firms produce now 
+but intend to sell later.
+Total production (GDP) equals final sales of domestic goods plus the change in business 
+inventories. In 2014, production in the United States was larger than sales by $82.0 billion. The 
+stock of inventories at the end of 2014 was $82.0 billion larger than it was at the end of 2013—the 
+change in business inventories was $82.0 billion.
+Gross Investment versus Net Investment 
+During the process of production, capital 
+(especially machinery and equipment) produced in previous periods gradually wears out. 
+GDP includes newly produced capital goods but does not take account of capital goods 
+“consumed” in the production process. As a result, GDP overstates the real production of an 
+economy because it does not account for the part of that production that serves just to replace 
+worn out capital.
+The amount by which an asset’s value falls each period is called its depreciation.2 A per-
+sonal computer purchased by a business today may be expected to have a useful life of 4 years 
+before becoming worn out or obsolete. Over that period, the computer steadily depreciates.
+What is the relationship between gross investment (I) and depreciation? Gross investment 
+is the total value of all newly produced capital goods (plant, equipment, housing, and inventory) 
+produced in a given period. It takes no account of the fact that some capital wears out and must 
+be replaced. Net investment is equal to gross investment minus depreciation. Net investment 
+is a measure of how much the stock of capital changes during a period. Positive net investment 
+means that the amount of new capital produced exceeds the amount that wears out, and nega-
+tive net investment means that the amount of new capital produced is less than the amount that 
+wears out. Therefore, if net investment is positive, the capital stock has increased, and if net 
+depreciation The amount by 
+which an asset’s value falls in  
+a given period.
+2 This is the formal definition of economic depreciation. Because depreciation is difficult to measure precisely, accounting rules 
+allow firms to use shortcut methods to approximate the amount of depreciation that they incur each period. To complicate 
+matters even more, the U.S. tax laws allow firms to deduct depreciation for tax purposes under a different set of rules.
+gross investment The total 
+value of all newly produced 
+capital goods (plant, equip-
+ment, housing, and inventory) 
+produced in a given period.
+net investment Gross 
+ investment minus depreciation.
+GDP = Final sales + Change in business inventories
+ChaPter 21  Measuring National Output and National Income 463 
+Government Consumption and Gross Investment (G) 
+Government consumption 
+and gross investment (G) include expenditures by federal, state, and local governments for 
+final goods (bombs, pencils, school buildings) and services (military salaries, congressional 
+salaries, school teachers’ salaries). Some of these expenditures are counted as government 
+consumption, and some are counted as government gross investment. Government transfer 
+payments (Social Security benefits, veterans’ disability stipends, and so on) are not included in 
+G because these transfers are not purchases of anything currently produced. The payments are 
+not made in exchange for any goods or services. Because interest payments on the government 
+debt are also counted as transfers, they are excluded from GDP on the grounds that they are not 
+payments for current goods or services.
+As Table 21.2 shows, government consumption and gross investment accounted for 
+$3,175.2 billion, or 18.2 percent of U.S. GDP, in 2014. Federal government consumption and 
+gross investment accounted for 7.0 percent of GDP, and state and local government consump-
+tion and gross investment accounted for 11.2 percent.
+Net Exports (EX - IM) 
+The value of net exports (EX - IM) is the difference between 
+ exports (sales to foreigners of U.S.-produced goods and services) and imports (U.S. purchases of 
+goods and services from abroad). This figure can be positive or negative. In 2014, the United 
+States exported less than it imported, so the level of net exports was negative (-$538.2 billion). 
+Before 1976, the United States was generally a net exporter—exports exceeded imports, so the 
+net export figure was positive.
+The reason for including net exports in the definition of GDP is simple. Consumption, 
+investment, and government spending (C, I, and G, respectively) include expenditures on goods 
+produced at home and abroad. Therefore, C + I + G overstates domestic production because 
+it contains expenditures on foreign-produced goods—that is, imports (IM), which have to be 
+subtracted from GDP to obtain the correct figure. At the same time, C + I + G understates 
+domestic production because some of what a nation produces is sold abroad and therefore is 
+not included in C, I, or G—exports (EX) have to be added in. If a U.S. firm produces computers 
+and sells them in Germany, the computers are part of U.S. production and should be counted 
+as part of U.S. GDP.
+The Income Approach
+We now turn to calculating GDP using the income approach, which looks at GDP in terms of 
+who receives it as income rather than as who purchases it.
+We begin with the concept of national income, which is defined in Table 21.3. National 
+income is the sum of eight income items. Compensation of employees, the largest of the eight 
+items by far, includes wages and salaries paid to households by firms and by the government, as 
+well as various supplements to wages and salaries such as contributions that employers make to 
+social insurance and private pension funds. Proprietors’ income is the income of unincorpo-
+rated businesses. Rental income, a minor item, is the income received by property owners in the 
+form of rent. Corporate profits, the second-largest item of the eight, is the income of corpora-
+tions. Net interest is the interest paid by business. (Interest paid by households and the govern-
+ment is not counted in GDP because it is not assumed to flow from the production of goods and 
+services.)
+The sixth item, indirect taxes minus subsidies, includes taxes such as sales taxes, customs 
+duties, and license fees less subsidies that the government pays for which it receives no goods or 
+services in return. (Subsidies are like negative taxes.) The value of indirect taxes minus subsidies 
+is thus net revenue received by the government. Net business transfer payments are net transfer 
+government consumption  
+and gross investment (G)  
+Expenditures by federal, state, 
+and local governments for final 
+goods and services.
+net exports (EX - IM) The 
+difference between exports 
+(sales to foreigners of U.S.- 
+produced goods and services) 
+and imports (U.S. purchases 
+of goods and services from 
+abroad). The figure can be 
+positive or negative.
+national income The total 
+income earned by the factors 
+of production owned by a 
+country’s citizens.
+compensation of employees  
+includes wages, salaries, and 
+various supplements—employer 
+contributions to social insur-
+ance and pension funds, for 
+example—paid to households 
+by firms and by the government.
+proprietors’ income The 
+income of unincorporated 
+businesses.
+rental income The income 
+received by property owners  
+in the form of rent.
+corporate profits The income 
+of corporations.
+net interest The interest paid 
+by business.
+indirect taxes minus subsidies  
+Taxes such as sales taxes, cus-
+toms duties, and license fees 
+less subsidies that the govern-
+ment pays for which it receives 
+no goods or services in return. 
+is net revenue received by the 
+government.
+net business transfer payments  
+Net transfer payments by busi-
+nesses to others.
+capitalend of period = capitalbeginning of period + net investment
+investment is negative, the capital stock has decreased. Put another way, the capital stock at the 
+end of a period is  equal to the capital stock that existed at the beginning of the period plus net 
+investment:
+464 Part IV Concepts and Problems in Macroeconomics 
+payments by businesses to others and are thus income of others. The final item is the surplus of 
+government enterprises, which is the income of government enterprises. Table 21.3 shows that 
+this item was negative in 2014: government enterprises on net ran at a loss.
+National income is the total income of the country, but it is not quite GDP. Table 21.4 shows 
+what is involved in going from national income to GDP. Table 21.4 first shows that in moving from 
+GDP to GNP, we need to add receipts of factor income from the rest of the world and subtract 
+ payments of factor income to the rest of the world. National income is income of the country’s 
+ citizens, not the income of the residents of the country. So we first need to move from GDP to 
+GNP. This, as discussed previously, is a minor adjustment.
+We then need to subtract depreciation from GNP, which is a large adjustment. GNP less depre-
+ciation is called net national product (NNP). Why is depreciation subtracted? To see why, go back 
+to the example previously in this chapter in which the economy is made up of just one firm and 
+total output (GDP) for the year is $1 million. Assume that after the firm pays wages, interest, and 
+rent, it has $100,000 left. Assume also that its capital stock depreciated by $40,000 during the year. 
+National income includes corporate profits (see Table 21.3), and in calculating corporate profits, 
+the $40,000 depreciation is subtracted from the $100,000, leaving profits of $60,000. So national 
+income does not include the $40,000. When we calculate GDP using the expenditure approach, 
+however,  depreciation is not subtracted. We simply add consumption, investment, government 
+spending, and net exports. In our simple example, this is just $1 million. We thus must subtract 
+depreciation from GDP (actually GNP when there is a rest-of-the-world sector) to get national 
+income.
+Table 21.4 shows that net national product and national income are the same except for a 
+statistical discrepancy, a data measurement error. If the government were completely accurate 
+in its data collection, the statistical discrepancy would be zero. The data collection, however, is 
+not perfect, and the statistical discrepancy is the measurement error in each period. Table 21.4 
+shows that in 2014, this error was $176.0 billion, which is small compared to national income of 
+$15,070.4 billion.
+surplus of government 
+ enterprises income of 
+ government enterprises.
+net national product (NNP)  
+Gross national product minus 
+depreciation; a nation’s total 
+product minus what is required 
+to maintain the value of its 
+capital stock.
+statistical discrepancy Data 
+measurement error.
+Table 21.3 National Income, 2014
+Source: U.S. Bureau of Economic Analysis, March 27, 2015.
+Billions of Dollars ($)
+Percentage  
+of National 
+Inc ome (%)
+National income
+15,070.4
+100.0
+ Compensation of employees
+9,221.6
+61.2
+ Proprietors’ income
+1,380.2
+ 9.2
+ Rental income
+  640.2
+ 4.2
+ Corporate profits
+2,089.8
+13.9
+ Net interest
+  486.3
+ 3.2
+ Indirect taxes minus subsidies
+1,145.8
+ 7.6
+ Net business transfer payments
+  140.6
+ 0.9
+ Surplus of government enterprises
+  −34.2
+−0.2
+Table 21.4 GDP, GNP, NNP, and National Income, 2014
+Source: U.S. Bureau of Economic Analysis, March 27, 2015.
+Dollars  
+($, Billions)
+GDP
+ 17,418.9
+ Plus: Receipts of factor income from the rest of the world
+   +827.7
+ Less: Payments of factor income to the rest of the world
+    −616.0
+Equals: GNP
+ 17,630.6
+ Less: Depreciation
+ −2,736.2
+Equals: Net national product (NNP)
+14,894.4
+ Less: Statistical discrepancy
+   −176.0
+Equals: National income
+ 15,070.4
+ChaPter 21  Measuring National Output and National Income 465 
+We have so far seen from Table 21.3 the various income items that make up total national 
+income, and we have seen from Table 21.4 how GDP and national income are related. A use-
+ful way to think about national income is to consider how much of it goes to households. 
+The total income of households is called personal income, and it turns out that almost all of 
+national income is personal income. Table 21.5 shows that of the $15,070.4 billion in national 
+income in 2014, $14,728.6 billion was personal income. The second line in Table 21.5, the 
+amount of national income not going to households, includes the profits of corporations not 
+paid to households in the form of dividends, called the retained earnings of corporations. This 
+is income that stays inside corporations for some period rather than going to households, and 
+so it is part of national income but not personal income.
+Personal income is the income received by households before they pay personal income 
+taxes. The amount of income that households have to spend or save is called disposable 
+ personal income, or after-tax income . It is equal to personal income minus personal income 
+taxes, as shown in Table 21.5.
+Because disposable personal income is the amount of income that households can spend or 
+save, it is an important income concept. Table 21.5 shows there are three categories of spending: 
+(1) personal consumption expenditures, (2) personal interest payments, and (3) transfer pay-
+ments made by households. The amount of disposable personal income left after total personal 
+spending is personal saving. If your monthly disposable income is $500 and you spend $450, 
+you have $50 left at the end of the month. Your personal saving is $50 for the month. Your per-
+sonal saving level can be negative: If you earn $500 and spend $600 during the month, you have 
+dissaved $100. To spend $100 more than you earn, you will have to borrow the $100 from some-
+one, take the $100 from your savings account, or sell an asset you own.
+The personal saving rate is the percentage of disposable personal income saved, an impor-
+tant indicator of household behavior. A low saving rate means households are spending a large 
+fraction of their income. As Table 21.5 shows, the U.S. personal saving rate in 2014 was 4.8 
+percent. Saving rates tend to rise during recessionary periods, when consumers become anxious 
+about their future, and fall during boom times, as pent-up spending demand gets released. In 
+2005 the saving rate got down to 2.5 percent.
+Nominal versus Real GDP
+We have thus far looked at GDP measured in current dollars, or the current prices we pay for 
+goods and services. When we measure something in current dollars, we refer to it as a nominal 
+value. Nominal GDP is GDP measured in current dollars—all components of GDP valued at 
+their current prices.
+In most applications in macroeconomics, however, nominal GDP is not what we are after. 
+It is not a good measure of aggregate output over time. Why? Assume that there is only one 
+personal income The total 
+income of households.
+disposable personal income 
+or after-tax income Personal 
+income minus personal income 
+taxes. The amount that house-
+holds have to spend or save.
+personal saving The amount 
+of disposable income that is 
+left after total personal spend-
+ing in a given period.
+personal saving rate The 
+percentage of disposable 
+ personal income that is saved. 
+if the personal saving rate is 
+low, households are spending 
+a large amount relative to their 
+incomes; if it is high, house-
+holds are spending cautiously.
+21.3 Learning Objective
+Discuss the difference between 
+real GDP and nominal GDP.
+current dollars The current 
+prices that we pay for goods 
+and services.
+nominal GDP Gross domes-
+tic product measured in 
+ current dollars.
+Table 21.5  National Income, Personal Income, Disposable Personal 
+Income, and Personal Saving, 2014
+Source: U.S. Bureau of Economic Analysis, March 27, 2015.
+Dollar 
+(Billions, $)
+National income
+ 15,070.4
+ Less: Amount of national income not going to households
+   −341.8
+Equals: Personal income
+ 14,728.6
+ Less: Personal income taxes
+ −1,742.9
+Equals: Disposable personal income
+ 12,985.8
+ Less: Personal consumption expenditures
+−11,930.3
+    Personal interest payments
+   −256.8
+    Transfer payments made by households
+   −170.3
+Equals: Personal saving
+    628.3
+Personal saving as a percentage of disposable personal income:
+     4.8%
+466 Part IV Concepts and Problems in Macroeconomics 
+E co n o m i c s  i n  P r ac t i c E 
+GDP: One of the Great Inventions of the 20th Century
+As the 20th century drew to a close, the U.S. Department 
+of Commerce embarked on a review of its achievements. At 
+the conclusion of this review, the Department named the 
+development of the national income and product accounts as 
+“its achievement of the century.”
+J. Steven Landefeld Director, Bureau 
+of Economic Analysis
+While the GDP and the rest of the national income accounts 
+may seem to be arcane concepts, they are truly among the 
+great inventions of the twentieth century.
+Paul A. Samuelson and William D. Nordhaus
+GDP! The right concept of economy-wide output, accurately 
+measured. The U.S. and the world rely on it to tell where we 
+are in the business cycle and to estimate long-run growth. 
+It is the centerpiece of an elaborate and indispensable sys-
+tem of social accounting, the national income and product 
+accounts. This is surely the single most innovative achieve-
+ment of the Commerce Department in the 20th century. I 
+was fortunate to become an economist in the 1930’s when 
+Kuznets, Nathan, Gilbert, and Jaszi were creating this most 
+important set of economic time series. In economic the-
+ory, macroeconomics was just beginning at the same time. 
+Complementary, these two innovations deserve much credit 
+for the improved performance of the economy in the second 
+half of the century.
+James Tobin
+From the Survey of Current BuSineSS
+Prior to the development of the NIPAs [national income and 
+product accounts], policy makers had to guide the economy 
+using limited and fragmentary information about the state of 
+the economy. The Great Depression underlined the problems 
+of incomplete data and led to the development of the national 
+accounts:
+One reads with dismay of Presidents Hoover and then 
+Roosevelt designing policies to combat the Great Depression 
+of the 1930s on the basis of such sketchy data as stock 
+price indices, freight car loadings, and incomplete indices 
+of industrial production. The fact was that comprehensive 
+measures of national income and output did not exist at 
+the time. The Depression, and with it the growing role of 
+government in the economy, emphasized the need for such 
+measures and led to the development of a comprehensive set 
+of national income accounts.
+Richard T. Froyen
+In response to this need in the 1930s, the Department of 
+Commerce commissioned Nobel laureate Simon Kuznets of 
+ThiNkiNG PrAcTicAlly
+1. The articles emphasize the importance of being able 
+to measure an economy’s output to improve govern-
+ment policy. looking at recent news, can you identify 
+one economic policy debate or action that referenced 
+GDP?
+Source: U.S. Department of Commerce, Bureau of Economics, “GDP: One of the Great 
+Inventions of the 20th Century,” Survey of Current Business, January 2000, pp. 6–9.
+the National Bureau of Economic Research to develop a set of 
+national economic accounts. . . . Professor Kuznets coordinated 
+the work of researchers at the National Bureau of Economic 
+Research in New York and his staff at Commerce. The original 
+set of accounts was presented in a report to Congress in 1937 
+and in a research report, National Income, 1929–35. . . .
+The national accounts have become the mainstay of mod-
+ern macroeconomic analysis, allowing policy makers, econo-
+mists, and the business community to analyze the impact of 
+different tax and spending plans, the impact of oil and other 
+price shocks, and the impact of monetary policy on the econ-
+omy as a whole and on specific components of final demand, 
+incomes, industries, and regions.
+ChaPter 21  Measuring National Output and National Income 467 
+good—say, pizza, which is the same quality year after year. In each year 1 and 2, one hundred 
+units (slices) of pizza were produced. Production thus remained the same for year 1 and year 2. 
+Suppose the price of pizza increased from $1.00 per slice in year 1 to $1.10 per slice in year 2. 
+Nominal GDP in year 1 is $100 (100 units *  $1.00 per unit), and nominal GDP in year 2 is $110 
+(100 units *  $1.10 per unit). Nominal GDP has increased by $10 even though no more slices 
+of pizza were produced and the quality of the pizza did not improve. If we use nominal GDP to 
+measure growth, we can be misled into thinking production has grown when all that has really 
+happened is a rise in the price level (inflation).
+If there were only one good in the economy—for example, pizza—it would be easy to mea-
+sure production and compare one year’s value to another’s. We would add up all the pizza slices 
+produced each year. In the example, production is 100 in both years. If the number of slices had 
+increased to 105 in year 2, we would say production increased by 5 slices between year 1 and 
+year 2, which is a 5 percent increase. Alas, however, there is more than one good in the economy 
+which makes adjusting for price changes more complex.
+The following is a discussion of how the BEA adjusts nominal GDP for price changes. As you 
+read the discussion, you will see that this adjustment is not easy. Even in an economy of just apples 
+and oranges, it would not be obvious how to add up apples and oranges to get an overall measure of 
+output. The BEA’s task is to add up thousands of goods, each of whose price is changing over time.
+In the following discussion, we will use the concept of a weight, either price weights or 
+quantity weights. What is a weight? It is easiest to define the term by an example. Suppose in 
+your economics course there is a final exam and two other tests. If the final exam counts for 
+one-half of the grade and the other two tests for one-fourth each, the “weights” are one-half, 
+one-fourth, and one-fourth. If instead the final exam counts for 80 percent of the grade and the 
+other two tests for 10 percent each, the weights are 0.8, 0.1, and 0.1. The more important an item 
+is in a group, the larger its weight.
+Calculating Real GDP
+Nominal GDP adjusted for price changes is called real GDP. All the main issues involved in com-
+puting real GDP can be discussed using a simple three-good economy and 2 years. Table 21.6 
+presents all the data that we will need. The table presents price and quantity data for 2 years and 
+three goods. The goods are labeled A, B, and C, and the years are labeled 1 and 2. P denotes price, 
+and Q denotes quantity. Keep in mind that everything in the following discussion, including 
+the discussion of the GDP deflation, is based on the numbers in Table 21.6. Nothing has been 
+brought in from the outside. The table is the entire economy.
+The first thing to note from Table 21.6 is that nominal output—in current dollars—in year 
+1 for good A is the number of units of good A produced in year 1 (6) times the price of good A 
+in year 1 ($0.50), which is $3.00. Similarly, nominal output in year 1 is 7 *  $0.30 = $2.10 for 
+good B and 10 *  $0.70 = $7.00 for good C. The sum of these three amounts, $12.10 in col-
+umn 5, is nominal GDP in year 1 in this simple economy. Nominal GDP in year 2—calculated by 
+weight The importance 
+attached to an item within a 
+group of items.
+Table 21.6 a Three-Good economy
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+ 
+ 
+ 
+Production
+ 
+ 
+ 
+Price per Unit
+ 
+GDP in 
+Year 1 in 
+Year 1 
+Prices 
+P1 *  Q1 
+ 
+GDP in 
+Year 2 in 
+Year 1 
+Prices 
+P1 *  Q2 
+ 
+GDP in 
+Year 1 in 
+Year 2 
+Prices 
+P2 *  Q1 
+ 
+GDP in 
+Year 2 in 
+Year 2 
+Prices 
+P2 *  Q2 
+Year 1 
+Q1
+Year 2 
+Q2
+Year 1 
+P1
+Year 2 
+P2
+Good A
+ 6
+11
+$0.50
+$0.40
+$ 3.00
+$  5.50
+$  2.40
+$  4.40
+Good B
+ 7
+ 4
+ 0.30
+ 1.00
+  2.10
+  1.20
+  7.00
+  4.00
+Good C
+10
+12
+ 0.70
+ 0.90
+  7.00
+  8.40
+  9.00
+ 10.80
+Total
+$12.10
+$15.10
+$18.40
+$19.20
+Nominal 
+GDP in 
+year 1
+Nominal 
+GDP in 
+year 2
+468 Part IV Concepts and Problems in Macroeconomics 
+using the year 2 quantities and the year 2 prices—is $19.20 (column 8). Nominal GDP has risen 
+from $12.10 in year 1 to $19.20 in year 2, an increase of 58.7 percent.3
+You can see that the price of each good changed between year 1 and year 2—the price of 
+good A fell (from $0.50 to $0.40) and the prices of goods B and C rose (B from $0.30 to $1.00; C 
+from $0.70 to $0.90). Some of the change in nominal GDP between years 1 and 2 is as a result 
+of price changes and not production changes. How much can we attribute to price changes and 
+how much to production changes? Here things get tricky. The procedure that the BEA used 
+before 1996 was to pick a base year and to use the prices in that base year as weights to calculate 
+real GDP. This is a fixed-weight procedure because the weights used, which are the prices, are 
+the same for all years—namely, the prices that prevailed in the base year.
+Let us use the fixed-weight procedure and year 1 as the base year, which means using year 1 
+prices as the weights. Then in Table 21.6, real GDP in year 1 is $12.10 (column 5) and real GDP in 
+year 2 is $15.10 (column 6). Note that both columns use year 1 prices and that nominal and real 
+GDP are the same in year 1 because year 1 is the base year. Real GDP has increased from $12.10 
+to $15.10, an increase of 24.8 percent.
+Let us now use the fixed-weight procedure and year 2 as the base year, which means using 
+year 2 prices as the weights. In Table 21.6, real GDP in year 1 is $18.40 (column 7) and real GDP 
+in year 2 is $19.20 (column 8). Note that both columns use year 2 prices and that nominal and 
+real GDP are the same in year 2, because year 2 is the base year. Real GDP has increased from 
+$18.40 to $19.20, an increase of 4.3 percent.
+This example shows that growth rates can be sensitive to the choice of the base year—24.8 
+percent using year 1 prices as weights and 4.3 percent using year 2 prices as weights. For many 
+policy decisions, the growth rates play a role so that large differences coming from a seemingly 
+arbitrary choice of base year is troubling. The old BEA procedure simply picked one year as the 
+base year and did all the calculations using the prices in that year as weights. The new BEA pro-
+cedure makes two important changes. The first (using the current example) is to take the aver-
+age of the two years’ price changes, in other words, to “split the difference” between 24.8 percent 
+and 4.3 percent. What does “splitting the difference” mean? One way is to take the average of the 
+two numbers, which is 14.55 percent. What the BEA does is to take the geometric average, which 
+for the current example is 14.09 percent.4 These two averages (14.55 percent and 14.09 percent) 
+are quite close, and the use of either would give similar results. The point here is not that the 
+geometric average is used, but that the first change is to split the difference using some average. 
+When prices are going up, this procedure will lower the estimates of real growth rates relative 
+to the use of year 1 as a base year, and conversely when prices are falling. Note that this new 
+procedure requires two “base” years because 24.8 percent was computed using year 1 prices as 
+weights and 4.3 percent was computed using year 2 prices as weights.
+The second BEA change is to use years 1 and 2 as the base years when computing the per-
+centage change between years 1 and 2, then use years 2 and 3 as the base years when computing 
+the percentage change between years 2 and 3, and so on. The two base years change as the cal-
+culations move through time. The series of percentage changes computed this way is taken to be 
+the series of growth rates of real GDP. So in this way, nominal GDP is adjusted for price changes. 
+To make sure you understand this, review the calculations in Table 21.6, which provides all the 
+data you need to see what is going on.
+Calculating the GDP Deflator
+We now switch gears from real GDP, a quantity measure, to the GDP deflator, a price measure. 
+One of economic policy makers’ goals is to keep changes in the overall price level small. For this 
+reason, policy makers not only need good measures of how real output is changing but also good 
+measures of how the overall price level is changing. The GDP deflator is one measure of the overall 
+price level. We can use the data in Table 21.6 to show how the BEA computes the GDP deflator.
+In Table 21.6, the price of good A fell from $0.50 in year 1 to $0.40 in year 2, the price of 
+good B rose from $0.30 to $1.00, and the price of good C rose from $0.70 to $0.90. If we are 
+3 The percentage change is calculated as 3(19.20 - 12.10)>12.104 *  100 = .587 *  100 = 58.7 percent.
+base year The year chosen for 
+the weights in a fixed-weight 
+procedure.
+fixed-weight procedure A 
+procedure that uses weights 
+from a given base year.
+4 The geometric average is computed as the square root of 124.8 *  104.3, which is 114.09.
+ChaPter 21  Measuring National Output and National Income 469 
+interested only in how individual prices change, this is all the information we need. However, if 
+we are interested in how the overall price level changes, we need to weight the individual prices in 
+some way. Is it getting more expensive to live in this economy or less expensive? In this example 
+that clearly depends on how people spend their incomes. So, the obvious weights to use are the 
+quantities produced, but which quantities—those of year 1 or year 2? The same issues arise here 
+for the quantity weights as for the price weights in computing real GDP.
+Let us first use the fixed-weight procedure and year 1 as the base year, which means using 
+year 1 quantities as the weights. Then in Table 21.6, the “bundle” price in year 1 is $12.10 (col-
+umn 5) and the bundle price in year 2 is $18.40 (column 7). Both columns use year 1 quantities. 
+The bundle price has increased from $12.10 to $18.40, an increase of 52.1 percent.
+Next, use the fixed-weight procedure and year 2 as the base year, which means using year 
+2 quantities as the weights. Then the bundle price in year 1 is $15.10 (column 6), and the bundle 
+price in year 2 is $19.20 (column 8). Both columns use year 2 quantities. The bundle price has 
+increased from $15.10 to $19.20, an increase of 27.2 percent.
+This example shows that overall price increases can be sensitive to the choice of the base 
+year: 52.1 percent using year 1 quantities as weights and 27.2 percent using year 2 quantities as 
+weights. Again, the old BEA procedure simply picked one year as the base year and did all the 
+calculations using the quantities in the base year as weights. First, the new procedure splits the 
+difference between 52.1 percent and 27.2 percent by taking the geometric average, which is 39.1 
+percent. Second, it uses years 1 and 2 as the base years when computing the percentage change 
+between years 1 and 2, years 2 and 3 as the base years when computing the percentage change 
+between years 2 and 3, and so on. The series of percentage changes computed this way is taken 
+to be the series of percentage changes in the GDP deflator, that is, a series of inflation rates.
+The Problems of Fixed Weights
+To see why the BEA switched to the new procedure, let us consider a number of problems using 
+fixed-price weights to compute real GDP. First, 1987 price weights, the last price weights the 
+BEA used before it changed procedures, are not likely to be accurate for, say, 2014. Many struc-
+tural changes took place in the U.S. economy between 1987 and 2014, and it seems unlikely that 
+1987 prices are good weights to use for this much later period.
+Another problem is that the use of fixed-price weights does not account for the responses 
+in the economy to supply shifts. Perhaps bad weather leads to a lower production of oranges 
+in year 2. In a simple supply-and-demand diagram for oranges, this corresponds to a shift of 
+the supply curve to the left, which leads to an increase in the price of oranges and a decrease in 
+the quantity demanded. As consumers move up the demand curve, they are substituting away 
+from oranges. If technical advances in year 2 result in cheaper ways of producing computers, 
+the result is a shift of the computer supply curve to the right, which leads to a decrease in the 
+price of computers and an increase in the quantity demanded. Consumers are substituting 
+toward computers. (You should be able to draw supply-and-demand diagrams for both cases.) 
+Table 21.6 shows this tendency. The quantity of good A rose between years 1 and 2 and the price 
+decreased (the computer case), whereas the quantity of good B fell and the price increased (the 
+orange case). The computer supply curve has been shifting to the right over time, primarily 
+because of technical advances. The result has been large decreases in the price of computers and 
+large increases in the quantity demanded.
+To see why these responses pose a problem for the use of fixed-price weights, consider the 
+data in Table 21.6. Because the price of good A was higher in year 1, the increase in production of 
+good A is weighted more if we use year 1 as the base year than if we used year 2 as the base year. 
+Also, because the price of good B was lower in year 1, the decrease in production of good B is 
+weighted less if we use year 1 as the base year. These effects make the overall change in real GDP 
+larger if we use year 1 price weights than if we use year 2 price weights. Using year 1 price weights 
+ignores the kinds of substitution responses discussed in the previous paragraph and leads to what 
+many believe are too-large estimates of real GDP changes. In the past, the BEA tended to move the 
+base year forward about every 5 years, resulting in the past estimates of real GDP growth being 
+revised downward. It is undesirable to have past growth estimates change simply because of the 
+change to a new base year. The new BEA procedure avoids many of these fixed-weight problems.
+470 Part IV Concepts and Problems in Macroeconomics 
+Similar problems arise when using fixed-quantity weights to compute price indexes. For 
+example, the fixed-weight procedure ignores the substitution away from goods whose prices 
+are increasing and toward goods whose prices are decreasing or increasing less rapidly. The 
+procedure tends to overestimate the increase in the overall price level. As discussed in the next 
+chapter, there are still a number of price indexes that are computed using fixed weights. The 
+GDP deflator differs because it does not use fixed weights. It is also a price index for all the 
+goods and services produced in the economy. Other price indexes cover fewer domestically 
+produced goods and services but also include some imported (foreign-produced) goods and 
+services.
+It should finally be stressed that there is no “right” way of computing real GDP. The 
+economy consists of many goods, each with its own price, and there is no exact way of adding 
+together the production of the different goods. We can say that the BEA’s new procedure for 
+computing real GDP avoids the problems associated with the use of fixed weights, and it seems 
+to be an improvement over the old procedure. We will see in the next chapter, however, that the 
+consumer price index (CPI)—a widely used price index—is still computed using fixed weights.
+Limitations of the GDP Concept
+We generally think of increases in GDP as good. Increasing GDP (or preventing its decrease) is 
+usually considered one of the chief goals of the government’s macroeconomic policy. But there 
+are some limitations to the use of GDP as a measure of welfare.
+GDP and Social Welfare
+If crime levels went down, society would be better off, but a decrease in crime is not an increase 
+in output and is not reflected in GDP. Neither is an increase in leisure time. Yet to the extent 
+that households want extra leisure time (instead of having it forced on them by a lack of jobs 
+in the economy), an increase in leisure is also an increase in social welfare. Furthermore, some 
+increases in social welfare are associated with a decrease in GDP. An increase in leisure during a 
+time of full employment, for example, leads to a decrease in GDP because less time is spent on 
+producing output.
+Most nonmarket and domestic activities, such as housework and child care, are not counted 
+in GDP even though they amount to real production. However, if I decide to send my children to 
+day care or hire someone to clean my house or drive my car for me, GDP increases. The salaries 
+of day care staff, cleaning people, and chauffeurs are counted in GDP, but the time I spend doing 
+the same things is not counted. A mere change of institutional arrangements, even though no 
+more output is being produced, can show up as a change in GDP.
+Furthermore, GDP seldom reflects losses or social ills. GDP accounting rules do not adjust 
+for production that pollutes the environment. The more production there is, the larger the GDP, 
+regardless of how much pollution results in the process. The Economics in Practice box on the next 
+page 471 discusses how counting for pollution affects GDP measures. GDP also has nothing to 
+say about the distribution of output among individuals in a society. It does not distinguish, for 
+example, between the case in which most output goes to a few people and the case in which 
+ output is evenly divided among all people.
+The Informal Economy
+Many transactions are missed in the calculation of GDP even though, in principle, they should 
+be counted. Most illegal transactions are missed unless they are “laundered” into legitimate 
+business. Income that is earned but not reported as income for tax purposes is usually missed, 
+although some adjustments are made in the GDP calculations to take misreported income into 
+account. The part of the economy that should be counted in GDP but is not is sometimes called 
+the informal economy.
+21.4 Learning Objective
+Discuss the limitations 
+of  using GDP to measure 
+well-being.
+informal economy The part 
+of the economy in which 
+ transactions take place and in 
+which income is generated that 
+is unreported and therefore 
+not counted in GDP.
+ChaPter 21  Measuring National Output and National Income 471 
+E con o m i c s  i n  P r ac t i c E 
+An Alternative to GDP: The Human Development Index
+GDP and GNI are often used as indicators of economic 
+welfare. However, there is ample dissatisfaction with both 
+as measures of a nation’s overall well-being. During the 
+second half of the 20th century, debates about the multiple 
+dimensions of economic development led to the creation, in 
+1990, of a new indicator—the Human Development Index 
+(HDI). First introduced by the United Nations Development 
+Program, an international development agency, it is now 
+widely used to compare well-being across nations.
+Comparing country classifications based on GNI per 
+capita and HDI yields interesting results. While the two are 
+strongly correlated, since the HDI already incorporates the 
+GNI, some high-income countries exhibit lower HDI scores 
+than lower-income countries. Norway, a small high-income 
+country, has consistently topped the HDI chart while hav-
+ing a lower gross national income than other countries such 
+as Singapore or Kuwait. However, it neglects important 
+aspects of a country’s well-being, such as human rights 
+or political participation. It also provides only aggregate 
+country-level measures and not the distribution of well-
+being within countries, leading some economists to pro-
+pose alternatives like a “household-based HDI”.1
+ThiNkiNG PrAcTicAlly
+1. What are the other aspects of a nation’s well-being you 
+think are missing from both hDi and GDP (or GNi) 
+measures?
+1 Kenneth Harttgen and Stephan Klasen, “A household-based Human 
+Development Index”, Proceedings of the German Development Economics 
+Conference, Hannover 2010, No. 30.
+Tax evasion is usually thought to be one of the major incentives for people in developed 
+countries to participate in the informal economy. Studies estimate the size of the U.S. informal 
+economy at about 10 percent, whereas Europe is closer to 20 percent. In the developing world, 
+for a range of reasons, the informal economy is much larger, particularly for women workers. In 
+Latin America and Africa, it is estimated that the informal economy comprises well more than a 
+third of GDP in many nations.5
+Why should we care about the informal economy? To the extent that GDP reflects only 
+a part of economic activity instead of a complete measure of what the economy produces, 
+it is misleading. Unemployment rates, for example, may be lower than officially measured if 
+people work in the informal economy without reporting this fact to the government. Also, 
+if the size of the informal economy varies among countries—as it does—we can be misled 
+when we  compare GDP among countries. For example, Italy’s GDP would be much higher 
+if we considered its informal sector as part of the economy, and Switzerland’s GDP would 
+change very little.
+Gross National Income per Capita
+Making comparisons across countries is difficult because such comparisons need to be made in 
+a single currency, generally U.S. dollars. Converting GNP numbers for Japan into dollars requires 
+converting from yen into dollars. Because exchange rates can change quite dramatically in short 
+periods of time, such conversions are tricky. Recently, the World Bank adopted a new measur-
+ing system for international comparisons. The concept of gross national income (GNI) is GNP 
+converted into dollars using an average of currency exchange rates over several years adjusted 
+5 Jacques Chermes, “The Informal Economy,” Journal of Applied Economic Research, 2012.
+gross national income 
+(GNI) GNP converted into 
+dollars using an average of 
+currency exchange rates over 
+several years adjusted for rates 
+of inflation.
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+472 Part IV Concepts and Problems in Macroeconomics 
+0
+$10,000
+$20,000
+$30,000
+$40,000
+$50,000
+$60,000
+$70,000
+Norway
+Switzerland
+United States
+Netherlands
+Sweden
+Austria
+Denmark
+Germany
+Canada
+Belgium
+Australia
+Finland
+United Kingdom
+Japan
+France
+Ireland
+Italy
+Spain
+Korea, Rep. of
+Israel
+Greece
+Portugal
+Czech Republic
+Russian Federation
+Hungary
+Turkey
+Chile
+Mexico
+Romania
+Venezuela, R.B.
+Brazil
+South Africa
+Colombia
+China
+Thailand
+Egypt, Arab Rep.
+Jordan
+Indonesia
+Philippines
+India
+Vietnam
+Pakistan
+Nigeria
+Bangladesh
+Kenya
+Rwanda
+Nepal
+Ethiopia
+U.S. dollars
+▴
+▴FIGuRE 21.1 National Income for Selected Countries, 2013
+Source: Data from GNI per capita, PPP (current international $), The World Bank Group, Retrieved from http://data.worldbank.org/indicator/NY.GNP.PCAP 
+.PP.CD/countries/1W?display=default
+for rates of inflation. Figure 21.1 lists the gross national income per capita (GNI divided by popu-
+lation) for various countries in 2013. Of the countries in the figure, Norway had the highest 
+per capita GNI, followed by Switzerland, the United States, and the Netherlands. Ethiopia was 
+estimated to have per capita GNI of only $1,380 in 2013. This compares to $66,520 for Norway.
+Looking Ahead
+This chapter has introduced many key variables in which macroeconomists are interested, 
+including GDP and its components. There is much more to be learned about the data that 
+ macroeconomists use. In the next chapter, we will discuss the data on employment, unemploy-
+ment, and the labor force. In Chapter 25, we will discuss the data on money and interest rates. 
+Finally, in Chapter 34, we will discuss in more detail the data on the relationship between the 
+United States and the rest of the world.
+S u M M A R y 
+1. One source of data on the key variables in the macroecon-
+omy is the national income and product accounts. These accounts 
+provide a conceptual framework that macroeconomists use 
+to think about how the pieces of the economy fit together.
+21.1 GROSS DOMESTIC PRODUCT p. 458 
+2. Gross domestic product (GDP) is the key concept in national 
+income accounting. GDP is the total market value of all 
+final goods and services produced within a given period 
+by factors of production located within a country. GDP 
+excludes intermediate goods. To include goods when they are 
+purchased as inputs and when they are sold as final prod-
+ucts would be double counting and would result in an over-
+statement of the value of production.
+3. GDP excludes all transactions in which money or goods 
+change hands but in which no new goods and services are 
+produced. GDP includes the income of foreigners working 
+in the United States and the profits that foreign compa-
+nies earn in the United States. GDP excludes the income 
+of U.S.  citizens working abroad and profits earned by U.S. 
+ companies in foreign countries.
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+ChaPter 21  Measuring National Output and National Income 473 
+4. Gross national product (GNP) is the market value of all final 
+goods and services produced during a given period by 
+factors of production owned by a country’s citizens.
+21.2 CALCULATING GDP p. 460 
+5. The expenditure approach to GDP adds up the amount spent 
+on all final goods and services during a given period. The 
+four main categories of expenditures are personal consumption 
+expenditures (C), gross private domestic investment (I), government 
+consumption and gross investment (G), and net exports (EX - IM). 
+The sum of these categories equals GDP.
+6. The three main components of personal consumption expendi-
+tures (C) are durable goods, nondurable goods, and services.
+7. Gross private domestic investment (I) is the total investment 
+made by the private sector in a given period. There are 
+three kinds of investment: nonresidential investment, residential 
+ investment, and changes in business inventories. Gross invest-
+ment does not take depreciation—the decrease in the value 
+of  assets—into account. Net investment is equal to gross 
+ investment minus depreciation.
+8. Government consumption and gross investment (G) include ex-
+penditures by state, federal, and local governments for final 
+goods and services. The value of net exports (EX - IM) equals 
+the differences between exports (sales to foreigners of U.S.-
+produced goods and services) and imports (U.S. purchases 
+of goods and services from abroad).
+9. Because every payment (expenditure) by a buyer is a receipt 
+(income) for the seller, GDP can be computed in terms of 
+who receives it as income—the income approach to calculat-
+ing gross domestic product.
+10. GNP minus depreciation is net national product (NNP). 
+National income is the total amount earned by the factors of 
+production in the economy. It is equal to NNP except for a 
+statistical discrepancy. Personal income is the total income of 
+households. Disposable personal income is what households 
+have to spend or save after paying their taxes. The personal 
+saving rate is the percentage of disposable personal income 
+saved instead of spent.
+21.3 NOMINAL VERSUS REAL GDP p. 465 
+11. GDP measured in current dollars (the current prices that 
+one pays for goods) is nominal GDP. If we use nominal 
+GDP to measure growth, we can be misled into thinking 
+that production has grown when all that has happened is 
+a rise in the price level, or inflation. A better measure of 
+ production is real GDP, which is nominal GDP adjusted for 
+price changes.
+12. The GDP deflator is a measure of the overall  
+price level.
+21.4 LIMITATIONS OF ThE GDP CONCEPT p. 470 
+13. We generally think of increases in GDP as good, but 
+some problems arise when we try to use GDP as a mea-
+sure of happiness or well-being. The peculiarities of 
+GDP accounting mean that institutional changes can 
+change the value of GDP even if real production has not 
+changed. GDP ignores most social ills, such as pollution. 
+Furthermore, GDP tells us nothing about what kinds of 
+goods are being produced or how income is distributed 
+across the population. GDP also ignores many transac-
+tions of the informal economy.
+14. The concept of gross national income (GNI) is GNP converted 
+into dollars using an average of currency exchange rates 
+over several years adjusted for rates of inflation.
+R e v I e w  T e R M S  A N D  C O N C e P T S
+base year, p. 468 
+change in business inventories, p. 462 
+compensation of employees, p. 463 
+corporate profits, p. 463 
+current dollars, p. 465 
+depreciation, p. 462 
+disposable personal income, or after-tax 
+income, p. 465 
+durable goods, p. 460 
+expenditure approach, p. 460 
+final goods and services, p. 458 
+fixed-weight procedure, p. 468 
+government consumption and gross  
+investment (G), p. 463 
+gross domestic product (GDP), p. 458 
+gross investment, p. 462 
+gross national income (GNI), p. 471 
+gross national product (GNP), p. 459 
+gross private domestic investment (I), p. 462 
+income approach, p. 460 
+indirect taxes minus subsidies, p. 463 
+informal economy, p. 470 
+intermediate goods, p. 458 
+national income, p. 463 
+national income and product accounts, p. 457 
+net business transfer payments, p. 463 
+ net exports (EX - IM), p. 463 
+net interest, p. 463 
+net investment, p. 462 
+net national product (NNP), p. 464 
+nominal GDP, p. 465 
+nondurable goods, p. 460 
+nonresidential investment, p. 462 
+personal consumption expenditures (C), p. 460 
+personal income, p. 465 
+personal saving, p. 465 
+personal saving rate, p. 465 
+proprietors’ income, p. 463 
+rental income, p. 463 
+residential investment, p. 462 
+services, p. 460 
+statistical discrepancy, p. 464 
+surplus of government enterprises, p. 464 
+value added, p. 458 
+weight, p. 467 
+Equations:  
+Expenditure approach to GDP:  
+GDP = C + I + G + (EX - IM), p. 460 
+GDP = Final sales + Change in business 
+inventories, p. 462 
+capitalend of period = capitalbeginning of period 
++ net investment, p. 463 
+474 Part IV Concepts and Problems in Macroeconomics 
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+P R O b L e M S 
+Similar problems are available on Myeconlab.
+21.1 GROSS DOMESTIC PRODUCT
+Learning Objective: Describe GDP fundamentals and 
+differentiate between GDP and GNP.
+ 1.1 Explain what double counting is and discuss why GDP is 
+not equal to total sales.
+ 1.2 [related to the Economics in Practice on p. 461] Which 
+of the following transactions or activities would be 
+counted in your country’s GDP? Explain your answers.
+a. A transportation company acquires a fleet of second-hand 
+vehicles.
+b. The same transportation company acquires 1.000 gallons 
+of gas from a foreign company deducted from the net 
+ export component of GDP.
+c. You buy 10 short-term government bonds.
+d. A mining company acquires new government licenses to 
+drill in land the company already owns.
+e. You pay for a new haircut at your local hairdresser.
+f. Foreign residents buy a bundle of your country’s food 
+ specialties on an online retail site.
+g. Your parents spend a whole day cooking meals to be 
+handed out to their poorer neighbors.
+h. The local government acquires furniture for newly built 
+schools.
+i. Two telecommunications companies merge.
+j. A non-profit organization buys an apartment to lodge 
+their headquarters.
+k. You receive a large sum of money as bequest from a dead 
+relative.
+ 1.3 Jacques, a resident of France, goes to Germany to buy 
+a brand-new car for €15,600.00. He then brings the 
+car back to France and sells it to another resident for 
+€17,500.00. Which amount will be included in which 
+country’s GDP, deducted from the net export compo-
+nent of GDP?
+ 1.4 Anissa makes custom bird houses in her garage and she 
+buys all her supplies from a local lumber yard. Last year 
+she purchased $3,500 worth of supplies and produced 
+250 bird houses. She sold all 250 bird houses to a local 
+craft store for $25 each. The craft store sold all the bird 
+houses to customers for $55 each. For the total bird 
+house production, calculate the value added of Anissa 
+and of the craft store.
+21.2 CALCULATING GDP
+Learning Objective: Explain two methods for calculating GDP.
+ 2.1 [related to the Economics in Practice on p. 466] In 
+a simple economy, suppose that all income is either 
+compensation of employees or profits. Suppose also 
+that there are no indirect taxes. Calculate gross domestic 
+product from the following set of numbers. Show that the 
+expenditure approach and the income approach add up to 
+the same figure.
+Consumption
+$9,500
+Investment
+3,000
+Depreciation
+1,750
+Profits
+2,400
+Exports
+850
+Compensation of employees
+11,500
+Government purchases
+3,200
+Direct taxes
+1,200
+Saving
+1,600
+Imports
+900
+ 2.2 How do we know that calculating GDP by the 
+ expenditure approach yields the same answer as 
+ calculating GDP by the income approach?
+ 2.3 During 2002, real GDP in Japan rose about  
+1.3 percent. During the same period, retail sales in 
+Japan fell 1.8 percent in real terms. What are some  
+possible  explanations for retail sales to consumers  
+falling when GDP rises? (Hint: Think of the  
+composition of GDP using the expenditure  
+approach.)
+ 2.4 If you buy a new car, the entire purchase is counted 
+as consumption in the year in which you make the 
+transaction. Explain briefly why this is in one sense 
+an “error” in national income accounting. (Hint: How 
+is the purchase of a car different from the purchase of 
+a pizza?) How might you correct this error? How is 
+housing treated in the National Income and Product 
+Accounts? Specifically how does owner-occupied 
+housing enter into the  accounts? (Hint: Do some 
+Web searching on “imputed rent on owner-occupied 
+housing.”)
+ 2.5 Explain why imports are subtracted in the expenditure 
+approach to calculating GDP.
+ 2.6 Beginning in 2005, the housing market, which had been 
+booming for years, turned. Housing construction 
+dropped sharply in 2006. Go to www.bea.gov. Look 
+at the GDP  release and at past releases from 2005 to 
+2015. In real dollars, how much private  residential fixed 
+ investment (houses, apartments, condominiums, and 
+ cooperatives) took place in each quarter from 2005 to 
+2015? What portion of GDP did housing  construction 
+represent? After 2006, residential fixed investment was 
+declining sharply, yet GDP was  growing until the end of 
+2007. What categories of aggregate spending kept things 
+moving between 2006 and the end of 2007?
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+ChaPter 21  Measuring National Output and National Income 475 
+21.3 NOMINAL VERSUS REAL GDP
+Learning Objective: Discuss the difference between real GDP 
+and nominal GDP.
+ 3.1 The following table shows World Bank estimates for 
+world GDP from 2005 to 2014, both in nominal and 
+real terms (real GDP is calculated using a fixed weights 
+method,  using 2005 as a base year). How do you explain 
+the  discrepancy between nominal and real GDP in 2014? 
+How do you explain the evolution of world’s real GDP 
+growth rate from 2005 to 2014?
+years
+World GDP 
+(constant 
+2005 US$, 
+million)
+World  
+GDP ( current 
+US$, million)
+% change in 
+real GDP
+% change in 
+ nominal  
+GDP
+2005
+47.033,72 
+47.033,72 
+–
+–
+2006
+48.971,44 
+50.971,47 
+4.1%
+8.4%
+2007
+50.899,06 
+57.452,22 
+3.9%
+12.7%
+2008
+51.652,20 
+62.982,83 
+1.5%
+9.6%
+2009
+50.582,34 
+59.704,69 
+-2.1%
+-5.2%
+2010
+52.646,04 
+65.489,20 
+4.1%
+9.7%
+2011
+54.142,01 
+72.572,25 
+2.8%
+10.8%
+2012
+55.351,86 
+74.041,59 
+2.2%
+2.0%
+2013
+56.652,81 
+76.123,95 
+2.4%
+2.8%
+2014
+58.054,82 
+77.868,77 
+2.5%
+2.3%
+ 3.2 New Zealand recently changed its method of calculat-
+ing real GDP growth rate, substituting fixed weights 
+with chain weights. What might explain such change in 
+method? Are the differences between the two methods 
+significant?
+ 3.3 The following table gives some figures from forecasts of 
+real GDP (in 2005 dollars) and population done in mid-
+2014. According to the forecasts, approximately how 
+much real growth will there be between 2018 and 2019? 
+What is the per-capita real GDP projected to be in 2018 
+and in 2019? Compute the forecast rate of change in real 
+GDP and per-capita real GDP between 2018 and 2019.
+Real GDP 2018 (billions)
+$18,121
+Real GDP 2019 (billions)
+$18,375
+Population 2018 (millions)
+329.3
+Population 2019 (millions)
+331.9
+ 3.4 Look at a recent edition of The Economist. Go to the 
+section on economic indicators. Go down the list of 
+countries and make a list of the ones with the fastest 
+and slowest GDP growth. Look also at the forecast rates 
+of GDP growth. Go back to the table of contents at 
+the beginning of the journal to see if there are articles 
+about any of these countries. Write a paragraph or two 
+ describing the events or the economic conditions in one 
+of the countries. Explain why they are growing or not 
+growing rapidly.
+ 3.5 In the IMF’s Regional Economic Survey on the Asia-
+Pacific Region (available at www.imf.org) it is expected 
+that the growth outlook for the region in 2015 is “stable 
+and robust”, with an estimated average GDP growth rate 
+of 5.5%, a much higher rate than in other parts of the 
+world (especially Western Europe). Building on data from 
+this survey and your own research, compare this rate to 
+the GDP growth rate obtained in the past few years. How 
+do you assess this evolution of the GDP growth rate in the 
+region in terms of recession and expansion? What may be 
+the causes of such slowdown?
+ 3.6 Gorgonzola is a small island nation with a simple economy 
+that produces only six goods: sugar cane, yo-yos, rum, 
+peanuts, harmonicas, and peanut butter. Assume that one-
+quarter of all the sugar cane is used to produce rum and one-
+half of all the peanuts are used to produce peanut butter.
+a. Use the production and price information in the table to 
+calculate nominal GDP for 2015.
+b. Use the production and price information in the table to 
+calculate real GDP for 2013, 2014, and 2015 using 2013 as 
+the base year. What is the growth rate of real GDP from 
+2013 to 2014 and from 2014 to 2015?
+c. Use the production and price information in the table to 
+calculate real GDP for 2013, 2014, and 2015 using 2014 as 
+the base year. What is the growth rate of real GDP from 
+2013 to 2014 and from 2014 to 2015?
+2013
+2014
+2015
+Product
+Quantity Price
+Quantity Price Quantity Price
+Sugar cane
+240
+$0.80
+240
+$1.00
+300
+$1.15
+Yo-yos
+600
+ 2.50
+700
+ 3.00
+750
+ 4.00
+Rum
+150
+10.00
+160
+12.00
+180
+15.00
+Peanuts
+500
+ 2.00
+450
+ 2.50
+450
+ 2.50
+Harmonicas
+ 75
+25.00
+ 75
+30.00
+ 85
+30.00
+Peanut butter
+100
+ 4.50
+ 85
+ 4.50
+ 85
+ 5.00
+ 3.7 Below is data on Germany’s GDP extracted from 
+Eurostat, the European Union’s statistical office, for the 
+period 2005–2014. Real GDP is calculated with a fixed 
+weight method and 2005 as the base year. Fill the table 
+by calculating (i) the GDP deflator for each year; (ii) the 
+change in price level, in percentage terms.
+Real GDP
+Nominal 
+GDP
+GDP 
+deflator
+% change 
+in price 
+level
+2005
+2.297,82 
+2.297,82 
+2006
+2.383,07 
+2.390,20 
+2007
+2.460,99 
+2.510,11 
+2008
+2.486,88 
+2.558,02 
+2009
+2.346,67 
+2.456,66 
+2010
+2.442,67 
+2.576,22 
+2011
+2.530,36 
+2.699,10 
+2012
+2.539,89
+2.749,90 
+2013
+2.542,58 
+2.809,48
+2014
+2.583,37
+2.903,79
+ 3.8 Evaluate the following statement: Even if the prices of 
+a large number of goods and services in the economy 
+increase dramatically, the real GDP for the economy can 
+still fall, but if the prices of a large number of goods and 
+services in the economy decrease dramatically, the real 
+GDP for the economy cannot rise.
+476 Part IV Concepts and Problems in Macroeconomics 
+21.4 LIMITATIONS OF ThE GDP CONCEPT
+Learning Objective: Discuss the limitations of using GDP to 
+measure well-being.
+ 4.1 GDP calculations do not directly include the economic 
+costs of environmental damage—for example, global 
+warming and acid rain. Do you think these costs  
+should be included in GDP? Why or why not? How 
+could GDP be amended to include environmental  
+damage costs?
+ 4.2 [related to the Economics in Practice on p. 471] A 
+World Bank brief entitled Natural Capital Accounting con-
+tains the following statement: “(A) major limitation of 
+GDP is the limited representation of natural capital. The 
+full contribution of natural capital like forests, wetlands, 
+and agricultural land does not show up.” Identify some 
+additional examples of natural capital and explain how 
+limited representation of these types of natural capital 
+could affect the measurement of gross domestic product.
+Source: Natural Capital Accounting, World Bank brief, May 20, 2015.
+477 
+22 
+Each month the U.S. Bureau of 
+Labor Statistics (BLS) announces 
+the value of the unemployment 
+rate for the previous month. 
+For example, on April 3, 2015, 
+it  announced that the unem-
+ployment rate for March 2015 
+was 5.5 percent. The unem-
+ployment rate is a key measure 
+of how the economy is doing. 
+This  announcement is widely 
+watched, and if the announced 
+unemployment rate is different 
+from what the financial markets 
+expect, there can be large move-
+ments in those markets. It is thus 
+important to know how the BLS computes the  unemployment rate. The first part of this chapter 
+describes how the unemployment rate is computed and  discusses its various components.
+Inflation is another key macroeconomic variable. The previous chapter discussed how 
+the GDP deflator, the price deflator for the entire economy, is computed. The percentage 
+change in the GDP deflator is a measure of inflation. There are, however, other measures of 
+inflation, each pertaining to some part of the economy. The most widely followed price index 
+is the consumer price index (CPI), and its measurement is discussed in this chapter. The CPI is 
+also announced monthly by the BLS, and this announcement is widely followed by the finan-
+cial markets as well. For example, on March 24, 2015, the BLS announced that the percentage 
+change in the CPI for February 2015 was 0.2 percent for the month. After discussing the mea-
+surement of the CPI, this chapter discusses various costs of inflation as well as the concerns 
+policy makers might have when there is deflation (a fall in the price level). 
+The last topic considered in this chapter is long-run growth. Although much of mac-
+roeconomics is concerned with explaining business cycles, long-run growth is also a major 
+concern. The  average yearly growth rate of U.S. real GDP depicted in Figure 20.2 in Chapter 
+20 is 3.3  percent. Although there were many ups and downs during the 115 years depicted in 
+Figure 20.2, on average, the economy was growing at an annual 3.3 percent rate. In the last part 
+of this  chapter, we discuss the sources of this growth.
+Keep in mind that this chapter is still descriptive. We begin our analysis of how the economy 
+works in the next chapter.
+Unemployment, 
+Inflation, and Long-
+Run Growth
+Chapter Outline 
+and learning 
+ObjeCtives 
+22.1 Unemployment 
+p. 478
+Explain how unemployment 
+is measured.
+22.2 Inflation and 
+Deflation p. 483
+Describe the tools used 
+to measure inflation and 
+ discuss the costs and effects 
+of inflation.
+22.3 Long-Run 
+Growth p. 487
+Discuss the components 
+and implications of 
+ long-run growth.
+Looking Ahead p. 489
+478 Part IV Concepts and Problems in Macroeconomics 
+Unemployment
+We begin our discussion of unemployment with its measurement.
+Measuring Unemployment
+The unemployment data released each month by the BLS are based on a survey of 60,000 house-
+holds. Each interviewed household answers questions concerning the work activity of household 
+members 16 years of age or older during the calendar week that contains the 12th of the month. 
+(The survey is conducted in the week that contains the 19th of the month.)
+If a household member 16 years of age or older worked 1 hour or more as a paid employee, 
+either for someone else or in his or her own business or farm, the person is classified as 
+employed. A household member is also considered employed if he or she worked 15 hours or 
+more without pay in a family enterprise. Finally, a household member is counted as employed 
+if the person held a job from which he or she was temporarily absent because of illness, bad 
+weather, vacation,  labor-management disputes, or personal reasons, regardless of whether he 
+or she was paid.
+Those who are not employed fall into one of two categories: (1) unemployed or (2) not in 
+the labor force. To be considered unemployed, a person must be 16 years old or older, available 
+for work, and have made specific efforts to find work during the previous 4 weeks. A person 
+not looking for work because he or she does not want a job or has given up looking is classi-
+fied as not in the labor force. People not in the labor force include full-time students, retirees, 
+individuals in institutions, those staying home to take care of children, and discouraged job 
+seekers.
+The total labor force in the economy is the number of people employed plus the number of 
+unemployed:
+22.1 Learning Objective
+Explain how unemployment is 
+measured.
+employed Any person 16 
+years old or older (1) who 
+works for pay, either for some-
+one else or in his or her own 
+business for 1 or more hours 
+per week, (2) who works with-
+out pay for 15 or more hours 
+per week in a family enterprise, 
+or (3) who has a job but has 
+been temporarily absent with 
+or without pay.
+unemployed A person  
+16 years old or older who is 
+not working, is available for 
+work, and has made specific 
+efforts to find work during the 
+ previous 4 weeks.
+not in the labor force A 
+person who is not looking for 
+work because he or she does 
+not want a job or has given up 
+looking.
+labor force The number of 
+people employed plus the 
+number of unemployed.
+labor force = employed + unemployed
+The total population 16 years of age or older is equal to the number of people in the labor force 
+plus the number not in the labor force:
+population = labor force + not in labor force
+With these numbers, several ratios can be calculated. The unemployment rate is the ratio of the 
+number of people unemployed to the total number of people in the labor force:
+unemployment rate The ratio 
+of the number of people unem-
+ployed to the total number of 
+people in the labor force.
+unemployment rate =
+unemployed
+employed + unemployed
+In March 2015, the labor force contained 156.906 million people, 148.331 million of whom 
+were employed and 8.575 million of whom were unemployed and looking for work. The 
+ unemployment rate was 5.5 percent:
+8.575
+148.331 + 8.575 = 5.5%
+The ratio of the labor force to the population 16 years old or over is called the labor force 
+participation rate:
+labor force participation rate  
+The ratio of the labor force to 
+the total population 16 years 
+old or older.
+labor force participation rate = labor force
+population

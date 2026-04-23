@@ -36,7 +36,6 @@ MathJax = {
   }
   .q-table tr:last-child td { border-bottom: none; }
   .q-table tr:hover td { background: rgba(255,255,255,.03); }
-
   .q-diagram {
     display: flex;
     justify-content: center;
@@ -48,7 +47,6 @@ MathJax = {
     border-radius: 6px;
     padding: 8px;
   }
-
   .q-explanation {
     display: none;
     margin-top: 12px;
@@ -63,7 +61,6 @@ MathJax = {
   }
   .q-explanation.show { display: block; }
   .q-explanation strong { color: var(--gold); }
-
   .section-divider {
     margin: 36px 0 20px;
     display: flex;
@@ -82,7 +79,6 @@ MathJax = {
     height: 1px;
     background: var(--border);
   }
-
   .score-ring {
     width: 110px; height: 110px;
     border-radius: 50%;
@@ -108,7 +104,6 @@ MathJax = {
       <li><a href="ch19.html">Ch 19</a></li>
       <li><a href="ch20.html">Ch 20</a></li>
       <li><a href="ch21.html">Ch 21</a></li>
-      <li><a href="final-quiz.html">Final Quiz</a></li>
       <li><a href="practice-quiz.html" class="active">Practice</a></li>
     </ul>
   </div>
@@ -116,14 +111,14 @@ MathJax = {
 
 <div class="page-wrap">
   <section class="hero" style="padding-bottom:32px">
-    <div class="hero-tag">Numerical · Graph-Based · Hard</div>
-    <h1>Actual Practice Quiz</h1>
-    <p class="hero-sub">20 exam-style questions drawn directly from the practice problem set — tax calculations, supply/demand incidence, national income accounting, real vs. nominal GDP. Show your work.</p>
+    <div class="hero-tag">Numerical · Graph-Based · Hard · 35 Questions</div>
+    <h1>Practice Quiz</h1>
+    <p class="hero-sub">Exam-style questions drawn directly from the practice problem set — tax calculations, supply/demand incidence, national income accounting, real vs. nominal GDP. Explanations revealed on submit.</p>
   </section>
 
   <div class="quiz-progress-wrap">
     <div class="quiz-progress-bar"><div class="progress-fill" id="progress-fill-pq" style="width:0%"></div></div>
-    <span class="progress-label" id="progress-label-pq">0 / 20</span>
+    <span class="progress-label" id="progress-label-pq">0 / 35</span>
   </div>
 
   <form id="quiz-pq" class="quiz-form">
@@ -131,33 +126,26 @@ MathJax = {
     <!-- ─── SECTION A: TAXATION ─────────────────────────────────── -->
     <div class="section-divider">Section A — Taxation &amp; Incidence (Ch 19)</div>
 
-    <!-- Q1 -->
     <div class="quiz-question">
       <p class="q-text"><strong>1.</strong> A flat-rate income tax imposes <strong>25% on all income over $25,000</strong> (the first $25,000 is untaxed). For a taxpayer earning <strong>$80,000</strong>, the tax due is:</p>
       <label class="option-label" data-q="1" data-val="a"><input type="radio" name="q1" value="a"> \$13,750</label>
       <label class="option-label" data-q="1" data-val="b"><input type="radio" name="q1" value="b"> \$20,000</label>
       <label class="option-label" data-q="1" data-val="c"><input type="radio" name="q1" value="c"> \$17,500</label>
       <label class="option-label" data-q="1" data-val="d"><input type="radio" name="q1" value="d"> \$18,750</label>
-      <div class="q-explanation" id="exp-1">
-        <strong>Correct: $13,750.</strong> Taxable income = $80,000 − $25,000 = $55,000. Tax = 0.25 × $55,000 = <strong>$13,750</strong>. The $20,000 distractor applies 25% to the full income; the $17,500 distractor incorrectly uses $70,000 as the base.
-      </div>
+      <div class="q-explanation" id="exp-1"><strong>Correct: $13,750.</strong> Taxable income = $80,000 − $25,000 = $55,000. Tax = 0.25 × $55,000 = <strong>$13,750</strong>. The $20,000 distractor applies 25% to the full $80k; $18,750 applies it to $75k.</div>
     </div>
 
-    <!-- Q2 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>2.</strong> Under the same tax structure (25% on income over $25,000), the <strong>average tax rate</strong> at an income of <strong>$45,000</strong> is closest to:</p>
+      <p class="q-text"><strong>2.</strong> Under the same tax structure, the <strong>average tax rate</strong> at an income of <strong>$45,000</strong> is:</p>
       <label class="option-label" data-q="2" data-val="a"><input type="radio" name="q2" value="a"> 25.00%</label>
       <label class="option-label" data-q="2" data-val="b"><input type="radio" name="q2" value="b"> 7.14%</label>
       <label class="option-label" data-q="2" data-val="c"><input type="radio" name="q2" value="c"> 11.11%</label>
       <label class="option-label" data-q="2" data-val="d"><input type="radio" name="q2" value="d"> 14.58%</label>
-      <div class="q-explanation" id="exp-2">
-        <strong>Correct: 11.11%.</strong> Tax due = 0.25 × ($45,000 − $25,000) = $5,000. Average rate = $5,000 / $45,000 × 100 = <strong>11.11%</strong>. Note: 7.14% is the rate at $35,000; 14.58% is the rate at $60,000.
-      </div>
+      <div class="q-explanation" id="exp-2"><strong>Correct: 11.11%.</strong> Tax due = 0.25 × ($45,000 − $25,000) = $5,000. Avg rate = $5,000 ÷ $45,000 × 100 = <strong>11.11%</strong>. Note 7.14% is the rate at $35k; 14.58% is at $60k.</div>
     </div>
 
-    <!-- Q3 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>3.</strong> Consider the full schedule below. The tax is best classified as:</p>
+      <p class="q-text"><strong>3.</strong> Looking at the full schedule, this tax is best classified as:</p>
       <table class="q-table">
         <thead><tr><th>Income</th><th>Tax Due</th><th>Avg Tax Rate</th></tr></thead>
         <tbody>
@@ -170,70 +158,40 @@ MathJax = {
         </tbody>
       </table>
       <label class="option-label" data-q="3" data-val="a"><input type="radio" name="q3" value="a"> Regressive — average rate falls as income rises</label>
-      <label class="option-label" data-q="3" data-val="b"><input type="radio" name="q3" value="b"> Proportional — everyone pays the same average rate</label>
+      <label class="option-label" data-q="3" data-val="b"><input type="radio" name="q3" value="b"> Proportional — everyone pays the same rate (25%)</label>
       <label class="option-label" data-q="3" data-val="c"><input type="radio" name="q3" value="c"> Progressive — average tax rate rises as income rises</label>
-      <label class="option-label" data-q="3" data-val="d"><input type="radio" name="q3" value="d"> Proportional — the marginal rate is flat at 25%</label>
-      <div class="q-explanation" id="exp-3">
-        <strong>Correct: Progressive.</strong> Although the <em>marginal</em> rate is a flat 25%, the <em>average</em> rate rises from 0% to 18.75% as income grows — the hallmark of a progressive tax. A flat marginal rate with an exempt threshold creates progressivity through the average rate.
-      </div>
+      <label class="option-label" data-q="3" data-val="d"><input type="radio" name="q3" value="d"> Proportional because the marginal rate is a flat 25%</label>
+      <div class="q-explanation" id="exp-3"><strong>Correct: Progressive.</strong> The <em>marginal</em> rate is flat at 25%, but the <em>average</em> rate rises from 0% to 18.75% as income grows. A flat marginal rate with an exempt bracket creates progressivity through the average rate.</div>
     </div>
 
-    <!-- Q4 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>4.</strong> Market demand is \(Q_d = 8 - \tfrac{1}{3}P\) and market supply is \(Q_s = P - 8\). The pre-tax equilibrium price is:</p>
+      <p class="q-text"><strong>4.</strong> Market demand is \(Q_d = 8 - \tfrac{1}{3}P\) and supply is \(Q_s = P - 8\). The pre-tax equilibrium price is:</p>
       <label class="option-label" data-q="4" data-val="a"><input type="radio" name="q4" value="a"> \(P = 8\)</label>
       <label class="option-label" data-q="4" data-val="b"><input type="radio" name="q4" value="b"> \(P = 12\)</label>
       <label class="option-label" data-q="4" data-val="c"><input type="radio" name="q4" value="c"> \(P = 15\)</label>
       <label class="option-label" data-q="4" data-val="d"><input type="radio" name="q4" value="d"> \(P = 16\)</label>
-      <div class="q-explanation" id="exp-4">
-        <strong>Correct: P = 12.</strong> Set \(Q_d = Q_s\): \(8 - \tfrac{1}{3}P = P - 8\). Add 8 to both sides: \(16 - \tfrac{1}{3}P = P\). Add \(\tfrac{1}{3}P\): \(16 = \tfrac{4}{3}P\). Solve: \(P = 12\). Then \(Q = 12 - 8 = 4\).
-      </div>
+      <div class="q-explanation" id="exp-4"><strong>Correct: P = 12.</strong> Set \(Q_d = Q_s\): \(8 - \tfrac{1}{3}P = P - 8 \Rightarrow 16 = \tfrac{4}{3}P \Rightarrow P = 12\). Then \(Q = 12 - 8 = 4\).</div>
     </div>
 
-    <!-- Q5 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>5.</strong> A per-unit excise tax shifts supply to \(Q_s = P - 12\). The diagram below shows both supply curves. The new equilibrium price paid by <strong>consumers</strong> is:</p>
+      <p class="q-text"><strong>5.</strong> An excise tax shifts supply to \(Q_s = P - 12\). The new equilibrium price paid by consumers is:</p>
       <div class="q-diagram">
         <svg viewBox="0 0 320 260" width="320" height="260" font-family="'JetBrains Mono',monospace" font-size="11">
-          <defs>
-            <marker id="pq-arr" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
-              <path d="M0,0 L6,3 L0,6 Z" fill="#888"/>
-            </marker>
-          </defs>
-          <!-- axes -->
+          <defs><marker id="pq-arr" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#888"/></marker></defs>
           <line x1="50" y1="220" x2="290" y2="220" stroke="#555" stroke-width="1.5" marker-end="url(#pq-arr)"/>
           <line x1="50" y1="220" x2="50" y2="20" stroke="#555" stroke-width="1.5" marker-end="url(#pq-arr)"/>
           <text x="294" y="224" fill="#888" font-size="10">Q</text>
           <text x="36" y="18" fill="#888" font-size="10">P</text>
-
-          <!-- Demand: Qd = 8 - P/3  →  P = 24 - 3Q  (Q=0 → P=24; Q=8 → P=0) -->
-          <!-- map Q: 0→50, 8→290; P: 0→220, 24→20 -->
-          <!-- Q scale: (Q/8)*240 + 50;  P scale: 220 - (P/24)*200 -->
-          <!-- D: (50,20) to (290,220) -->
           <line x1="50" y1="20" x2="290" y2="220" stroke="#6494c8" stroke-width="2"/>
           <text x="292" y="218" fill="#6494c8" font-size="11">D</text>
-
-          <!-- S0: Qs = P - 8  →  P = Q + 8  (Q=0 → P=8; Q=8 → P=16) -->
-          <!-- at Q=0: P=8 → x=50, y=220-(8/24)*200=153 -->
-          <!-- at Q=8: P=16 → x=290, y=220-(16/24)*200=87 -->
           <line x1="50" y1="153" x2="290" y2="87" stroke="#64b4a0" stroke-width="2"/>
           <text x="292" y="90" fill="#64b4a0" font-size="11">S₀</text>
-
-          <!-- S1: Qs = P - 12  →  P = Q + 12  (Q=0 → P=12; Q=8 → P=20) -->
-          <!-- at Q=0: P=12 → y=220-(12/24)*200=120 -->
-          <!-- at Q=8: P=20 → y=220-(20/24)*200=53 -->
           <line x1="50" y1="120" x2="290" y2="53" stroke="#c9a84c" stroke-width="2" stroke-dasharray="6,3"/>
           <text x="292" y="56" fill="#c9a84c" font-size="11">S₁</text>
-
-          <!-- E0: Q=4, P=12 → x=50+(4/8)*240=170, y=220-(12/24)*200=120 -->
           <circle cx="170" cy="120" r="4" fill="#64b4a0"/>
           <text x="174" y="116" fill="#64b4a0" font-size="10">E₀(12,4)</text>
-
-          <!-- E1: Q=3, P=15 → x=50+(3/8)*240=140, y=220-(15/24)*200=95 -->
           <circle cx="140" cy="95" r="4" fill="#c9a84c"/>
           <text x="144" y="91" fill="#c9a84c" font-size="10">E₁(?,3)</text>
-
-          <!-- dashed lines for E1 -->
           <line x1="140" y1="95" x2="140" y2="220" stroke="#c9a84c" stroke-width="1" stroke-dasharray="3,3" opacity=".5"/>
           <line x1="140" y1="95" x2="50" y2="95" stroke="#c9a84c" stroke-width="1" stroke-dasharray="3,3" opacity=".5"/>
           <text x="28" y="98" fill="#c9a84c" font-size="10">?</text>
@@ -244,53 +202,59 @@ MathJax = {
       <label class="option-label" data-q="5" data-val="b"><input type="radio" name="q5" value="b"> \(P = 12\)</label>
       <label class="option-label" data-q="5" data-val="c"><input type="radio" name="q5" value="c"> \(P = 15\)</label>
       <label class="option-label" data-q="5" data-val="d"><input type="radio" name="q5" value="d"> \(P = 19\)</label>
-      <div class="q-explanation" id="exp-5">
-        <strong>Correct: P = 15.</strong> Set \(8 - \tfrac{1}{3}P = P - 12\). Add 12: \(20 - \tfrac{1}{3}P = P\). Add \(\tfrac{1}{3}P\): \(20 = \tfrac{4}{3}P\). Solve: \(P = 15\). New quantity \(Q = 15 - 12 = 3\).
-      </div>
+      <div class="q-explanation" id="exp-5"><strong>Correct: P = 15.</strong> \(8 - \tfrac{1}{3}P = P - 12 \Rightarrow 20 = \tfrac{4}{3}P \Rightarrow P = 15\). New quantity \(Q = 15 - 12 = 3\).</div>
     </div>
 
-    <!-- Q6 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>6.</strong> Based on the shift from \(Q_s = P - 8\) to \(Q_s = P - 12\), the per-unit excise tax is:</p>
+      <p class="q-text"><strong>6.</strong> Based on the shift from \(Q_s = P - 8\) to \(Q_s = P - 12\), the per-unit excise tax equals:</p>
       <label class="option-label" data-q="6" data-val="a"><input type="radio" name="q6" value="a"> 2</label>
       <label class="option-label" data-q="6" data-val="b"><input type="radio" name="q6" value="b"> 3</label>
       <label class="option-label" data-q="6" data-val="c"><input type="radio" name="q6" value="c"> 4</label>
       <label class="option-label" data-q="6" data-val="d"><input type="radio" name="q6" value="d"> 6</label>
-      <div class="q-explanation" id="exp-6">
-        <strong>Correct: 4.</strong> The tax shifts the supply intercept from 8 to 12 (a difference of 4 in the P-intercept of the supply equation). Equivalently, for the same quantity, the producer now requires a price $4 higher to supply it — that wedge is the tax.
-      </div>
+      <div class="q-explanation" id="exp-6"><strong>Correct: 4.</strong> The P-intercept of the supply equation shifts from 8 to 12 — a gap of 4. For any given quantity, producers now require $4 more to supply it; that wedge is the tax.</div>
     </div>
 
-    <!-- Q7 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>7.</strong> Of the $4 per-unit excise tax, the share borne by <strong>consumers</strong> (as a fraction of the tax) is:</p>
+      <p class="q-text"><strong>7.</strong> Of the $4 per-unit excise tax, consumers bear:</p>
       <label class="option-label" data-q="7" data-val="a"><input type="radio" name="q7" value="a"> 100% — consumers bear the entire tax</label>
-      <label class="option-label" data-q="7" data-val="b"><input type="radio" name="q7" value="b"> 75% — consumers bear $3 of the $4 tax</label>
-      <label class="option-label" data-q="7" data-val="c"><input type="radio" name="q7" value="c"> 50% — the burden is split equally</label>
-      <label class="option-label" data-q="7" data-val="d"><input type="radio" name="q7" value="d"> 25% — producers bear $3 of the $4 tax</label>
-      <div class="q-explanation" id="exp-7">
-        <strong>Correct: 75%.</strong> Consumer burden = new price − old price = $15 − $12 = <strong>$3</strong>. Producer burden = tax − consumer burden = $4 − $3 = $1 (producer receives $15 − $4 = $11, down from $12). Consumer share = $3/$4 = <strong>75%</strong>. Consumers bear more because demand is relatively inelastic compared to supply.
-      </div>
+      <label class="option-label" data-q="7" data-val="b"><input type="radio" name="q7" value="b"> 75% — consumers pay $3 of the $4</label>
+      <label class="option-label" data-q="7" data-val="c"><input type="radio" name="q7" value="c"> 50% — burden splits equally</label>
+      <label class="option-label" data-q="7" data-val="d"><input type="radio" name="q7" value="d"> 25% — producers bear $3 of the $4</label>
+      <div class="q-explanation" id="exp-7"><strong>Correct: 75%.</strong> Consumer burden = new price − old price = $15 − $12 = $3. Producer burden = $4 − $3 = $1 (they net $11, down from $12). Consumer share = $3 ÷ $4 = <strong>75%</strong>.</div>
     </div>
 
-    <!-- Q8 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>8.</strong> The <strong>excess burden (deadweight loss)</strong> of this excise tax — the efficiency loss beyond the revenue collected — equals:</p>
+      <p class="q-text"><strong>8.</strong> The <strong>excess burden (deadweight loss)</strong> of this excise tax equals:</p>
       <label class="option-label" data-q="8" data-val="a"><input type="radio" name="q8" value="a"> 12</label>
       <label class="option-label" data-q="8" data-val="b"><input type="radio" name="q8" value="b"> 6</label>
       <label class="option-label" data-q="8" data-val="c"><input type="radio" name="q8" value="c"> 4</label>
       <label class="option-label" data-q="8" data-val="d"><input type="radio" name="q8" value="d"> 2</label>
-      <div class="q-explanation" id="exp-8">
-        <strong>Correct: 2.</strong> \(\text{DWL} = \tfrac{1}{2} \times \text{tax} \times \Delta Q = \tfrac{1}{2} \times 4 \times (4 - 3) = \mathbf{2}\). Tax revenue = $4 × 3 = $12. Total welfare loss = $14, of which $12 is transferred to government and $2 is pure deadweight loss (the Harberger triangle).
-      </div>
+      <div class="q-explanation" id="exp-8"><strong>Correct: 2.</strong> \(\text{DWL} = \tfrac{1}{2} \times \text{tax} \times \Delta Q = \tfrac{1}{2} \times 4 \times (4-3) = 2\). Tax revenue = $4 × 3 = $12. The DWL is the Harberger triangle — welfare lost that nobody captures.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>9.</strong> A taxpayer's marginal rate is 35% and average rate is 22%. A $2,000 salary increase raises their tax bill by:</p>
+      <label class="option-label" data-q="9" data-val="a"><input type="radio" name="q9" value="a"> \$440</label>
+      <label class="option-label" data-q="9" data-val="b"><input type="radio" name="q9" value="b"> \$700</label>
+      <label class="option-label" data-q="9" data-val="c"><input type="radio" name="q9" value="c"> \$570</label>
+      <label class="option-label" data-q="9" data-val="d"><input type="radio" name="q9" value="d"> \$1,140</label>
+      <div class="q-explanation" id="exp-9"><strong>Correct: $700.</strong> The <em>marginal</em> rate applies to the next dollar of income. Extra tax = $2,000 × 35% = <strong>$700</strong>. The average rate (22%) is irrelevant here — it describes the average burden on existing income, not incremental income.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>10.</strong> A $0.60 per-gallon petrol tax collects $600 from a household earning $20,000 and $600 from a household earning $120,000. This tax structure is:</p>
+      <label class="option-label" data-q="10" data-val="a"><input type="radio" name="q10" value="a"> Progressive — both households pay the same dollar amount</label>
+      <label class="option-label" data-q="10" data-val="b"><input type="radio" name="q10" value="b"> Proportional — the dollar burden is identical</label>
+      <label class="option-label" data-q="10" data-val="c"><input type="radio" name="q10" value="c"> Regressive — the lower-income household pays a higher share of income</label>
+      <label class="option-label" data-q="10" data-val="d"><input type="radio" name="q10" value="d"> Neutral — income level does not affect the tax</label>
+      <div class="q-explanation" id="exp-10"><strong>Correct: Regressive.</strong> Avg rate for $20k household = $600 ÷ $20,000 = 3.0%. Avg rate for $120k household = $600 ÷ $120,000 = 0.5%. The rate <em>falls</em> as income rises → regressive.</div>
     </div>
 
     <!-- ─── SECTION B: NATIONAL INCOME ACCOUNTING ───────────────── -->
     <div class="section-divider">Section B — National Income Accounting (Ch 21)</div>
 
-    <!-- Q9 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>9.</strong> Given the national income data below, calculate <strong>NNP at Factor Cost</strong>:</p>
+      <p class="q-text"><strong>11.</strong> Given the data below, calculate <strong>NNP at Factor Cost</strong>:</p>
       <table class="q-table">
         <thead><tr><th>Item</th><th>Value ($B)</th></tr></thead>
         <tbody>
@@ -300,32 +264,26 @@ MathJax = {
           <tr><td>Subsidies</td><td>190</td></tr>
         </tbody>
       </table>
-      <label class="option-label" data-q="9" data-val="a"><input type="radio" name="q9" value="a"> $15,400B</label>
-      <label class="option-label" data-q="9" data-val="b"><input type="radio" name="q9" value="b"> $15,560B</label>
-      <label class="option-label" data-q="9" data-val="c"><input type="radio" name="q9" value="c"> $16,520B</label>
-      <label class="option-label" data-q="9" data-val="d"><input type="radio" name="q9" value="d"> $16,710B</label>
-      <div class="q-explanation" id="exp-9">
-        <strong>Correct: $15,560B.</strong> NNP at Factor Cost = NDP at Factor Cost + Net factor income from abroad = $15,480 + $80 = <strong>$15,560B</strong>. This step converts <em>domestic</em> (within borders) to <em>national</em> (by nationals) by adding net factor earnings from abroad.
-      </div>
+      <label class="option-label" data-q="11" data-val="a"><input type="radio" name="q11" value="a"> $15,400B</label>
+      <label class="option-label" data-q="11" data-val="b"><input type="radio" name="q11" value="b"> $15,560B</label>
+      <label class="option-label" data-q="11" data-val="c"><input type="radio" name="q11" value="c"> $16,520B</label>
+      <label class="option-label" data-q="11" data-val="d"><input type="radio" name="q11" value="d"> $16,710B</label>
+      <div class="q-explanation" id="exp-11"><strong>Correct: $15,560B.</strong> NNP at FC = NDP at FC + net factor income from abroad = $15,480 + $80 = <strong>$15,560B</strong>. This converts domestic (within borders) to national (by nationals) by adding net earnings from abroad.</div>
     </div>
 
-    <!-- Q10 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>10.</strong> Using the same data, <strong>NNP at Market Prices</strong> is:</p>
-      <label class="option-label" data-q="10" data-val="a"><input type="radio" name="q10" value="a"> $14,600B</label>
-      <label class="option-label" data-q="10" data-val="b"><input type="radio" name="q10" value="b"> $15,370B</label>
-      <label class="option-label" data-q="10" data-val="c"><input type="radio" name="q10" value="c"> $16,520B</label>
-      <label class="option-label" data-q="10" data-val="d"><input type="radio" name="q10" value="d"> $16,900B</label>
-      <div class="q-explanation" id="exp-10">
-        <strong>Correct: $16,520B.</strong> NNP at Market Prices = NNP at Factor Cost + Indirect Taxes − Subsidies = $15,560 + $1,150 − $190 = <strong>$16,520B</strong>. Market prices include indirect taxes (like sales tax) but exclude subsidies, which lower market prices below factor cost.
-      </div>
+      <p class="q-text"><strong>12.</strong> Using the same data, <strong>NNP at Market Prices</strong> is:</p>
+      <label class="option-label" data-q="12" data-val="a"><input type="radio" name="q12" value="a"> $14,600B</label>
+      <label class="option-label" data-q="12" data-val="b"><input type="radio" name="q12" value="b"> $15,370B</label>
+      <label class="option-label" data-q="12" data-val="c"><input type="radio" name="q12" value="c"> $16,520B</label>
+      <label class="option-label" data-q="12" data-val="d"><input type="radio" name="q12" value="d"> $16,900B</label>
+      <div class="q-explanation" id="exp-12"><strong>Correct: $16,520B.</strong> NNP at MP = NNP at FC + Indirect Taxes − Subsidies = $15,560 + $1,150 − $190 = <strong>$16,520B</strong>.</div>
     </div>
 
-    <!-- Q11 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>11.</strong> A country produces six goods. After adjusting for intermediate goods, the final-good quantities and prices for <strong>2018</strong> are shown. What is <strong>Nominal GDP for 2018</strong>?</p>
+      <p class="q-text"><strong>13.</strong> After adjusting for intermediate goods, the 2018 final-good data for a small island economy are:</p>
       <table class="q-table">
-        <thead><tr><th>Product</th><th>Final Qty (2018)</th><th>2018 Price</th></tr></thead>
+        <thead><tr><th>Product</th><th>Qty (2018)</th><th>Price (2018)</th></tr></thead>
         <tbody>
           <tr><td>Sugar cane</td><td>225</td><td>$1.15</td></tr>
           <tr><td>Yo-yos</td><td>750</td><td>$4.00</td></tr>
@@ -335,124 +293,216 @@ MathJax = {
           <tr><td>Peanut butter</td><td>85</td><td>$5.00</td></tr>
         </tbody>
       </table>
-      <label class="option-label" data-q="11" data-val="a"><input type="radio" name="q11" value="a"> $8,130.00</label>
-      <label class="option-label" data-q="11" data-val="b"><input type="radio" name="q11" value="b"> $9,496.25</label>
-      <label class="option-label" data-q="11" data-val="c"><input type="radio" name="q11" value="c"> $6,812.50</label>
-      <label class="option-label" data-q="11" data-val="d"><input type="radio" name="q11" value="d"> $7,395.00</label>
-      <div class="q-explanation" id="exp-11">
-        <strong>Correct: $9,496.25.</strong> Sum of (qty × 2018 price): 225×1.15 + 750×4 + 180×15 + 225×2.50 + 85×30 + 85×5 = 258.75 + 3,000 + 2,700 + 562.50 + 2,550 + 425 = <strong>$9,496.25</strong>. The $6,812.50 option is real GDP using 2016 prices.
-      </div>
+      <p class="q-text" style="margin-top:6px">Nominal GDP for 2018 is:</p>
+      <label class="option-label" data-q="13" data-val="a"><input type="radio" name="q13" value="a"> $8,130.00</label>
+      <label class="option-label" data-q="13" data-val="b"><input type="radio" name="q13" value="b"> $9,496.25</label>
+      <label class="option-label" data-q="13" data-val="c"><input type="radio" name="q13" value="c"> $6,812.50</label>
+      <label class="option-label" data-q="13" data-val="d"><input type="radio" name="q13" value="d"> $7,395.00</label>
+      <div class="q-explanation" id="exp-13"><strong>Correct: $9,496.25.</strong> Sum each (qty × price): 225×1.15 + 750×4 + 180×15 + 225×2.50 + 85×30 + 85×5 = 258.75 + 3,000 + 2,700 + 562.50 + 2,550 + 425 = <strong>$9,496.25</strong>.</div>
     </div>
 
-    <!-- Q12 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>12.</strong> Using <strong>2016 as the base year</strong>, Real GDP for <strong>2017</strong> is (2016 prices: sugar cane $0.80, yo-yos $2.50, rum $10.00, peanuts $2.00, harmonicas $25.00, peanut butter $4.50; 2017 final quantities: sugar cane 180, yo-yos 700, rum 160, peanuts 225, harmonicas 75, peanut butter 85):</p>
-      <label class="option-label" data-q="12" data-val="a"><input type="radio" name="q12" value="a"> $5,969.00</label>
-      <label class="option-label" data-q="12" data-val="b"><input type="radio" name="q12" value="b"> $7,395.00</label>
-      <label class="option-label" data-q="12" data-val="c"><input type="radio" name="q12" value="c"> $6,201.50</label>
-      <label class="option-label" data-q="12" data-val="d"><input type="radio" name="q12" value="d"> $7,105.00</label>
-      <div class="q-explanation" id="exp-12">
-        <strong>Correct: $6,201.50.</strong> Multiply 2017 quantities × 2016 prices: 180×0.80 + 700×2.50 + 160×10 + 225×2 + 75×25 + 85×4.50 = 144 + 1,750 + 1,600 + 450 + 1,875 + 382.50 = <strong>$6,201.50</strong>. Note: $5,969 is real GDP for 2016 (base 2016); $7,395 uses 2017 as base.
-      </div>
+      <p class="q-text"><strong>14.</strong> Using <strong>2016 as base year</strong>, Real GDP for <strong>2017</strong> is (2016 prices: sugar cane $0.80, yo-yos $2.50, rum $10, peanuts $2.00, harmonicas $25, peanut butter $4.50 — 2017 quantities: 180, 700, 160, 225, 75, 85):</p>
+      <label class="option-label" data-q="14" data-val="a"><input type="radio" name="q14" value="a"> $5,969.00</label>
+      <label class="option-label" data-q="14" data-val="b"><input type="radio" name="q14" value="b"> $7,395.00</label>
+      <label class="option-label" data-q="14" data-val="c"><input type="radio" name="q14" value="c"> $6,201.50</label>
+      <label class="option-label" data-q="14" data-val="d"><input type="radio" name="q14" value="d"> $7,105.00</label>
+      <div class="q-explanation" id="exp-14"><strong>Correct: $6,201.50.</strong> 180×0.80 + 700×2.50 + 160×10 + 225×2 + 75×25 + 85×4.50 = 144 + 1,750 + 1,600 + 450 + 1,875 + 382.50 = <strong>$6,201.50</strong>. $5,969 is real GDP for 2016 itself.</div>
     </div>
 
-    <!-- Q13 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>13.</strong> Using 2016 as base year, real GDP is $5,969 in 2016 and $6,201.50 in 2017. The real GDP <strong>growth rate from 2016 to 2017</strong> is approximately:</p>
-      <label class="option-label" data-q="13" data-val="a"><input type="radio" name="q13" value="a"> 4.08%</label>
-      <label class="option-label" data-q="13" data-val="b"><input type="radio" name="q13" value="b"> 3.90%</label>
-      <label class="option-label" data-q="13" data-val="c"><input type="radio" name="q13" value="c"> 9.85%</label>
-      <label class="option-label" data-q="13" data-val="d"><input type="radio" name="q13" value="d"> 9.94%</label>
-      <div class="q-explanation" id="exp-13">
-        <strong>Correct: 3.90%.</strong> Growth = \(\frac{6{,}201.50 - 5{,}969}{5{,}969} \times 100 = \frac{232.50}{5{,}969} \times 100 \approx \mathbf{3.90\%}\). The 4.08% distractor is the growth rate using 2017 as base year — a different answer because the base year matters.
-      </div>
+      <p class="q-text"><strong>15.</strong> Real GDP 2016 (base 2016) = $5,969; Real GDP 2017 (base 2016) = $6,201.50. Growth rate <strong>2016 → 2017</strong>:</p>
+      <label class="option-label" data-q="15" data-val="a"><input type="radio" name="q15" value="a"> 4.08%</label>
+      <label class="option-label" data-q="15" data-val="b"><input type="radio" name="q15" value="b"> 3.90%</label>
+      <label class="option-label" data-q="15" data-val="c"><input type="radio" name="q15" value="c"> 9.85%</label>
+      <label class="option-label" data-q="15" data-val="d"><input type="radio" name="q15" value="d"> 9.94%</label>
+      <div class="q-explanation" id="exp-15"><strong>Correct: 3.90%.</strong> \(\frac{6201.5 - 5969}{5969} \times 100 = \frac{232.5}{5969} \times 100 \approx 3.90\%\). The 4.08% distractor uses 2017 as base year — the choice of base year changes the measured growth rate.</div>
     </div>
 
-    <!-- Q14 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>14.</strong> When <strong>2017 is used as the base year</strong> instead, Real GDP for <strong>2018</strong> equals (2017 prices: sugar cane $1.00, yo-yos $3.00, rum $12.00, peanuts $2.50, harmonicas $30.00, peanut butter $4.50; 2018 final quantities same as Q11):</p>
-      <label class="option-label" data-q="14" data-val="a"><input type="radio" name="q14" value="a"> $6,812.50</label>
-      <label class="option-label" data-q="14" data-val="b"><input type="radio" name="q14" value="b"> $8,130.00</label>
-      <label class="option-label" data-q="14" data-val="c"><input type="radio" name="q14" value="c"> $9,496.25</label>
-      <label class="option-label" data-q="14" data-val="d"><input type="radio" name="q14" value="d"> $7,395.00</label>
-      <div class="q-explanation" id="exp-14">
-        <strong>Correct: $8,130.00.</strong> Multiply 2018 quantities × 2017 prices: 225×1 + 750×3 + 180×12 + 225×2.50 + 85×30 + 85×4.50 = 225 + 2,250 + 2,160 + 562.50 + 2,550 + 382.50 = <strong>$8,130</strong>. This differs from the 2016-base answer ($6,812.50) because 2017 prices are higher.
-      </div>
+      <p class="q-text"><strong>16.</strong> Using <strong>2017 as base year</strong>, Real GDP for <strong>2018</strong> is (2017 prices: sugar cane $1.00, yo-yos $3.00, rum $12, peanuts $2.50, harmonicas $30, peanut butter $4.50 — 2018 quantities same as Q13):</p>
+      <label class="option-label" data-q="16" data-val="a"><input type="radio" name="q16" value="a"> $6,812.50</label>
+      <label class="option-label" data-q="16" data-val="b"><input type="radio" name="q16" value="b"> $8,130.00</label>
+      <label class="option-label" data-q="16" data-val="c"><input type="radio" name="q16" value="c"> $9,496.25</label>
+      <label class="option-label" data-q="16" data-val="d"><input type="radio" name="q16" value="d"> $7,395.00</label>
+      <div class="q-explanation" id="exp-16"><strong>Correct: $8,130.00.</strong> 225×1 + 750×3 + 180×12 + 225×2.50 + 85×30 + 85×4.50 = 225 + 2,250 + 2,160 + 562.50 + 2,550 + 382.50 = <strong>$8,130</strong>. Differs from $6,812.50 (base 2016) because 2017 prices are higher.</div>
     </div>
 
-    <!-- Q15 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>15.</strong> Using 2016 as base year: real GDP 2017 = $6,201.50; real GDP 2018 = $6,812.50. The growth rate <strong>from 2017 to 2018</strong> is approximately:</p>
-      <label class="option-label" data-q="15" data-val="a"><input type="radio" name="q15" value="a"> 3.90%</label>
-      <label class="option-label" data-q="15" data-val="b"><input type="radio" name="q15" value="b"> 4.08%</label>
-      <label class="option-label" data-q="15" data-val="c"><input type="radio" name="q15" value="c"> 9.94%</label>
-      <label class="option-label" data-q="15" data-val="d"><input type="radio" name="q15" value="d"> 9.85%</label>
-      <div class="q-explanation" id="exp-15">
-        <strong>Correct: 9.85%.</strong> Growth = \(\frac{6{,}812.50 - 6{,}201.50}{6{,}201.50} \times 100 = \frac{611}{6{,}201.50} \times 100 \approx \mathbf{9.85\%}\). Using 2017 as base year gives 9.94% — growth estimates depend on the choice of base year, which motivates chain-weighting.
-      </div>
+      <p class="q-text"><strong>17.</strong> Real GDP 2017 (base 2016) = $6,201.50; Real GDP 2018 (base 2016) = $6,812.50. Growth rate <strong>2017 → 2018</strong>:</p>
+      <label class="option-label" data-q="17" data-val="a"><input type="radio" name="q17" value="a"> 3.90%</label>
+      <label class="option-label" data-q="17" data-val="b"><input type="radio" name="q17" value="b"> 4.08%</label>
+      <label class="option-label" data-q="17" data-val="c"><input type="radio" name="q17" value="c"> 9.94%</label>
+      <label class="option-label" data-q="17" data-val="d"><input type="radio" name="q17" value="d"> 9.85%</label>
+      <div class="q-explanation" id="exp-17"><strong>Correct: 9.85%.</strong> \(\frac{6812.5 - 6201.5}{6201.5} \times 100 = \frac{611}{6201.5} \times 100 \approx 9.85\%\). Using 2017 as base gives 9.94% — both are valid; chain-weighting averages them.</div>
     </div>
 
-    <!-- ─── SECTION C: APPLIED CONCEPTS ─────────────────────────── -->
-    <div class="section-divider">Section C — Applied &amp; Graph Concepts</div>
+    <!-- ─── SECTION C: GDP APPLIED ───────────────────────────────── -->
+    <div class="section-divider">Section C — GDP Applied (Ch 21)</div>
 
-    <!-- Q16 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>16.</strong> In the optimal-pollution diagram, the <strong>socially efficient level of pollution</strong> is the point where:</p>
-      <label class="option-label" data-q="16" data-val="a"><input type="radio" name="q16" value="a"> Marginal Social Benefit of pollution = 0</label>
-      <label class="option-label" data-q="16" data-val="b"><input type="radio" name="q16" value="b"> Marginal Social Cost of pollution = 0</label>
-      <label class="option-label" data-q="16" data-val="c"><input type="radio" name="q16" value="c"> Marginal Social Benefit of abatement = Marginal Social Cost of abatement</label>
-      <label class="option-label" data-q="16" data-val="d"><input type="radio" name="q16" value="d"> Total external cost is minimized, regardless of output level</label>
-      <div class="q-explanation" id="exp-16">
-        <strong>Correct: MSB of abatement = MSC of abatement.</strong> The optimal level is NOT zero pollution — further reducing the last unit of pollution costs more (MSC of abatement) than the social benefit gained (MSB of abatement). Efficiency requires MSB = MSC. Zero pollution ignores that abatement itself has rising marginal costs.
-      </div>
+      <p class="q-text"><strong>18.</strong> A wheat farmer sells wheat to a miller for $0.50. The miller sells flour to a baker for $0.90. The baker sells bread to consumers for $1.50. The contribution to GDP from this production chain is:</p>
+      <label class="option-label" data-q="18" data-val="a"><input type="radio" name="q18" value="a"> $2.90 — sum of all transactions</label>
+      <label class="option-label" data-q="18" data-val="b"><input type="radio" name="q18" value="b"> $1.50 — only the final-good sale counts</label>
+      <label class="option-label" data-q="18" data-val="c"><input type="radio" name="q18" value="c"> $1.00 — miller and baker value-added only</label>
+      <label class="option-label" data-q="18" data-val="d"><input type="radio" name="q18" value="d"> $0.50 — only the raw-material stage counts</label>
+      <div class="q-explanation" id="exp-18"><strong>Correct: $1.50.</strong> GDP counts only final goods to avoid double-counting. Alternatively, sum value-added at each stage: farmer adds $0.50, miller adds $0.40, baker adds $0.60 — total = $1.50. Both methods give the same answer.</div>
     </div>
 
-    <!-- Q17 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>17.</strong> A Pigouvian tax equal to the marginal external cost corrects a negative externality by:</p>
-      <label class="option-label" data-q="17" data-val="a"><input type="radio" name="q17" value="a"> Shifting the demand curve left, reducing consumer willingness to pay</label>
-      <label class="option-label" data-q="17" data-val="b"><input type="radio" name="q17" value="b"> Shifting the supply curve left so that firms' private MC equals social MC</label>
-      <label class="option-label" data-q="17" data-val="c"><input type="radio" name="q17" value="c"> Shifting both supply and demand curves right, expanding output to the social optimum</label>
-      <label class="option-label" data-q="17" data-val="d"><input type="radio" name="q17" value="d"> Eliminating producer surplus and transferring it to the government</label>
-      <div class="q-explanation" id="exp-17">
-        <strong>Correct: supply curve shifts left.</strong> The tax raises the firm's private marginal cost by exactly the marginal external cost, making the private supply curve coincide with the MSC curve. The new equilibrium output equals the socially optimal quantity. The demand curve is unaffected.
-      </div>
+      <p class="q-text"><strong>19.</strong> Given: C = $9,500B, I = $1,800B, G = $2,200B, Exports = $600B, Imports = $850B. GDP = ?</p>
+      <label class="option-label" data-q="19" data-val="a"><input type="radio" name="q19" value="a"> $14,100B</label>
+      <label class="option-label" data-q="19" data-val="b"><input type="radio" name="q19" value="b"> $13,850B</label>
+      <label class="option-label" data-q="19" data-val="c"><input type="radio" name="q19" value="c"> $13,250B</label>
+      <label class="option-label" data-q="19" data-val="d"><input type="radio" name="q19" value="d"> $13,500B</label>
+      <div class="q-explanation" id="exp-19"><strong>Correct: $13,250B.</strong> GDP = C + I + G + (EX − IM) = 9,500 + 1,800 + 2,200 + (600 − 850) = 13,500 − 250 = <strong>$13,250B</strong>. Net exports are negative here because imports exceed exports.</div>
     </div>
 
-    <!-- Q18 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>18.</strong> Nominal GDP = $12,000; Real GDP (base year prices) = $10,000. The <strong>GDP deflator</strong> is:</p>
-      <label class="option-label" data-q="18" data-val="a"><input type="radio" name="q18" value="a"> 83.33</label>
-      <label class="option-label" data-q="18" data-val="b"><input type="radio" name="q18" value="b"> 100.00</label>
-      <label class="option-label" data-q="18" data-val="c"><input type="radio" name="q18" value="c"> 120.00</label>
-      <label class="option-label" data-q="18" data-val="d"><input type="radio" name="q18" value="d"> 2,000.00</label>
-      <div class="q-explanation" id="exp-18">
-        <strong>Correct: 120.</strong> \(\text{GDP Deflator} = \dfrac{\text{Nominal GDP}}{\text{Real GDP}} \times 100 = \dfrac{12{,}000}{10{,}000} \times 100 = \mathbf{120}\). A deflator of 120 means the price level is 20% above the base year. The 83.33 distractor inverts the ratio.
-      </div>
+      <p class="q-text"><strong>20.</strong> GNP = $16,000B; Capital Consumption Allowance (depreciation) = $1,200B. NNP = ?</p>
+      <label class="option-label" data-q="20" data-val="a"><input type="radio" name="q20" value="a"> $17,200B</label>
+      <label class="option-label" data-q="20" data-val="b"><input type="radio" name="q20" value="b"> $16,000B</label>
+      <label class="option-label" data-q="20" data-val="c"><input type="radio" name="q20" value="c"> $14,800B</label>
+      <label class="option-label" data-q="20" data-val="d"><input type="radio" name="q20" value="d"> $14,000B</label>
+      <div class="q-explanation" id="exp-20"><strong>Correct: $14,800B.</strong> NNP = GNP − Capital Consumption Allowance = $16,000 − $1,200 = <strong>$14,800B</strong>. Subtracting depreciation converts gross (before wear and tear) to net (after).</div>
     </div>
 
-    <!-- Q19 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>19.</strong> Nominal GDP rises from $5,000 to $6,000 while the GDP deflator rises from 100 to 125. Real GDP in the new year is:</p>
-      <label class="option-label" data-q="19" data-val="a"><input type="radio" name="q19" value="a"> $6,000 — same as nominal GDP since prices rose</label>
-      <label class="option-label" data-q="19" data-val="b"><input type="radio" name="q19" value="b"> $4,800 — real output actually fell</label>
-      <label class="option-label" data-q="19" data-val="c"><input type="radio" name="q19" value="c"> $5,000 — real output is unchanged</label>
-      <label class="option-label" data-q="19" data-val="d"><input type="radio" name="q19" value="d"> $7,500 — adjusting for lower base-year prices</label>
-      <div class="q-explanation" id="exp-19">
-        <strong>Correct: $4,800.</strong> Real GDP = (Nominal GDP / Deflator) × 100 = ($6,000 / 125) × 100 = <strong>$4,800</strong>. Real output fell even though nominal GDP rose — all the nominal increase was due to higher prices. This illustrates why we use the deflator: to strip out inflation.
-      </div>
+      <p class="q-text"><strong>21.</strong> Nominal GDP = $12,000B; Real GDP (base year) = $10,000B. The GDP deflator equals:</p>
+      <label class="option-label" data-q="21" data-val="a"><input type="radio" name="q21" value="a"> 83.3</label>
+      <label class="option-label" data-q="21" data-val="b"><input type="radio" name="q21" value="b"> 100.0</label>
+      <label class="option-label" data-q="21" data-val="c"><input type="radio" name="q21" value="c"> 120.0</label>
+      <label class="option-label" data-q="21" data-val="d"><input type="radio" name="q21" value="d"> 2,000</label>
+      <div class="q-explanation" id="exp-21"><strong>Correct: 120.</strong> \(\text{Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} \times 100 = \frac{12{,}000}{10{,}000} \times 100 = 120\). A deflator of 120 means the price level is 20% above the base year.</div>
     </div>
 
-    <!-- Q20 -->
     <div class="quiz-question">
-      <p class="q-text"><strong>20.</strong> A payroll tax is imposed on employers. Labor supply is <strong>perfectly inelastic</strong> (vertical supply curve). In the new equilibrium, wages received by workers:</p>
-      <label class="option-label" data-q="20" data-val="a"><input type="radio" name="q20" value="a"> Rise by the full tax amount — firms pass the tax on to consumers, not workers</label>
-      <label class="option-label" data-q="20" data-val="b"><input type="radio" name="q20" value="b"> Fall by the full tax amount — workers bear the entire burden</label>
-      <label class="option-label" data-q="20" data-val="c"><input type="radio" name="q20" value="c"> Are unchanged — firms bear the entire burden because they legally pay the tax</label>
-      <label class="option-label" data-q="20" data-val="d"><input type="radio" name="q20" value="d"> Fall by half the tax — burden is always split 50/50 regardless of elasticity</label>
-      <div class="q-explanation" id="exp-20">
-        <strong>Correct: workers bear the full burden.</strong> With a vertical (perfectly inelastic) labor supply, quantity supplied cannot change. The tax shifts labor demand down. To restore equilibrium at the same quantity, the take-home wage must fall by exactly the full tax. Legal incidence (who writes the check) is irrelevant — economic incidence depends on elasticities. Workers are trapped by zero elasticity.
-      </div>
+      <p class="q-text"><strong>22.</strong> Nominal GDP rises from $5,000B to $6,000B while the GDP deflator rises from 100 to 125. Real GDP in the new year is:</p>
+      <label class="option-label" data-q="22" data-val="a"><input type="radio" name="q22" value="a"> $6,000B</label>
+      <label class="option-label" data-q="22" data-val="b"><input type="radio" name="q22" value="b"> $4,800B</label>
+      <label class="option-label" data-q="22" data-val="c"><input type="radio" name="q22" value="c"> $5,000B</label>
+      <label class="option-label" data-q="22" data-val="d"><input type="radio" name="q22" value="d"> $7,500B</label>
+      <div class="q-explanation" id="exp-22"><strong>Correct: $4,800B.</strong> Real GDP = (Nominal ÷ Deflator) × 100 = ($6,000 ÷ 125) × 100 = <strong>$4,800B</strong>. Real output <em>fell</em> even though nominal GDP rose — all the nominal gain was inflation.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>23.</strong> Which of the following is <strong>NOT</strong> counted in GDP?</p>
+      <label class="option-label" data-q="23" data-val="a"><input type="radio" name="q23" value="a"> Wages paid to public-school teachers</label>
+      <label class="option-label" data-q="23" data-val="b"><input type="radio" name="q23" value="b"> Social Security payments to retirees</label>
+      <label class="option-label" data-q="23" data-val="c"><input type="radio" name="q23" value="c"> Construction of a new government office building</label>
+      <label class="option-label" data-q="23" data-val="d"><input type="radio" name="q23" value="d"> Legal services billed to a business client</label>
+      <div class="q-explanation" id="exp-23"><strong>Correct: Social Security payments.</strong> Transfer payments — Social Security, unemployment benefits, welfare — are excluded from GDP because they do not represent payment for current production of goods or services. They simply redistribute income.</div>
+    </div>
+
+    <!-- ─── SECTION D: EXTERNALITIES & MACRO ────────────────────── -->
+    <div class="section-divider">Section D — Externalities &amp; Macroeconomics (Ch 16 &amp; 20)</div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>24.</strong> In the optimal-pollution diagram, the <strong>socially efficient level of pollution</strong> is found where:</p>
+      <label class="option-label" data-q="24" data-val="a"><input type="radio" name="q24" value="a"> Marginal Social Benefit of pollution = 0 (zero pollution)</label>
+      <label class="option-label" data-q="24" data-val="b"><input type="radio" name="q24" value="b"> Marginal Social Cost of pollution = 0</label>
+      <label class="option-label" data-q="24" data-val="c"><input type="radio" name="q24" value="c"> Marginal Social Benefit of abatement = Marginal Social Cost of abatement</label>
+      <label class="option-label" data-q="24" data-val="d"><input type="radio" name="q24" value="d"> Total external cost is minimized regardless of output</label>
+      <div class="q-explanation" id="exp-24"><strong>Correct: MSB of abatement = MSC of abatement.</strong> Zero pollution is not efficient because the last unit of pollution reduction costs more than it's worth. Efficiency requires the marginal benefit of cleaning up to equal the marginal cost of doing so.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>25.</strong> A Pigouvian tax equal to the marginal external cost corrects a negative externality by:</p>
+      <label class="option-label" data-q="25" data-val="a"><input type="radio" name="q25" value="a"> Shifting the demand curve left, reducing consumer willingness to pay</label>
+      <label class="option-label" data-q="25" data-val="b"><input type="radio" name="q25" value="b"> Shifting the supply curve left so private MC equals social MC</label>
+      <label class="option-label" data-q="25" data-val="c"><input type="radio" name="q25" value="c"> Shifting both curves right, expanding output to the social optimum</label>
+      <label class="option-label" data-q="25" data-val="d"><input type="radio" name="q25" value="d"> Eliminating producer surplus and transferring it to the government</label>
+      <div class="q-explanation" id="exp-25"><strong>Correct: supply curve shifts left.</strong> The tax raises the firm's private marginal cost by the marginal external cost, making the private supply curve coincide with the MSC curve. The demand curve is unaffected.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>26.</strong> Firm A can cut emissions at $10/tonne; Firm B at $30/tonne. Under cap-and-trade, economic efficiency requires:</p>
+      <label class="option-label" data-q="26" data-val="a"><input type="radio" name="q26" value="a"> Both firms reduce by equal amounts regardless of cost</label>
+      <label class="option-label" data-q="26" data-val="b"><input type="radio" name="q26" value="b"> Firm A does all the reducing and sells surplus permits to Firm B</label>
+      <label class="option-label" data-q="26" data-val="c"><input type="radio" name="q26" value="c"> Firm B does all the reducing because it has the larger cost</label>
+      <label class="option-label" data-q="26" data-val="d"><input type="radio" name="q26" value="d"> Neither firm reduces — both buy permits from the government</label>
+      <div class="q-explanation" id="exp-26"><strong>Correct: Firm A reduces, sells to B.</strong> Cap-and-trade achieves the emissions target at lowest total cost by concentrating abatement in the cheapest firm. Any permit price between $10 and $30 makes it profitable for Firm A to cut and sell, and for Firm B to buy rather than abate.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>27.</strong> At the unregulated market equilibrium, Marginal Social Cost (MSC) exceeds Marginal Private Cost (MC). This implies:</p>
+      <label class="option-label" data-q="27" data-val="a"><input type="radio" name="q27" value="a"> A positive externality — the market under-produces</label>
+      <label class="option-label" data-q="27" data-val="b"><input type="radio" name="q27" value="b"> A negative externality — the market over-produces relative to the social optimum</label>
+      <label class="option-label" data-q="27" data-val="c"><input type="radio" name="q27" value="c"> The market is at the social optimum — no correction needed</label>
+      <label class="option-label" data-q="27" data-val="d"><input type="radio" name="q27" value="d"> Producers earn above-normal profits</label>
+      <div class="q-explanation" id="exp-27"><strong>Correct: negative externality, over-production.</strong> MSC > MC means the true social cost of each unit exceeds what the firm accounts for — an unpriced cost is imposed on third parties. The firm produces beyond the efficient quantity where MSC = MSB.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>28.</strong> Labor force = 150 million; Employed = 142.5 million. The unemployment rate is:</p>
+      <label class="option-label" data-q="28" data-val="a"><input type="radio" name="q28" value="a"> 7.5%</label>
+      <label class="option-label" data-q="28" data-val="b"><input type="radio" name="q28" value="b"> 5.0%</label>
+      <label class="option-label" data-q="28" data-val="c"><input type="radio" name="q28" value="c"> 4.8%</label>
+      <label class="option-label" data-q="28" data-val="d"><input type="radio" name="q28" value="d"> 95.0%</label>
+      <div class="q-explanation" id="exp-28"><strong>Correct: 5.0%.</strong> Unemployed = 150 − 142.5 = 7.5 million. Rate = 7.5 ÷ 150 × 100 = <strong>5.0%</strong>. The 7.5% distractor confuses the number of unemployed (7.5M) with the rate; 95% is the employment rate, not unemployment rate.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>29.</strong> Real GDP in Q1 = $18,000B, Q2 = $17,800B, Q3 = $17,500B, Q4 = $17,200B. This pattern is most consistent with:</p>
+      <label class="option-label" data-q="29" data-val="a"><input type="radio" name="q29" value="a"> An expansion — GDP is growing above trend</label>
+      <label class="option-label" data-q="29" data-val="b"><input type="radio" name="q29" value="b"> A recession — GDP has fallen for multiple consecutive quarters</label>
+      <label class="option-label" data-q="29" data-val="c"><input type="radio" name="q29" value="c"> A trough — GDP is at its lowest sustainable point and about to rise</label>
+      <label class="option-label" data-q="29" data-val="d"><input type="radio" name="q29" value="d"> A peak — GDP just began declining this quarter</label>
+      <div class="q-explanation" id="exp-29"><strong>Correct: Recession.</strong> GDP has declined for four consecutive quarters — well beyond the standard two-quarter definition of a recession. A trough would be a single low point, not a sustained decline.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>30.</strong> A payroll tax is imposed on employers. Labor supply is <strong>perfectly inelastic</strong>. The wage received by workers will:</p>
+      <label class="option-label" data-q="30" data-val="a"><input type="radio" name="q30" value="a"> Rise by the full tax — firms pass it on to consumers, not workers</label>
+      <label class="option-label" data-q="30" data-val="b"><input type="radio" name="q30" value="b"> Fall by the full tax — workers bear the entire economic burden</label>
+      <label class="option-label" data-q="30" data-val="c"><input type="radio" name="q30" value="c"> Be unchanged — firms bear it all because they legally pay it</label>
+      <label class="option-label" data-q="30" data-val="d"><input type="radio" name="q30" value="d"> Fall by half — burden always splits 50/50 regardless of elasticity</label>
+      <div class="q-explanation" id="exp-30"><strong>Correct: workers bear the full burden.</strong> With a vertical (perfectly inelastic) labor supply, quantity can't change. The tax shifts labor demand down; to clear the market at the same quantity, take-home wages fall by exactly the full tax. Legal incidence is irrelevant — economic incidence follows elasticities.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>31.</strong> Two goods face the same per-unit tax. Good A has perfectly inelastic demand; Good B has elastic demand. The deadweight loss is larger for:</p>
+      <label class="option-label" data-q="31" data-val="a"><input type="radio" name="q31" value="a"> Good A — inelastic demand means less revenue, so more is wasted</label>
+      <label class="option-label" data-q="31" data-val="b"><input type="radio" name="q31" value="b"> Good B — elastic demand causes a larger reduction in quantity traded</label>
+      <label class="option-label" data-q="31" data-val="c"><input type="radio" name="q31" value="c"> Both are equal — the per-unit tax is the same</label>
+      <label class="option-label" data-q="31" data-val="d"><input type="radio" name="q31" value="d"> Cannot determine without supply elasticities</label>
+      <div class="q-explanation" id="exp-31"><strong>Correct: Good B.</strong> DWL = ½ × tax × ΔQ. Perfectly inelastic demand means ΔQ = 0, so DWL = 0 for Good A. Elastic demand produces a large ΔQ, so DWL is large for Good B. This is why taxing inelastic goods (gasoline, cigarettes) raises revenue with minimal efficiency cost.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>32.</strong> In the circular flow model, government spending on goods and services is best described as:</p>
+      <label class="option-label" data-q="32" data-val="a"><input type="radio" name="q32" value="a"> A leakage — it removes funds from the household sector</label>
+      <label class="option-label" data-q="32" data-val="b"><input type="radio" name="q32" value="b"> An injection — it adds demand for output into the product market</label>
+      <label class="option-label" data-q="32" data-val="c"><input type="radio" name="q32" value="c"> A transfer — it shifts income from firms to households</label>
+      <label class="option-label" data-q="32" data-val="d"><input type="radio" name="q32" value="d"> Neither injection nor leakage — it merely recirculates existing funds</label>
+      <div class="q-explanation" id="exp-32"><strong>Correct: an injection.</strong> Government spending enters the product market as demand for output — it injects purchasing power into the circular flow. Taxes are the corresponding leakage (pulling funds out of household income).</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>33.</strong> Vertical equity in taxation requires that:</p>
+      <label class="option-label" data-q="33" data-val="a"><input type="radio" name="q33" value="a"> Taxpayers in identical economic positions pay equal taxes</label>
+      <label class="option-label" data-q="33" data-val="b"><input type="radio" name="q33" value="b"> All taxpayers pay the same flat dollar amount</label>
+      <label class="option-label" data-q="33" data-val="c"><input type="radio" name="q33" value="c"> Taxpayers with greater ability to pay bear higher tax burdens</label>
+      <label class="option-label" data-q="33" data-val="d"><input type="radio" name="q33" value="d"> Tax rates reflect benefits received from public goods</label>
+      <div class="q-explanation" id="exp-33"><strong>Correct: higher ability → higher burden.</strong> Vertical equity is the principle that people in <em>different</em> economic positions should be treated differently — specifically that those with more resources should pay more. Horizontal equity (equal treatment of equals) is the separate concept in option A.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>34.</strong> Arrow's Impossibility Theorem demonstrates that:</p>
+      <label class="option-label" data-q="34" data-val="a"><input type="radio" name="q34" value="a"> Majority voting always produces an efficient tax policy</label>
+      <label class="option-label" data-q="34" data-val="b"><input type="radio" name="q34" value="b"> The median voter always prefers the socially optimal tax rate</label>
+      <label class="option-label" data-q="34" data-val="c"><input type="radio" name="q34" value="c"> No voting rule can always convert individual preferences into a consistent social ordering</label>
+      <label class="option-label" data-q="34" data-val="d"><input type="radio" name="q34" value="d"> Only proportional taxes satisfy all fairness criteria simultaneously</label>
+      <div class="q-explanation" id="exp-34"><strong>Correct: no voting rule satisfies all criteria.</strong> Arrow proved that any voting rule that satisfies basic fairness conditions (unanimity, independence of irrelevant alternatives, non-dictatorship) will sometimes produce intransitive social rankings — cycling preferences with no stable majority winner.</div>
+    </div>
+
+    <div class="quiz-question">
+      <p class="q-text"><strong>35.</strong> The Keynesian revolution argued that during a recession, the appropriate policy response is:</p>
+      <label class="option-label" data-q="35" data-val="a"><input type="radio" name="q35" value="a"> Wait — markets self-correct quickly through wage and price flexibility</label>
+      <label class="option-label" data-q="35" data-val="b"><input type="radio" name="q35" value="b"> Tighten the money supply to prevent inflation from emerging</label>
+      <label class="option-label" data-q="35" data-val="c"><input type="radio" name="q35" value="c"> Use expansionary fiscal policy (increase G or cut taxes) to boost aggregate demand</label>
+      <label class="option-label" data-q="35" data-val="d"><input type="radio" name="q35" value="d"> Raise taxes to balance the budget and restore business confidence</label>
+      <div class="q-explanation" id="exp-35"><strong>Correct: expansionary fiscal policy.</strong> Keynes argued that wages and prices are sticky downward, so markets can remain depressed indefinitely. Government must step in to raise aggregate demand directly — through spending increases or tax cuts — to return the economy to full employment.</div>
     </div>
 
   </form>
@@ -467,7 +517,7 @@ MathJax = {
   <div id="score-display-pq" style="display:none">
     <div class="score-ring">
       <span class="ring-num" id="pq-score-num">0</span>
-      <span class="ring-denom">/ 20</span>
+      <span class="ring-denom">/ 35</span>
     </div>
     <p class="final-score" id="pq-score-pct"></p>
     <p class="final-score-sub" id="pq-score-msg"></p>
@@ -475,25 +525,29 @@ MathJax = {
 </div>
 
 <script>
-const PQ_KEY = ['a','c','c','b','c','c','b','d','b','c','b','c','b','b','d','c','b','c','b','b'];
+const PQ_KEY = [
+  'a','c','c','b','c','c','b','d','b','c',
+  'b','c','b','c','b','b','d','b','c','c',
+  'c','b','b','c','b','b','b','b','b','b',
+  'b','b','c','c','c'
+];
+const PQ_TOTAL = 35;
 
 function updatePQProgress() {
   const answered = new Set();
   document.querySelectorAll('#quiz-pq input[type=radio]:checked').forEach(r => answered.add(r.name));
   const n = answered.size;
-  document.getElementById('progress-fill-pq').style.width = (n / 20 * 100) + '%';
-  document.getElementById('progress-label-pq').textContent = n + ' / 20';
+  document.getElementById('progress-fill-pq').style.width = (n / PQ_TOTAL * 100) + '%';
+  document.getElementById('progress-label-pq').textContent = n + ' / ' + PQ_TOTAL;
 }
 
 function submitPQ() {
   const form = document.getElementById('quiz-pq');
   let score = 0;
-
   PQ_KEY.forEach((correct, i) => {
     const qn = i + 1;
     const sel = form.querySelector('input[name="q' + qn + '"]:checked');
     form.querySelectorAll('label[data-q="' + qn + '"]').forEach(l => l.classList.remove('correct','wrong'));
-
     if (sel) {
       const selLbl = form.querySelector('label[data-q="' + qn + '"][data-val="' + sel.value + '"]');
       if (sel.value === correct) {
@@ -513,19 +567,24 @@ function submitPQ() {
     if (exp) exp.classList.add('show');
   });
 
-  const pct = Math.round(score / 20 * 100);
+  const pct = Math.round(score / PQ_TOTAL * 100);
   const banner = document.getElementById('result-banner-pq');
-  banner.textContent = 'Score: ' + score + ' / 20 (' + pct + '%)';
+  banner.textContent = 'Score: ' + score + ' / ' + PQ_TOTAL + ' (' + pct + '%)';
   banner.className = 'result-banner ' + (pct >= 70 ? 'pass' : 'fail');
   banner.style.display = 'block';
 
   document.getElementById('score-display-pq').style.display = 'block';
   document.getElementById('pq-score-num').textContent = score;
   document.getElementById('pq-score-pct').textContent = pct + '%';
-  const msgs = [[90,'Outstanding — exam-ready.'],[70,'Good — review the explanations you missed.'],[50,'Halfway there — re-work the numerical sections.'],[0,'Keep grinding — use the chapter pages to rebuild.']];
+  const msgs = [
+    [90,'Outstanding — exam-ready.'],
+    [70,'Good — review the explanations you missed.'],
+    [50,'Halfway there — re-work the numerical sections.'],
+    [0,'Keep grinding — use the chapter pages to rebuild.']
+  ];
   document.getElementById('pq-score-msg').textContent = msgs.find(m => pct >= m[0])[1];
   document.getElementById('progress-fill-pq').style.width = '100%';
-  document.getElementById('progress-label-pq').textContent = '20 / 20';
+  document.getElementById('progress-label-pq').textContent = PQ_TOTAL + ' / ' + PQ_TOTAL;
   banner.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
@@ -537,7 +596,7 @@ function resetPQ() {
   document.getElementById('result-banner-pq').style.display = 'none';
   document.getElementById('score-display-pq').style.display = 'none';
   document.getElementById('progress-fill-pq').style.width = '0%';
-  document.getElementById('progress-label-pq').textContent = '0 / 20';
+  document.getElementById('progress-label-pq').textContent = '0 / ' + PQ_TOTAL;
 }
 
 document.querySelectorAll('#quiz-pq input[type=radio]').forEach(r => {

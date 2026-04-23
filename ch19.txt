@@ -1,0 +1,1764 @@
+Chapter 19  Public Finance: The Economics of Taxation 423 
+The Basics of Taxation
+To begin our analysis of the U.S. tax system, we need to clarify some terms. There are many 
+kinds of taxes, and tax analysts use a specific language to describe them.
+Taxes: Basic Concepts
+Every tax has two parts: a base and a rate structure. The tax base is the measure or value upon 
+which the tax is levied. In the United States, taxes are levied on a variety of bases, including 
+income, sales, property, and corporate profits. The tax rate structure determines the portion of 
+the tax base that must be paid in taxes. A tax rate of 25 percent on income, for example, means 
+that you pay a tax equal to 25 percent of your income.
+Taxes on Stocks versus Taxes on Flows 
+Tax bases may be either stock measures or flow 
+measures. The local property tax is a tax on the value of residential, commercial, or industrial 
+property. A homeowner, for instance, is taxed on the current assessed value of his or her home. 
+Current value is a stock variable—that is, it is measured or estimated at a point in time.
+Other taxes are levied on flows. Income is a flow. Most people are paid on a monthly basis, 
+and they have taxes taken out every month. Retail sales take place continuously, and a retail sales 
+tax takes a portion of that flow. Figure 19.1 diagrams in simple form the important  continuous 
+payment flows between households and firms and the points at which the government levies six 
+different taxes.
+Table 19.1 presents for selected years between 1960 and 2014 the distribution of total 
+ federal government receipts among five categories. Over this long period, the share of individ-
+ual income taxes and corporate income taxes have fluctuated modestly. Social insurance payroll 
+taxes have changed more dramatically over this period, more than doubling as a share of total 
+receipts, to become the second most important part of federal receipts.
+19.1 Learning Objective
+Define the fundamentals of 
+taxation.
+tax base The measure or 
+value upon which a tax is 
+levied.
+tax rate structure The per-
+centage of a tax base that must 
+be paid in taxes—25 percent of 
+income, for example.
+Firms
+Households
+Factor
+markets
+Product
+markets
+%
+QP
+UW
+O
+RV
+KQ
+P
+5C
+NG
+U
+9
+C
+I
+G
+U
+&K
+XK
+FG
+PF
+U
++P
+EQ
+O
+G
+2T
+QƂ
+VU
+
+4G
+PV
+U
+4G
+PV
+U
+9
+C
+I
+G
+U
+1
+2
+3
+4
+5
+6
+2GTUQPCNKPEQOGVCZ
+-G[
+EQWPVGTENQEMYKUG
+1
+%QPUWORVKQPVCZ
+RGTUQPCN
+2
+4GVCKNUCNGUVCZ
+3
+2C[TQNNVCZ
+4
+2TQƂVU
+PGVKPEQOGVCZ
+5
+9CIGVCZ
+6
+▴
+▴Figure 19.1 Taxes on economic “Flows”
+Most taxes are levied on measurable economic flows. For example, a profits, or net income, tax is levied on 
+the annual profits earned by corporations.
+424 part III Market Imperfections and the Role of Government
+Proportional, Progressive, and regressive Taxes 
+A tax whose burden is the same 
+proportion of income for all households is a proportional tax. A tax of 20 percent on all forms 
+of income, with no deductions or exclusions, is a proportional tax.
+A tax that exacts a higher percentage of income from higher-income households than 
+from lower-income households is a progressive tax. Because its rate structure increases with 
+income, the U.S. individual income tax is a progressive tax. In 2011 the average federal income 
+tax rate paid by a household in the bottom quintile of the income distribution in the United 
+States was 1.9 percent; the average rate for a household in the top quintile was 23.4 percent. 
+The current tax system allows households to deduct a number of items before calculating 
+their taxes (mortgage interest, for example) and treats some categories of income differently 
+than others, so that tax rates at the higher end in particular may differ quite a bit from this 
+average. It is thus not impossible for someone at the top end of income to actually pay taxes 
+at a lower rate than someone earning less, but the average rates do show that income taxes are 
+progressive.
+A tax that exacts a lower percentage of income from higher-income families than from 
+lower-income families is a regressive tax. Excise taxes (taxes on specific commodities such as 
+gasoline and telephone calls) are regressive. The retail sales tax is also a regressive tax. Suppose 
+the retail sales tax in your state is 5 percent. You might assume that it is a proportional tax 
+because everyone pays 5 percent. But all people do not spend the same fraction of their income 
+on taxable goods and services. In fact, higher-income households save a larger fraction of their 
+incomes. Even though they may pay more taxes in dollars than lower-income families, they end 
+up paying a smaller proportion of their incomes in sales tax.
+Marginal versus Average Tax rates 
+Each year income earners must file a tax return 
+with the Internal Revenue Service on or before April 15. On that form, you first figure out 
+the total tax you are responsible for paying. Next, you determine how much was withheld 
+from your income and sent to the IRS by your employer. If too much was withheld, you get 
+a refund; if not enough was withheld, you have to write a check to the government for the 
+difference.
+In figuring out the total amount of tax you must pay, you first add up all your income. You 
+are then allowed to subtract certain items from it. Among the things that virtually all taxpayers 
+can subtract are the personal exemption and the standard deduction. After everything is subtracted, 
+you are left with taxable income. Taxable income is then subject to a set of rates that rise with 
+income.
+In thinking about tax rates commentators often refer to an individual’s average tax rate. An 
+average tax rate is simply the total tax paid divided by total income. With an income of $100,000 
+and a tax paid of $20,000, your average tax rate would be 20 percent. Also important to consider 
+is the marginal tax rate, that is, how much of the next dollar earned goes to the government, 
+given one’s current income level. With a progressive income tax like the one we have in the 
+United States, marginal tax rates and average tax rates are not equal.
+proportional tax A tax whose 
+burden is the same proportion 
+of income for all households.
+progressive tax A tax whose 
+burden, expressed as a percent-
+age of income, increases as 
+income increases.
+regressive tax A tax whose 
+burden, expressed as a percent-
+age of income, falls as income 
+increases.
+average tax rate Total 
+amount of tax paid divided by 
+total income.
+marginal tax rate The tax 
+rate paid on the next dollar 
+earned.
+Table 19.1 Federal Government Receipts 1960–2014 (billions of dollars)
+Individual
+Corporate
+Social Insurance
+Income 
+Tax
+%
+Income 
+Tax
+%
+Payroll 
+Tax
+%
+Ex cise 
+Taxes
+%
+Other 
+Receipts
+ 
+%
+Total
+1960
+   41.8
+43.4
+ 21.4
+22.2
+   16.0
+16.6
+ 13.1
+13.6
+  4.0
+0.4
+   93.6
+1970
+   88.9
+48.0
+ 30.6
+16.5
+   45.5
+24.6
+ 18.1
+ 9.8
+  2.0
+1.1
+  185.1
+1980
+  250.0
+46.9
+ 70.3
+13.2
+  163.6
+30.7
+ 33.7
+ 6.3
+ 15.4
+2.9
+  533.0
+1990
+  470.1
+43.3
+118.1
+10.9
+  402.0
+37.0
+ 50.9
+ 4.7
+ 44.6
+4.1
+1,085.7
+2000
+  995.6
+48.3
+219.4
+10.6
+  698.6
+33.9
+ 87.3
+ 4.2
+ 62.3
+3.0
+2,063.2
+2010
+  893.8
+37.4
+298.7
+12.5
+  970.9
+40.6
+ 96.8
+ 4.0
+131.5
+5.5
+2,391.7
+2014
+1,374.2
+41.6
+497.3
+15.1
+1,149.4
+34.8
+134.1
+ 4.1
+145.8
+4.4
+3,300.8
+Source: u.s. Bureau of Economic Analysis, March 27, 2015. Percentages may not add to 100 due to rounding.
+Chapter 19  Public Finance: The Economics of Taxation 425 
+Take a look at the Economics in Practice box above. It shows the income taxes that would be 
+paid by two hypothetical single people earning $100,000 and $200,000, respectively. The discus-
+sion uses the actual 2014 U.S. tax rates. These calculations show that average and marginal tax 
+rates are not the same in a progressive tax system. Which tax rate should you pay attention to? 
+When talking about taxes, many people focus on average rates, the percentage of one’s income 
+that goes to the government. But for many decisions, the marginal rate is more relevant. If you 
+are thinking of working more hours, you will be paying the marginal (higher) rate on the incre-
+mental income earned; so that is the rate you should look at in thinking about whether to work. 
+In thinking about whether to donate money (which has the effect of lowering adjusted income), 
+the marginal rate is again the relevant one.
+How Much Does a Deduction Save You in Taxes? 
+As you saw in the Economics in 
+Practice, you were allowed to subtract $6,200 from your income as a single person before calcu-
+lating taxes. However, you may be able to do better (that is, pay less tax) if you can come up with 
+“itemized deductions” in excess of $6,200. Taxpayers may deduct income taxes paid to a state, 
+charitable contributions to qualifying organizations, real estate taxes, and interest paid on a 
+mortgage to finance the purchase of a home, as well as other items.
+Some people complain that high-income households receive a bigger benefit from deduc-
+tions. For example, if a single person with very high income—let’s say more than $500,000—gave 
+E con o m i c s  i n  P r ac t i c E 
+Calculating Taxes
+One way to get a sense of the structure of the U.S. income 
+tax system is to actually calculate what you would owe 
+assuming your income was at one level or another. Suppose 
+you are single with no dependents and you rent rather than 
+own. Assume your charitable contributions are relatively 
+modest as well. In that case, you are likely to take a “standard 
+deduction” when filing your taxes.
+Consider what happens to your tax payments as you go 
+from $100,000 per year to $200,000. We will use the 2014 
+tax schedule for this calculation. In 2014 single filers who 
+were not claimed on anyone else’s tax return (many students 
+are still claimed on their parents’ returns) and did not item-
+ize were entitled to deduct $6,200 from their gross income 
+before calculating their taxes. In our example, we will be 
+comparing adjusted incomes of $93,800 versus $193,800. 
+Notice that both before and after this adjustment the pretax 
+incomes differ by $100,000.
+Thinking PrAcTicAlly
+1. if you are considering increasing your work hours, 
+would you be more interested in your marginal tax 
+rate or your average tax rate?
+The 2014 tax table for single filers is reproduced here. As 
+you see, the tax rate increases with income, making it a pro-
+gressive system. In the last two columns we calculate the taxes 
+owed at the two income levels.
+Notice your average tax rate goes up with income given 
+that the tax system is progressive. Also, the marginal tax rate is 
+higher than the average tax rate, again reflecting the progres-
+sivity of the tax system. In moving from $100,000 to $200,000 
+in income, your marginal tax rate has increased from 28 
+percent to 33 percent. At incomes higher than $406,750, the 
+marginal tax rate is 39.6 percent.
+Rate
+On income  
+between
+Amount owed  
+on $100K  
+($93,800 taxed)
+Amount owed  
+on $200k  
+($193,800 taxed)
+  10%
+$0–$9,075
+$   908
+$   908
+  15%
+$9,075–$36,900
+$ 4,174
+$ 4,174
+  25%
+$36,900–$89,350
+$13,113
+$13,113
+  28%
+$89,350–$186,350
+$ 1,246
+$27,160
+  33%
+$186,350–$405,100
+      0
+$ 2,459
+  35% 
+39.6%
+$405,100–$406,750
+$406,750+
+      0
+      0
+      0
+      0
+Tax owed (sum)
+$19,441
+$47,814
+Average tax rate (Tax/Income)
+  0.194
+  0.239
+Marginal tax rate
+      0.28
+   0.33
+426 part III Market Imperfections and the Role of Government
+a contribution of $1,000, she would save $396 because her marginal tax rate is 39.6 percent, the 
+highest marginal tax rate. If another person had a taxable income of $20,000, the same $1,000 
+charitable contribution would save her only $150 because she would face a marginal tax rate of 
+15 percent. You can see that higher income households, facing higher marginal tax rates, have 
+more incentives to seek deductions of various sorts.
+This discussion gives you a taste of the U.S. Individual Income Tax. It is a complex tax 
+system, and most people need help in figuring out how to comply with the law. One of the top 
+priorities of each of the past five U.S. presidents has been to simplify the tax code, but little 
+progress has been made.
+Tax Incidence: Who Pays?
+When a government levies a tax, it writes a law assigning responsibility for payment to specific 
+people or specific organizations. To understand a tax, we must look beyond those named in the 
+law as the initial taxpayers.
+The burden of a tax is ultimately borne by individuals or households; institutions such as 
+business firms and colleges have no real taxpaying capacity. Taxes paid by a firm ultimately 
+fall on customers, owners or workers. Further, the burden of a tax is not always borne by those 
+initially responsible for paying it. Directly or indirectly, tax burdens are often shifted to others. 
+When we speak of the incidence of a tax, we are referring to the ultimate distribution of its bur-
+den. We discussed the incidence of an excise tax in Chapter 5 and saw the way in which excise 
+taxes, originally levied on firms, can get shifted to consumers. We continue the discussion of tax 
+incidence here looking at several more complex types of taxes.
+Tax shifting takes place when households alter their behavior to avoid paying a tax. Such 
+shifting is easily accomplished when only certain items are singled out for taxation. In Chapter 5, 
+we described an excise tax imposed only on artichokes and saw a dramatic shift in buying behav-
+ior as consumers tried to avoid that excise tax, by shifting to other vegetables. In that case, with 
+elastic consumer demand, prices did not rise very much in response to the tax and most of the tax 
+burden was borne by the owners of the firm.
+A tax such as the retail sales tax, which is levied at the same rate on all consumer goods, is 
+harder for consumers to avoid. The only thing consumers can do to avoid such a tax is to con-
+sume less of everything. If consumers consume less, saving will increase, but otherwise there are 
+few opportunities for tax avoidance and therefore for tax shifting away from consumers. The 
+demand for all consumer goods as a category is relatively inelastic, compared to the demand for 
+a specific consumer good. For this reason, broad-based taxes are more difficult to shift. As we 
+will see, these hard-to shift broad-based taxes also distort the economy less than narrower taxes.
+The Incidence of Payroll Taxes
+Table 19.1 shows that in 2014, 34.8 percent of federal revenues came from social insurance 
+taxes, also called payroll taxes. The revenues from payroll taxes go to support Social Security, 
+unemployment compensation, and other health and disability benefits for workers. Some of 
+these taxes are levied on employers as a percentage of payroll, and some are levied on workers as 
+a percentage of wages or salaries earned.
+To analyze the payroll tax, let us take a tax levied on employers and sketch the reactions that 
+are likely to follow. When the tax is first levied, firms find that the price of labor increases. Firms 
+may react in two ways. First, they may substitute capital for the now more-expensive labor. Second, 
+higher costs and lower profits may lead to a cut in production. Both reactions mean a lower demand 
+for labor. Lower demand for labor reduces wages, and part of the tax is thus passed on (or shifted to) 
+the workers, who end up earning less. The extent to which the tax is shifted to workers depends on 
+how workers can react to the lower wages, or stated another way, how elastic is labor supply.
+We can develop a more formal analysis of this situation with a picture of the market before 
+the tax is levied. Figure 19.2 shows equilibrium in a hypothetical labor market with no payroll 
+tax. Before we proceed, we should review the factors that determine the shapes of the supply-
+and-demand curves.
+19.2 Learning Objective
+Discuss the incidence of 
+ payroll taxes and corporate 
+profits taxes.
+tax incidence The ultimate 
+distribution of a tax burden.
+tax shifting Occurs when 
+households can alter their 
+behavior and do something to 
+avoid paying a tax.
+Chapter 19  Public Finance: The Economics of Taxation 427 
+Labor Supply and Labor Demand Curves in Perfect Competition: A review 
+Recall 
+that the demand for labor in perfectly competitive markets depends on its productivity. As you 
+saw in Chapter 10, a perfectly competitive, profit-maximizing firm will hire labor up to the 
+point at which the market wage is equal to labor’s marginal revenue product. The shape of the 
+demand curve for labor shows how responsive firms are to changes in wages.
+Recall from Chapter 6 that household behavior and thus the shape of the labor supply curve 
+depend on the relative strengths of income and substitution effects. The labor supply curve rep-
+resents the reaction of workers to changes in the wage rate. Household behavior depends on the 
+after-tax wage that workers actually take home per hour of work. In contrast, labor demand is a 
+function of the full amount that firms must pay per unit of labor, an amount that may include 
+a tax if it is levied directly on payroll, as it is in our example. Such a tax, when present, drives a 
+“wedge” between the price of labor that firms face and take-home wages.
+imposing a Payroll Tax: Who Pays? 
+In Figure 19.2, there were no taxes and the wage 
+that firms paid was the same as the wage that workers took home. At a wage of W0, quantity 
+of labor supplied and quantity of labor demanded were equal and the labor market was in 
+equilibrium.1
+But suppose employers must pay a tax of $T per unit of labor. Figure 19.3 shows a new 
+curve that is parallel to the supply curve but above it by a vertical distance T. The new curve, S1, 
+shows labor supply as a function of what firms pay. Note that S1 is not really a new supply curve. 
+Supply is still determined by what workers take home. S1 simply adds T to the supply curve. 
+Regardless of how the ultimate burden of the tax is shared, there is a difference between what 
+firms pay and what workers take home.
+If the initial wage is W0 per hour, firms will face a price of W0 + T per unit of labor 
+immediately after the tax is levied. Workers still receive only W0, however. The higher wage 
+rate—that is, the higher price of labor that firms now face—reduces the quantity of labor 
+demanded from L0 to Ld, and the firms lay off workers. Workers initially still receive W0, so 
+that amount of labor  supplied does not change, and the result is an excess supply of labor 
+equal to (L0 - Ld).
+The excess supply applies downward pressure to the market wage, and wages fall, shifting 
+some of the tax burden onto workers. The issue is how far wages will fall. Figure 19.3 shows 
+that a new equilibrium is achieved at W1, with firms paying W1 + T. When workers take home 
+W1, they supply L1 units of labor. If firms must pay W1 + T, they will demand L1 units of labor, 
+and the market clears. Quantity supplied again equals quantity demanded.
+1 Although the supply curve has a positive slope, that slope implies nothing about the actual shape of the labor supply curve in 
+the United States.
+Supply
+    (as a function
+    of workers’
+    take-home pay)
+Demand
+    (as a function of
+    what ﬁrms pay)
+W0
+L0
+0
+Units of labor, L
+Wage rate ($)
+▴
+◂Figure 19.2 
+ 
+equilibrium in a 
+Competitive Labor 
+Market—No Taxes
+With no taxes on wages, the 
+wage that firms pay is the same 
+as the wage that workers take 
+home. At a wage of W0, the 
+quantity of labor supplied and 
+the quantity of labor demanded 
+are equal.
+428 part III Market Imperfections and the Role of Government
+In this case, then, employers and employees share the burden of the payroll tax. Initially, 
+firms paid W0; after the tax, they pay W1 + T. Initially, workers received W0; after the tax, 
+they end up with the lower wage W1. Total tax collections by the government are equal to 
+T * L1. Geometrically, tax collections are equal to the entire shaded area in Figure 19.3. The 
+workers’ share of the tax burden is the lower portion, (W0 - W1) * L1. The firms’ share is the 
+upper portion, 3(W1 + T) - W04 * L1.
+The relative sizes of the firms’ share and the workers’ share of the total tax burden depend 
+on the shapes of the demand and supply curves. Figure 19.4, parts a and b, show that the ultimate 
+burden of a payroll tax depends, at least in part, on the elasticity of labor supply. If labor supply is 
+elastic (that is to say, responsive to price), take-home wages do not fall much and workers bear 
+only a small portion of the tax. But if labor supply is inelastic, or unresponsive to price, most of 
+the burden is borne by workers. An inelastic labor supply curve tells us that workers will continue 
+to supply labor hours in more or less the same amount even if their wages fall as a result of the 
+tax. Workers bear the bulk of the burden of a payroll tax if labor supply is relatively inelastic, and 
+firms bear the bulk of the burden of a payroll tax if labor supply is relatively elastic.
+Empirical studies of labor supply behavior in the United States suggest that for most of 
+the workforce, the elasticity of labor supply is close to zero. Therefore; most of the payroll tax 
+in the United States is probably borne by workers. Note, the result would be exactly the same 
+if the tax were initially levied on workers rather than on firms. Go back to the equilibrium in 
+Figure 19.3, with wages at W0. But now assume that the tax of $T per hour is levied on work-
+ers rather than firms. The burden will end up being shared by firms and workers in the exact 
+same proportions. Initially, take-home wages will fall to W0 - T. Workers will supply less labor, 
+creating excess demand and pushing market wages up. That shifts part of the burden back to 
+employers. The “story” is different, but the result is the same.
+Not all economists agree that the payroll tax is borne entirely by wage earners. Even if 
+labor supply is inelastic, some wages are set in the process of collective bargaining between 
+unions and large firms. If the payroll tax results in a higher gross wage in the bargaining pro-
+cess, firms may find themselves faced with higher costs. Higher costs either reduce profits to 
+owners or are passed on to consumers in the form of higher product prices.
+The payroll tax used in the United States today is regressive at the top income levels for two 
+reasons. First, wages and salaries fall as a percentage of total income as we move up the income 
+scale. Those with higher incomes earn a larger portion of their incomes from profits, dividends, 
+and rents. These income sources are not part of the payroll tax base. Second, the base for the 
+payroll tax in 2015 stopped at wages and salaries of $118,500.
+Supply
+    (as a function
+    of workers’
+    take-home pay)
+Supply
+    (as a function
+    of what ﬁrms pay)
+Demand
+    (as a function of
+    what ﬁrms pay)
+W0
+W1
+L0
+L1
+Ld
+0
+Units of labor, L
+Wage rate ($)
+W0 + T
+W1 + T
+Workers’ share
+Firms’ share
+Total tax collection
+S
+T
+T
+S0
+1
+▴
+▸Figure 19.3  
+incidence of a Per-unit  
+Payroll Tax in a 
+Perfectly Competitive 
+Labor Market
+With a tax on firms of $T per 
+unit of labor hired, the  market 
+will adjust, shifting the tax 
+partially to workers. When the 
+tax is levied, firms must first 
+pay W0 + T. This reduces the 
+labor demand to Ld. The result 
+is excess supply, which pushes 
+wages down to W1 and passes 
+some of the burden of the tax  
+on to workers.
+Chapter 19  Public Finance: The Economics of Taxation 429 
+The Incidence of Corporate Profits Taxes
+Another tax that requires careful analysis is the corporate profits tax that is levied by the federal 
+government as well as by most states. The corporate profits tax, or corporation income tax, is a tax on 
+the profits of firms that are organized as corporations. Corporations are firms granted limited 
+liability status by the government. Limited liability means that shareholders/owners can lose 
+only what they have invested. The owners of partnerships and proprietorships do not enjoy limited 
+liability and do not pay this tax; rather, they report their firms’ income directly on their indi-
+vidual income tax returns.
+We can think of the corporate tax as a tax on capital income, or profits, in one sector of the 
+economy. For simplicity, we assume that there are only two sectors of the economy, corporate 
+and noncorporate, and only two factors of production, labor and capital. Owners of capital 
+receive profits, and workers (labor) are paid a wage.
+Like the payroll tax, the corporate tax may affect households on the sources or the uses side 
+of the income equation. The tax may affect profits earned by owners of capital, wages earned by 
+workers, or prices of corporate and noncorporate products. Once again, the key question is how 
+large these changes are likely to be.
+When first imposed, the corporate profits tax initially reduces net (after-tax) profits in the 
+corporate sector. Assuming the economy was in long-run equilibrium before the tax was levied, 
+firms in both the corporate and noncorporate sectors were earning a normal rate of return; there 
+was no reason to expect higher profits in one sector than in the other. Suddenly, firms in the 
+W0
+W1
+L1
+S1
+S0
+L
+D
+D
+0
+Units of labor
+Wage rate ($)
+W1 + T
+Workers’ share
+Firms’ share
+T
+W0
+W1
+L1
+S1
+S0
+L
+a.
+b.
+0
+Units of labor
+Wage rate ($)
+W1 + T
+T
+▴
+◂Figure 19.4 Payroll 
+Tax with elastic (a) 
+and inelastic (b) Labor 
+Supply
+The ultimate burden of a payroll 
+tax depends on the elasticities of 
+labor supply and labor demand. 
+For example, if supply is relatively 
+elastic, as in part a, the burden 
+falls largely on employers; if the 
+supply is relatively inelastic, as in 
+part b, the burden falls largely on 
+workers.
+430 part III Market Imperfections and the Role of Government
+corporate sector become significantly less profitable as a result of the tax. (In 2015, for example, 
+the tax rate applicable to most corporations was 35 percent.)
+In response to these lower profits, capital investment begins to favor the nontaxed sector 
+because after-tax profits are higher there. Firms in the taxed sector contract in size or (in some 
+cases) go out of business, whereas firms in the nontaxed sector expand and new firms enter its 
+various industries. As this happens, the flow of capital from the taxed to the nontaxed sector 
+reduces the profit rate in the nontaxed sector: More competition springs up, and product prices 
+are driven down. Some of the tax burden shifts to capital income earners in the noncorporate 
+sector, who end up earning lower profits.
+As capital flows out of the corporate sector in response to lower after-tax profits, the profit 
+rate in that sector rises somewhat because fewer firms means less supply, which means higher 
+prices, and so on. Presumably, capital will continue to favor the nontaxed sector until the after-
+tax profit rates in the two sectors are equal. Even though the tax is imposed on just one sector, it 
+eventually depresses after-tax profits in all sectors equally.
+Under these circumstances, the products of corporations will probably become more 
+expensive and products of proprietorships and partnerships will probably become less expen-
+sive. But because almost everyone buys both corporate and noncorporate products, these excise 
+effects (that is, effects on the prices of products) are likely to have a minimal impact on the dis-
+tribution of the tax burden. In essence, the price increases in the corporate sector and the price 
+decreases in the noncorporate sector cancel each other out.
+Finally, what effect does the imposition of a corporate income tax have on labor? Wages 
+could actually rise or fall, but the effect is not likely to be large. Taxed firms will have an incen-
+tive to substitute labor for capital because capital income is now taxed. This could benefit labor 
+by driving up wages. In addition, the contracting sector will use less labor and capital, but if the 
+taxed sector is the capital-intensive corporate sector, the bulk of the effect will be felt by capital. 
+The price of capital will fall more than the price of labor.
+The Burden of the Corporate Tax 
+The ultimate burden of the corporate tax appears 
+to depend on several factors: the relative capital/labor intensity of the two sectors, the ease 
+with which capital and labor can be substituted in the two sectors, and elasticities of demand 
+for the products of each sector. In 1962, economist Arnold Harberger, then of the University 
+of Chicago, analyzed this and concluded that owners of corporations, proprietorships, and 
+partnerships all bear the burden of the corporate tax in rough proportion to profits, even 
+though it is directly levied only on corporations. Harberger also found that wage effects of 
+the corporate tax were small and that excise effects, as we just noted, probably cancel each 
+other out.2
+Much has been written about the incidence of the corporate tax since Harberger, but the 
+general conclusion that capital owners bear most of the tax burden is still viewed as correct by 
+most economists.
+One exception to this conclusion is corporate taxation of a monopolist. You might be 
+tempted to conclude that because monopolists can control market price, they will simply pass 
+on the profits tax in the form of higher prices to consumers of monopoly products. But theory 
+predicts just the opposite: that the tax burden will remain with the monopolist.
+Remember that monopolists are constrained by market demand. That is, they choose the 
+combination of price and output that is consistent with market demand and that maximizes 
+profit. If a proportion of that profit is taxed, the choice of price and quantity will not change. 
+Why not? Quite simply, if you behave so as to maximize profit and then I come and take half of 
+your profit, you maximize your half by maximizing the whole, which is exactly what you would 
+do in the absence of the tax. Thus, your price and output do not change, the tax is shifted, and 
+you end up paying the tax. In the long run, capital will not leave the taxed monopoly sector, as it 
+did in the competitive case. Even with the tax, the monopolist is earning higher profits than are 
+possible elsewhere.
+2 Arnold Harberger, “The Incidence of the Corporate Income Tax,” Journal of Political Economy, LXX, June 1962.
+Chapter 19  Public Finance: The Economics of Taxation 431 
+The Overall Incidence of Taxes in the United States: 
+Empirical Evidence
+Many researchers have done complete analyses under varying assumptions about tax incidence, 
+and in most cases their results are similar. State and local taxes (with sales taxes playing a big 
+role) seem as a group to be mildly regressive. Federal taxes, dominated by the individual income 
+tax but increasingly affected by the regressive payroll tax, are mildly progressive. The overall 
+system is mildly progressive.
+Excess Burdens and the Principle  
+of Neutrality
+You have seen that when households and firms make decisions in the presence of a tax that 
+differ from decisions they would make in its absence, the burden of the tax can be shifted from 
+those for whom it was originally intended. Now we can take the same logic one step further. 
+When taxes distort economic conditions, they impose burdens on society that, in aggregate, 
+exceed the revenue collected by the government.
+The amount by which the burden of a tax exceeds the total revenue collected by the govern-
+ment is called the excess burden of the tax. The total burden of a tax is the sum of the revenue 
+ collected from the tax and the excess burden created by the tax. Because excess burdens are a 
+form of waste, or lost value, tax policy should be written to minimize them. (Excess burdens are 
+also called deadweight losses.)
+The size of the excess burden imposed by a tax depends on the extent to which economic 
+decisions are distorted. The general principle that emerges from the analysis of excess burdens 
+is the principle of neutrality. Ceteris paribus, or all else equal,3 a tax that is neutral with respect to 
+economic decisions is preferred to one that distorts economic decisions.
+In practice, all taxes change behavior and distort economic choices. A product-specific 
+excise tax raises the price of the taxed item, and people can avoid the tax by buying substitutes. 
+An income tax distorts the choice between present and future consumption and between work 
+and leisure. The corporate tax influences investment and production decisions, and investment 
+is diverted away from the corporate sector. As we have already seen, the size of a tax distortion 
+will depend on how elastic the parties are to the transaction. If both parties are elastic, taxing 
+that market will bring large distortions and create large excess burdens.
+Measuring Excess Burdens
+It is possible to measure the size of excess burdens if we know something about how people 
+respond to price changes. Look at the demand curve in Figure 19.5. The product originally sold 
+for a price, P0, equal to marginal cost (which, for simplicity, we assume is constant). Recall that 
+when input prices are determined in competitive markets, marginal cost reflects the real value 
+of the resources used in producing the product.
+To measure the total burden of the tax, we need to recall the notion of consumer surplus 
+from Chapter 4. At any price, some people pay less for a product than it is worth to them. All we 
+reveal when we buy a product is that it is worth at least the price being charged. For example, if 
+only 1 unit of product X were auctioned, someone would pay a price close to D in Figure 19.5. 
+By paying only P0, that person received a “surplus” equal to (D – P0). (For a review of consumer 
+surplus and how it is measured, see Chapters 4 and 6.)
+Consider what happens when an excise tax raises the price of X from P0 to P1 = P0 + T, 
+where T is the tax per unit of X. First, the government collects revenue. The amount of revenue 
+19.3 Learning Objective
+Summarize the causes and 
+ effects of excess burdens.
+excess burden The amount 
+by which the burden of a tax 
+exceeds the total revenue col-
+lected. Also called deadweight 
+loss.
+principle of neutrality All else 
+equal, taxes that are neutral 
+with respect to economic deci-
+sions (that is, taxes that do not 
+distort economic decisions) are 
+generally preferable to taxes 
+that distort economic deci-
+sions. Taxes that are not neu-
+tral impose excess burdens.
+3 The phrase ceteris paribus (all else equal) is important. In judging the merits of a tax or a change in tax policy, the degree of neu-
+trality is only one criterion among many, and it often comes into conflict with others. For example, tax A may impose a larger 
+excess burden than tax B, but society may deem A more equitable.
+432 part III Market Imperfections and the Role of Government
+collected is equal to T times the number of units of X purchased (X1). You can see that T * X1 is 
+equal to the area of rectangle P1 ABP0. Second, because consumers must now pay a price of P1, 
+the consumer  surplus generated in the market is reduced from the area of triangle DCP0 to the 
+area of the smaller triangle DAP1. The excess burden is equal to the original (pretax) consumer 
+surplus minus the after-tax surplus minus the total taxes collected by the government.
+In other words, the original value of consumer surplus (triangle DCP0) has been broken up 
+into three parts: the area of triangle DAP1 that is still consumer surplus, the area of rectangle P1 
+ABP0 that is tax revenue collected by the government, and the area of triangle ACB that is lost. 
+Thus, the area ACB is an approximate measure of the excess burden of the tax. The total burden 
+of the tax is the sum of the revenue collected and the excess burden: the area of P1 ACP0.
+Excess Burdens and the Degree of Distortion
+The size of the excess burden that results from a decision-distorting tax depends on the degree 
+to which decisions change in response to that tax. In the case of an excise tax, consumer 
+ behavior is reflected in elasticity of demand. The more elastic the demand curve, the greater the 
+distortion caused by any given tax rate.
+Figure 19.6 shows how the size of the consumer response determines the size of the excess 
+burden. At price P0, the quantity demanded by consumers is X0. Now suppose that the govern-
+ment imposes a tax of $T per unit of X. The two demand curves (D1 and D2) illustrate two possible 
+responses by consumers. The change in quantity demanded along D1 (from X0 to X1) is greater 
+than the change in quantity demanded along D2 (from X0 to X2). In other words, the response of 
+consumers illustrated by D1 is more elastic than the response of consumers along D2.
+The excess burdens that would result from the tax under the two assumptions about 
+demand elasticity are approximately equal to the areas of the shaded triangles in Figure 19.6. As 
+you can see, where demand is more responsive (more elastic), the excess burden is larger.
+If demand were perfectly inelastic, no distortion would occur and there would be no excess 
+burden. The tax would simply transfer part of the surplus being earned by consumers to the 
+government. That is why some economists favor uniform land taxes over other taxes. Because 
+land is in perfectly inelastic supply, a uniform tax on all land uses distorts economic decisions 
+less than taxes levied on other factors of production that are in variable supply.
+The Principle of Second Best
+Now that we have established the connection between taxes that distort decisions and 
+excess burdens, we can add more complexity to our previous discussions. Although it may 
+seem that distorting taxes always creates excess burdens, this is not necessarily the case. A 
+19.4 Learning Objective
+Explain the principle of second 
+best.
+X0
+X1
+C
+A
+D
+B
+Demand
+0
+Excess burden/
+Deadweight loss
+Units of good X
+Price per unit ($)
+P1 = P0 + T
+P0 = MC
+T
+▴
+▸Figure 19.5 The 
+excess Burden of a 
+Distorting excise Tax
+A tax that alters economic 
+ decisions imposes a burden that 
+exceeds the amount of taxes col-
+lected. An excise tax that raises 
+the price of a good above mar-
+ginal cost drives some consumers 
+to buy less desirable substitutes, 
+reducing consumer surplus.
+Chapter 19  Public Finance: The Economics of Taxation 433 
+distorting tax is sometimes desirable when other distortions already exist in the economy. 
+This is called the  principle of second best. At least two kinds of circumstances favor non-
+neutral (that is, distorting) taxes: the presence of externalities and the presence of other 
+ distorting taxes.
+We already examined externalities at some length in Chapter 16. If some activity by a firm 
+or household imposes costs on society that are not considered by decision makers, firms and 
+households are likely to make economically inefficient choices. Pollution is the classic example 
+of an externality, but there are thousands of others. An efficient allocation of resources can be 
+restored if a tax is imposed on the externality-generating activity that is equal to the value of the 
+damages caused by it. Such a tax forces the decision maker to consider the full economic cost of 
+the decision.
+Because taxing for externalities changes decisions that would otherwise be made, it does 
+in a sense “distort” economic decisions. But its purpose is to force decision makers to consider 
+real costs that they would otherwise ignore. In the case of pollution, for example, the distortion 
+caused by a tax is desirable. Instead of causing an excess burden, it results in an efficiency gain. 
+(Review Chapter 16 if this is not clear.)
+A distorting tax can also improve economic welfare when other taxes are present that 
+already distort decisions. Suppose there were only three goods, X, Y, and Z, and a 5 percent 
+excise tax on Y and Z. The taxes on Y and Z distort consumer decisions away from those goods 
+and toward X. Imposing a similar tax on X reduces the distortion of the existing system of taxes. 
+When consumers face equal taxes on all goods, they cannot avoid the tax by changing what they 
+buy. The distortion caused by imposing a tax on X corrects for a preexisting distortion—the 
+taxes on Y and Z.
+Optimal Taxation
+The idea that taxes work together to affect behavior has led tax theorists to search for optimal 
+taxation systems. Knowing how people will respond to taxes would allow us to design a sys-
+tem that would minimize the overall excess burden. For example, if we know the elasticity of 
+demand for all traded goods, we can devise an optimal system of excise taxes that are heaviest 
+on those goods with relatively inelastic demand and lightest on those goods with relatively 
+elastic demands.
+Of course, it is impossible to collect all the information required to implement the optimal 
+tax systems that have been suggested. This point brings us full circle, and we end up where 
+principle of second best The 
+fact that a tax distorts an 
+economic decision does not 
+always imply that such a tax 
+imposes an excess burden. if 
+there are previously existing 
+distortions, such a tax may 
+actually improve efficiency.
+P0
+P1
+X1
+X2
+X0
+D1
+D2
+0
+Units of good X
+Price per unit ($)
+D2 Less elastic,
+      smaller excess
+      burden
+D1 More elastic,
+      larger excess
+      burden
+T
+▴
+◂Figure 19.6 The Size 
+of the excess Burden of 
+a Distorting excise Tax 
+Depends on the elasticity 
+of Demand
+The size of the excess burden 
+from a distorting tax depends 
+on the degree to which decisions 
+or behaviors change in response 
+to it.
+434 part III Market Imperfections and the Role of Government
+Economic Income = Consumption + Change in Net Worth
+we started, with the principle of neutrality: All else equal, taxes that are neutral with respect to 
+ economic decisions are generally preferable to taxes that distort economic decisions. Taxes that 
+are not neutral impose excess burdens.
+Tax Equity
+Thus far we have been discussing the efficiency issues involved with levying particular types 
+of taxes. But, one of the criteria for evaluating the economy that we defined in Chapter 1 (and 
+returned to in Chapter 18) was fairness, or equity. In the area of taxation, most policy makers 
+also wish to consider fairness as a consideration for tax system design. Everyone agrees all of 
+us should pay our “fair share” of taxes, but there is endless debate about what constitutes a fair 
+tax system.
+One theory of fairness is called the benefits-received principle. Dating back to the 
+ eighteenth-century economist Adam Smith and earlier writers, the benefits-received principle 
+holds that taxpayers should contribute to government according to the benefits they derive 
+from public expenditures. This principle ties the tax side of the fiscal equation to the expenditure 
+side. For example, the owners and users of cars pay gasoline and automotive excise taxes, which 
+are paid into the Federal Highway Trust Fund to build and maintain the federal highway system. 
+The beneficiaries of public highways are thus taxed in rough proportion to their use of those 
+highways.
+The difficulty with applying the benefits principle is that many public expenditures are for 
+public goods—national defense, for example. The benefits of public goods fall collectively on 
+all members of society, and there is no way to determine what value individual taxpayers receive 
+from them.
+A different principle, and one that has dominated the formulation of tax policy in the 
+United States for decades, is the ability-to-pay principle. This principle holds that taxpayers 
+should bear tax burdens in line with their ability to pay. Here the tax side of the fiscal equation 
+is viewed separately from the expenditure side. Under this system, the problem of attributing 
+the benefits of public expenditures to specific taxpayers or groups of taxpayers is avoided.
+Horizontal and Vertical equity 
+If we believe that, on fairness grounds, ability to pay 
+should be the basis for the distribution of tax burdens, two principles follow. First, the prin-
+ciple of horizontal equity holds that those with equal ability to pay should bear equal tax bur-
+dens. Second, the principle of vertical equity holds that those with greater ability to pay should 
+pay more.
+To implement these principles, we need to first answer two interdependent questions. First, 
+how is ability to pay measured? What is the “best” tax base? Second, if A has a greater ability to 
+pay than B, how much more should A contribute?
+What Is the “Best” Tax Base?
+The three leading candidates for best tax base are income, consumption, and wealth.
+Income—to be precise, economic income—is anything that enhances your ability to command 
+resources. The technical definition of economic income is the value of what you consume plus 
+any change in the value of what you own:
+19.5 Learning Objective
+Explain what is meant by  
+tax equity.
+benefits-received principle  
+A theory of fairness holding 
+that taxpayers should con-
+tribute to government (in the 
+form of taxes) in proportion to 
+the benefits they receive from 
+ public expenditures.
+ability-to-pay principle  
+A theory of taxation holding 
+that citizens should bear tax 
+burdens in line with their  
+ability to pay taxes.
+This broad definition includes many items not counted by the Internal Revenue Service and 
+some items the Census Bureau does not include in its definition of “money income.” Economic 
+income includes all money receipts, whether from employment, interest on savings, dividends, 
+profits, or transfers from the government. It also includes the value of benefits not received in 
+money form, such as medical benefits, employer retirement contributions, paid country club 
+memberships, and so on. Increases or decreases in the value of stocks or bonds, whether or not 
+Chapter 19  Public Finance: The Economics of Taxation 435 
+they are “realized” through sale, are part of economic income. For income tax purposes, capital 
+gains (increases in the value of assets, like shares of stock) count as income only when they are 
+realized, but for purposes of defining economic income, all increases in asset values count, 
+whether they are realized or not.
+A few other items that we do not usually think of as income are included in a comprehen-
+sive definition of income. If you own your house outright and live in it rent free, income flows 
+from your house just as interest flows from a bond or profit from a share of stock. By owning 
+the house, you enjoy valuable housing benefits for which you would otherwise have to pay rent. 
+Other components of economic income include any gifts and bequests received and food grown 
+at home. In economic terms, income is income regardless of source and use.
+Consumption is the total value of goods and services that a household consumes in a given 
+period.
+Wealth, or net worth, is the value of all the goods and services you own after your liabilities are 
+subtracted. If today you were to sell everything of value you own—stocks, bonds, houses, cars, 
+and so on—at their current market prices and pay off all your debts—loans, mortgages, and so 
+on—you would end up with your net worth.
+Net worth = Assets - Liabilities
+Remember, income and consumption are flow measures. We speak of income per month or 
+per year. Wealth and net worth are stock measures at a point in time.
+income versus Consumption as the Best Tax Base 
+In the United States, the principle 
+base for household taxation is income, as we saw in Table 19.1. In most other developed econo-
+mies the value-added tax (VAT), which is a tax on consumption, dominates. Arguments about 
+whether  income or consumption is a “better” tax base touch on concerns both of efficiency and 
+equity.
+The view favoring consumption as the fairest tax base dates back to at least the seventeenth-
+century English philosopher Thomas Hobbes, who argued that people should pay taxes in 
+accordance with “what they actually take out of the common pot, not what they leave in.” The 
+standard of living, the argument goes, depends not on income, but on how much income is 
+spent. If we want to redistribute well-being, therefore, the tax base should be consumption 
+because consumption is the best measure of well-being.
+A second argument in favor of consumption as a base for taxation with a distinguished 
+history dates back to work done by Irving Fisher in the early part of the last century. Fisher 
+and many others have argued that a tax on consumption is both fairer and more efficient 
+than one based on income. Central to Fisher’s argument is the view that income discourages 
+saving by taxing savings twice. A story told originally by Fisher illustrates this theory nicely.4
+Suppose Alex builds a house for Frank. In exchange, Frank pays Alex $10,000 and gives 
+him an orchard containing 100 apple trees. Alex spends the $10,000 today, but he saves the 
+orchard. Each year that orchard will bear fruit which Alex will sell. At year’s end, the state levies 
+a 10  percent tax on Alex’s total income, which includes the $10,000 and the value of the orchard. 
+First, the government takes 10 percent of the $10,000, which is 10 percent of Alex’s consump-
+tion. Second, it takes 10 percent of the orchard—10 trees—which is 10 percent of the value of 
+Alex’s orchard on the grounds that this was part of his income this year. So far, there appears 
+to be no double counting. But in year 2, the orchard bears fruit which Alex sells. The income 
+tax will also be levied on the proceeds of those sales. Indeed, every year thereafter Alex is taxed 
+on the income that orchard generates. If the income tax is levied in the year after that, Alex 
+will again be taxed on the income generated by his orchard, and so on. Fisher and others argue 
+this is unfair: The income tax system taxes Alex’s saving more than once. The full value of the 
+orchard was taxed as income in year 1, and then the earnings from the saving of the orchard was 
+taxed again in subsequent years. To tax the orchard fairly, it is argued, the system should take 10 
+4 Irving Fisher and Herbert Fisher, Constructive Income Taxation: A Proposal for Reform (New York: Harper, 1942), Ch. 8, p. 56.
+436 part III Market Imperfections and the Role of Government
+percent of the trees or 10 percent of the fruit going forward—but not both! To avoid the double 
+taxation of savings, either the original savings of 100 trees should not be taxed or the income 
+generated from the after-tax number of trees (90) should not be taxed.
+The same logic can be applied to cash savings. You are taxed when you earn $100, and then 
+taxed again on the interest income generated by that same $100 if you choose to put it in the 
+bank rather than spend it.
+There are also efficiency issues associated with taxing consumption versus income. As 
+you recall, a tax that distorts economic choices creates excess burdens. By double-taxing savings, 
+an income tax distorts the choice between consumption and saving, which is really the choice 
+between present consumption and future consumption. Excess burden or deadweight loss 
+results. Consumption taxes are less distortionary.
+Not everyone agrees with Fisher’s argument. Many argue that income is the best measure of 
+your capacity to command resources today. According to proponents of income as a tax base, 
+fairness suggests you should be taxed not on what you actually draw out of the common pot, 
+but rather on the basis of your ability to draw from that pot. In other words, your decision to 
+save or consume is no different from your decision to buy apples, to go out for dinner, or to give 
+money to your mother. It is your income that enables you to do all these things, and it is income 
+that should be taxed, regardless of its sources and regardless of how you use it. Saving is just 
+another use of income.
+If income is the best measure of ability to pay, the double taxation argument doesn’t hold 
+true. An income tax taxes savings twice only if consumption is the measure used to gauge a per-
+son’s ability to pay. It does not do so if income is the measure used. Acquisition of the orchard 
+enhances your ability to pay today; a bountiful crop of fruit enhances your ability to pay when it 
+is produced. Interest income is no different from any other form of income; it too enhances your 
+ability to pay and is thus fair.
+Wealth as the Best Tax Base 
+Still others argue that the real power to command resources 
+comes not from any single year’s income, but from accumulated wealth. Aggregate net worth in 
+the United States is many times larger than aggregate income.
+If two people have identical annual incomes of $10,000 but one of them also has an accu-
+mulated net worth of $1 million, is it reasonable to argue that these two people have the same 
+ability to pay or that they should pay equal taxes? Most people would answer no.
+Those who promote a wealth-based system also argue that the only real way to redistribute 
+economic power is to tax the high concentrations of wealth. Of course, it is important to note 
+that if income is already taxed, a wealth tax results in double-taxation.
+One of the oldest and most common forms of taxation in the world is the taxation of 
+property, or wealth, held by an individual at the time of his or her death. The property owned 
+at the time of a person’s death is called the person’s estate. An estate tax is a tax on the total 
+value of a person’s estate regardless of how it is distributed. The United States levies a Gift 
+and Estate Tax on gifts made over a person’s lifetime and the value of the person’s estate, for 
+estates over a certain level. The Federal Gift and Estate Tax, which raises less than 2 percent 
+of total tax revenues, was phased out for one year in 2010 under a law passed by Congress in 
+2001. As part of the budget crisis resolution in late 2012, Congress voted to resume an estate 
+tax. In 2015 the exemption per estate was $5,430,000, and the tax rate was 40 percent on any 
+excess over that limit.
+You might well think that the estate tax performs well on efficiency grounds, given that 
+we cannot escape the tax by not dying! Excess burden would thus appear to be low. As it turns 
+out, however, there are methods the wealthy can use to shift wealth into nontaxable forms. The 
+larger the number of loopholes to the estate tax, the more shifting there will be and the larger 
+will be the excess burden. Wealthy individuals can also choose to save less for their children, 
+another behavioral distortion with excess burden.
+No Simple Answer 
+Virtually every country in the world has a system of taxation that taxes 
+all three bases. In the United States, for example, there are sales and excise taxes (consumption 
+taxes), the Federal Gift and Estate Tax (a wealth tax), the Individual Income Tax, and the local 
+property tax (another wealth tax).
+estate The property that a 
+person owns at the time of his 
+or her death.
+estate tax A tax on the total 
+value of a person’s estate.
+Chapter 19  Public Finance: The Economics of Taxation 437 
+It is also important to point out that for many U.S. taxpayers, the Individual Income 
+Tax is probably closer to being a consumption tax than an income tax because much of 
+household  savings can be deducted from income before the tax is figured. The tax code (or 
+law) is full of subsidies and incentives. Among the most significant incentives built into 
+the system are  provisions designed to encourage people to save by reducing taxation on 
+those savings.
+Social Choice
+One view of government, or the public sector, holds that it exists to provide things that  “society 
+wants.” A society is a collection of individuals, and each has a unique set of preferences. Defining 
+what society wants, therefore, becomes a problem of social choice—of somehow adding up, or 
+aggregating, individual preferences.
+It is also important to understand that government is made up of individuals—politi-
+cians and government workers—whose own objectives in part determine what government 
+does. To understand government, we must understand the incentives facing politicians and 
+public  servants, as well as the difficulties of aggregating the preferences of the members of a 
+society.
+The Voting Paradox
+Democratic societies use ballot procedures to determine aggregate preferences and to make the 
+social decisions that follow from them. If all votes could be unanimous, efficient decisions would 
+be guaranteed. Unfortunately, unanimity is virtually impossible to achieve when hundreds of 
+millions of people, with their own different preferences, are involved.
+The most common social decision-making mechanism is majority rule, but it is not  perfect. 
+In 1951, economist Kenneth Arrow proved the impossibility theorem5—that it is  impossible 
+to devise a voting system that respects individual preferences and gives consistent, nonarbitrary 
+results.
+One example of a seemingly irrational result emerging from majority-rule voting is the 
+voting paradox. Suppose that faced with a decision about the future of the institution, the 
+president of a major university opts to let its top three administrators vote on the following 
+options: Should the university (A) increase the number of students and hire more faculty, 
+(B) maintain the current size of the faculty and student body, or (C) cut back on faculty and 
+reduce the student body? Figure 19.7 represents the preferences of the three administrators 
+diagrammatically.
+The vice president for finance (VP1) wants growth, preferring A to B and B to C. The vice 
+president for development (VP2), however, does not want to rock the boat, preferring the main-
+tenance of the current size of the institution, option B, to either of the others. If the status quo is 
+out of the question, VP2 would prefer option C. The dean believes in change, wanting to shake 
+the place up and not caring whether that means an increase or a decrease. The dean prefers C to 
+A and A to B.
+Table 19.2 shows the results of the vote. When the three vote on A versus B, they vote in 
+favor of A—to increase the size of the university instead of keeping it the same size. VP1 and the 
+dean outvote VP2. Voting on B and C produces a victory for option B; two of the three would 
+prefer to hold the line than to decrease the size of the institution. After two votes, we have the 
+result that A (an increase) is preferred to B (no change) and that B (no change) is preferred to C 
+(a decrease).
+The problem arises when we have the three vote on A against C. Both VP2 and the dean vote 
+for C, giving it the victory; C is actually preferred to A. Nevertheless, if A beats B and B beats C, 
+how can C beat A? The results are inconsistent.
+19.6 Learning Objective
+Discuss social choice theories 
+and issues.
+social choice The problem of 
+deciding what society wants. 
+The process of adding up 
+ individual preferences to make 
+a choice for society as a whole.
+5 Kenneth Arrow, Social Choice and Individual Values (New York: John Wiley, 1951).
+impossibility theorem  
+A proposition demonstrated 
+by kenneth Arrow showing 
+that no system of aggregating 
+individual preferences into 
+social decisions will always 
+yield consistent, nonarbitrary 
+results.
+438 part III Market Imperfections and the Role of Government
+The voting paradox illustrates several points. Most important is that when preferences for 
+public goods differ among individuals, any system for adding up, or aggregating, those prefer-
+ences can lead to inconsistencies. In addition, it illustrates just how much influence the person 
+who sets the agenda has. If a vote had been taken on A and C first, the first two votes might never 
+have occurred. This is why rules committees in both houses of Congress have enormous power; 
+they establish the rules under which, as well as the order in which, legislation will be considered.
+Another problem with majority-rule voting is that it leads to logrolling. Logrolling occurs 
+when representatives trade votes—D helps get a majority in favor of E’s program; in exchange, 
+E helps D get a majority on D’s program. It is not clear whether any bill could get through any 
+legislature without logrolling. It is also not clear whether logrolling is, on balance, a good thing 
+or a bad thing from the standpoint of efficiency. On the one hand, a program that benefits one 
+region or group of people might generate enormous net social gains, but because the group 
+of beneficiaries is fairly small, it will not command a majority of delegates. If another bill that 
+is likely to generate large benefits to another area is also awaiting a vote, a trade of support 
+between the two sponsors of the bills should result in the passage of two good pieces of efficient 
+legislation. On the other hand, logrolling can also turn out unjustified, inefficient pork barrel 
+legislation.
+A number of other problems also follow from voting as a mechanism for public choice. 
+For one, voters do not have much of an incentive to become well informed. When you go out 
+to buy a car or, on a smaller scale, an iPod, you are the one who suffers the full consequences 
+of a bad choice. Similarly, you are the beneficiary of the gains from a good choice. This is not 
+so in voting. Although many of us believe that we have a civic responsibility to vote, no one 
+really believes that his or her vote will actually determine the outcome of an election. The time 
+and effort it takes just to get to the polls are enough to deter many people. Becoming informed 
+involves even more costs, and it is not surprising that many people do not do it.
+Beyond the fact that a single vote is not likely to be decisive is the fact that the costs and 
+ benefits of wise and unwise social choices are widely shared. If the congressperson whom you 
+elect makes a big mistake and wastes a billion dollars, you bear only a small fraction of that cost. 
+Even though the sums involved are large in aggregate, individual voters find little incentive to 
+become informed.
+Two additional problems with voting are that choices are almost always limited to bundles 
+of publicly provided goods and that we vote infrequently. Many of us vote for Republicans or 
+Democrats. We vote for president only every 4 years. We elect senators for 6-year terms. In 
+ private markets, we can look at each item separately and decide how much of each item we 
+voting paradox A simple 
+demonstration of how 
+majority- rule voting can lead 
+to seemingly contradictory and 
+inconsistent results. A com-
+monly cited illustration of the 
+kind of inconsistency described 
+in the impossibility theorem.
+logrolling Occurs when 
+congressional representatives 
+trade votes, agreeing to help 
+each other get certain pieces of 
+legislation passed.
+Option A
+Option B
+Option C
+Hire more faculty
+No change
+Reduce the size of the faculty
+Ranking
+1
+2
+3
+X
+X
+X
+X
+X
+X
+X
+X
+X
+VP1
+VP2
+Dean
+▴
+▸Figure 19.7 
+ 
+Preferences of Three Top 
+university Officials
+VP1 prefers A to B and B to c. 
+VP2 prefers B to c and c to A. 
+The dean prefers c to A and  
+A to B.
+Table 19.2  Results of Voting on University’s Plans:  
+The Voting Paradox
+Votes of:
+Vote
+VP1
+VP2
+Dean
+Resulta
+A versus B
+A
+B
+A
+A wins: A > B
+B versus C
+B
+B
+C
+B wins: B > C
+C versus A
+A
+C
+C
+C wins: C > A
+a A > B is read “A is preferred to B.”
+Chapter 19  Public Finance: The Economics of Taxation 439 
+want. We also can shop daily. In the public sector, though, we vote for a platform or a party that 
+takes a particular position on a whole range of issues. In the public sector it is difficult, or impos-
+sible, for voters to unbundle issues.
+There is, of course, a reason why bundling occurs in the sphere of public choice. It is 
+ difficult enough to convince people to go to the polls once a year. If we voted separately on every 
+appropriation bill, we would spend our lives at the polls. This is one reason for representative 
+democracy. We elect officials who we hope will become informed and represent our interests 
+and preferences.
+Government Inefficiency: Theory of Public Choice
+Recent work in economics has focused not just on the government as an extension of indi-
+vidual preferences but also on government officials as people with their own agendas and 
+objectives. That is, government officials are assumed to maximize their own utility, not the 
+social good. To understand the way government functions, we need to look less at the prefer-
+ences of individual members of society and more at the incentive structures that exist around 
+public officials.
+The officials whom we seem to worry about are the people who run government  agencies—
+the Social Security Administration, the Department of Housing and Urban Development, and 
+state registries of motor vehicles, for example. What incentive do these people have to produce a 
+good product and to be efficient? Might such incentives be lacking?
+In the private sector, where firms compete for profits, only efficient firms producing goods 
+that consumers will buy survive. If a firm is inefficient—if it is producing at a higher- than-
+necessary cost—the market will drive it out of business. This is not necessarily so in the public 
+sector. If a government bureau is producing a necessary service or one that is mandated by law, 
+it does not need to worry about customers. No matter how bad the service is at the registry of 
+motor vehicles, everyone with a car must buy its product.
+The efficiency of a government agency’s internal structure depends on the way incen-
+tives facing workers and agency heads are structured. If the budget allocation of an agency is 
+based on the last period’s spending alone, for example, agency heads have a clear incentive to 
+spend more money, however inefficiently. This point is not lost on government officials, who 
+have experimented with many ways of rewarding agency heads and employees for cost-saving 
+suggestions.
+However, critics say such efforts to reward productivity and punish inefficiency are rarely 
+successful. It is difficult to punish, let alone dismiss, a government employee. Elected officials are 
+subject to recall, but it usually takes gross negligence to rouse voters into instituting such a mea-
+sure. Also, elected officials are rarely associated with problems of bureaucratic  mismanagement, 
+which they decry daily.
+Critics of “the bureaucracy” argue that no set of internal incentives can ever match the dis-
+cipline of the market. They point to studies of private versus public garbage collection, airline 
+operations, fire protection, mail service, and so on, all of which suggest significantly lower costs 
+in the private sector. A number of politicians and policy analysts favor “privatization.” If the 
+private sector can possibly provide a service, it is likely to do so more efficiently—so the public 
+sector should allow the private sector to take over.
+One concern regarding wholesale privatization is the potential effect it may have on distribu-
+tion. Late in his administration, President Ronald Reagan suggested that the federal government sell 
+its entire stock of public housing to the private sector. Would the private sector continue to provide 
+housing to poor people? The worry is that it would not because it may not be profitable to do so.
+Like voters, public officials suffer from a lack of incentive to become fully informed and 
+to make tough choices. Consider an elected official. If the real objective of an elected official is 
+to get reelected, then the real incentive must be to provide visible goods for that official’s con-
+stituency while hiding the costs or spreading them thin. Self-interest may easily lead to poor 
+ decisions and public irresponsibility.
+Looking at the public sector from the standpoint of the behavior of public officials and the 
+potential for inefficient choices and bureaucratic waste rather than in terms of its potential for 
+improving the allocation of resources has become quite popular. This is the viewpoint of what 
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+440 part III Market Imperfections and the Role of Government
+is called the public choice field in economics that builds heavily on the work of Nobel laureate 
+James Buchanan.
+Rent-Seeking Revisited
+Another problem with public choice is that special-interest groups can and do spend resources 
+to influence the legislative process. As we said before, individual voters have little incentive to 
+become well informed and to participate fully in the legislative process. Favor-seeking special-
+interest groups have a great deal of incentive to participate in political decision making. We saw 
+in Chapter 13 that a monopolist would be willing to pay to prevent competition from eroding its 
+economic profits. Many—if not all—industries lobby for favorable treatment, softer regulation, 
+or antitrust exemption. This, as you recall, is rent-seeking.
+Rent-seeking extends far beyond those industries that lobby for government help in pre-
+serving monopoly powers. Any group that benefits from a government policy has an incentive 
+to use its resources to lobby for that policy. Farmers lobby for farm subsidies, oil producers 
+lobby for oil import taxes, and the American Association of Retired Persons lobbies against cuts 
+in Social Security.
+In the absence of well-informed and active voters, special-interest groups assume an impor-
+tant and perhaps critical role. But there is another side to this story. Some have argued that 
+favorable legislation is, in effect, for sale in the marketplace. Those willing and able to pay the 
+most are more successful in accomplishing their goals than those with fewer resources. Theory 
+may suggest that unregulated markets fail to produce an efficient allocation of resources. This 
+should not lead you to the conclusion that government involvement necessarily leads to effi-
+ciency. There are reasons to believe that government attempts to efficiently produce the right 
+goods and services in the right quantities will often fail.
+S u m m a r y 
+19.1 ThE BASICS Of TAxATION p. 423 
+1. Public finance is one of the major subfields of applied 
+ economics. A major interest within this subfield is the 
+ economics of taxation.
+2. Taxes are ultimately paid by people. Taxes may be imposed 
+on transactions, institutions, property, and all kinds of other 
+things, but in the final analysis, taxes are paid by individuals 
+or households because they own all factors of production.
+3. The base of a tax is the measure or value upon which the tax 
+is levied. The rate structure of a tax determines the portion of 
+the base that must be paid in tax.
+4. A tax whose burden is a constant proportion of income for 
+all households is a proportional tax. A tax that exacts a higher 
+proportion of income from higher-income households 
+is a progressive tax. A tax that enacts a lower proportion of 
+income from higher-income households is a regressive tax. 
+In the United States, income taxes are progressive and sales 
+and excise taxes are regressive.
+5. Your average tax rate is the total amount of tax you pay 
+divided by your total income. Your marginal tax rate is the 
+tax rate that you pay on your next dollar of income that you 
+have earned. Marginal tax rates have the most influence on 
+behavior.
+19.2 TAx INCIDENCE: WhO PAyS? p. 426 
+6. As a result of behavioral changes and market adjustments, 
+tax burdens are often not borne by those initially respon-
+sible for paying them. When we speak of the incidence of a tax, 
+we are referring to the ultimate distribution of its burden.
+7. Taxes change behavior, and changes in behavior can affect 
+supply and demand in markets, causing prices to change. 
+When prices change in input markets or in output markets, 
+some people may be made better off and some worse off. 
+These final changes determine the ultimate burden of a tax.
+8. Tax shifting occurs when households can alter their behavior 
+and do something to avoid paying a tax. In general, broad-
+based taxes are less likely to be shifted and more likely to 
+stick where they are levied than partial taxes are.
+9. When labor supply is more elastic, firms bear the bulk of a 
+tax imposed on labor. When labor supply is more inelastic, 
+workers bear the bulk of the tax burden. Because the elastic-
+ity of labor supply in the United States is close to zero, most 
+economists conclude that most of the payroll tax in the 
+United States is probably borne by workers.
+10. The payroll tax is regressive at top incomes for two  reasons. 
+Wages and salaries fall as a percentage of total income as we 
+move up the income scale. Those with higher incomes earn 
+Chapter 19  Public Finance: The Economics of Taxation 441 
+a larger portion of their incomes from profits, dividends, 
+rents, and so on, and these kinds of income are not subject 
+to the payroll tax. The full tax is also not applied to very high 
+incomes.
+11. The ultimate burden of the corporate tax appears to depend 
+on several factors. One generally accepted study shows that 
+the owners of corporations, proprietorships, and partner-
+ships all bear the burden of the corporate tax in rough 
+proportion to profits, even though it is directly levied only 
+on corporations, that wage effects are small, and that excise 
+effects are roughly neutral. However, there is still much de-
+bate about whom the corporate tax “hurts.” The burden of 
+the corporate tax is progressive because profits and capital 
+income make up a much bigger part of the incomes of the 
+high-income households.
+19.3 ExCESS BURDENS AND ThE PRINCIPlE  
+Of NEUTRAlITy p. 431 
+12. When taxes distort economic decisions, they impose 
+ burdens that, in aggregate, exceed the revenue collected by 
+the government. The amount by which the burden of a tax 
+exceeds the revenue collected by the government is called 
+the excess burden. The size of excess burdens depends on the 
+degree to which economic decisions are changed by the 
+tax. The principle of neutrality holds that the most efficient 
+taxes are broad-based taxes that do not distort economic 
+decisions.
+13. The excess burden imposed by a tax is equal to the pretax 
+consumer surplus minus the after-tax consumer surplus 
+ minus the total taxes collected by the government.  
+The more elastic the demand curve, the greater the 
+ distortion caused by any given tax rate.
+19.4 ThE PRINCIPlE Of SECOND BEST p. 432 
+14. The principle of second best holds that a tax that distorts 
+ economic decisions does not necessarily impose an excess 
+burden. If previously existing distortions or externalities 
+ exist, such a tax may actually improve efficiency
+19.5 TAx EqUITy p. 434 
+15. There is much disagreement over what constitutes a fair 
+tax system. One theory contends that people should bear 
+tax burdens in proportion to the benefits that they receive 
+from government expenditures. This is the benefits-received 
+principle. Another theory contends that people should bear 
+tax burdens in line with their ability to pay. This ability-to-pay 
+principle has dominated U.S. tax policy.
+16. The three leading candidates for best tax base are income, 
+consumption, and wealth.
+19.6 SOCIAl ChOICE p. 437 
+17. Because we cannot know everyone’s preferences about 
+public goods, we are forced to rely on imperfect social choice 
+mechanisms such as majority rule.
+18. The theory that unfettered markets do not achieve an 
+ efficient allocation of resources should not lead us to 
+ conclude that government involvement necessarily leads to 
+efficiency. Governments also can fail.
+r E v I E W  T E r m S  a N d  C o N C E P T S 
+ability-to-pay principle, p. 434 
+average tax rate, p. 424 
+benefits-received principle, p. 434 
+estate, p. 436 
+estate tax, p. 436 
+excess burden, p. 431 
+impossibility theorem, p. 437 
+logrolling, p. 438 
+marginal tax rate, p. 424 
+principle of neutrality, p. 431 
+principle of second best, p. 433 
+progressive tax, p. 424 
+proportional tax, p. 424 
+regressive tax, p. 424 
+social choice, p. 437 
+tax base, p. 423 
+tax incidence, p. 426 
+tax rate structure,  p. 423 
+tax shifting, p. 426 
+voting paradox, p. 438 
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+P r o B l E m S 
+Similar problems are available on MyEconLab .
+19.1 ThE BASICS Of TAxATION
+Learning Objective: Define the fundamentals of taxation.
+ 1.1 Suppose that in 2015, Congress passed and the presi-
+dent signed a new simple income tax with a flat rate of 
+20 percent on all income greater than $35,000 (no tax 
+on the first $35,000). Assume that the tax is imposed 
+on every individual separately. For each of the following 
+total  income levels, calculate taxes due and compute the 
+ average tax rate. Plot the average tax rate on a graph with 
+income along the horizontal axis. Is the tax proportional, 
+progressive, or regressive? Explain why.
+a. $35,000
+b. $50,000
+c. $65,000
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+442 part III Market Imperfections and the Role of Government
+d. $80,000
+e. $100,000
+f. $125,000
+ 1.2 [related to the Economics in Practice on p. 425] Using 
+the tax brackets and rates for 2014 on p. 425, compute 
+the total tax for each of the following income levels for 
+a single taxpayer. In each case, calculate average and 
+marginal tax rates. Assume that in each case the taxpayer 
+chooses the standard deduction and qualifies for a single 
+exemption.
+a. Gross income = $35,000
+b. Gross income = $70,000
+c. Gross income = $125,000
+d. Gross income = $250,000
+ 1.3 In the United States, 43 states have passed legislation to 
+legalize lotteries, and the states use the lottery proceeds 
+to raise revenue. If you view the price of a lottery ticket as 
+a tax, do you think it would be a proportional, progres-
+sive, or regressive tax? What information would you need 
+to definitively determine if it was proportional, progres-
+sive, or regressive?
+ 1.4 Each year around April 15, discussions heat up regard-
+ing the tax system in the United States. A number of 
+people are in favor of replacing the current federal 
+income tax with either a flat tax or a consumption tax. 
+Explain whether the current federal income tax is pro-
+portional, progressive, or regressive. Do the same for a 
+flat tax and a consumption tax.
+19.2 TAx INCIDENCE: WhO PAyS?
+Learning Objective: Discuss the incidence of payroll taxes and 
+corporate profits taxes.
+ 2.1 A citizens’ group in the Pacific Northwest has the follow-
+ing statement in its charter:
+■
+■
+“Our goal is to ensure that large, powerful corpora-
+tions pay their fair share of taxes in this country.” 
+To implement this goal, the group has recommended  
+and lobbied for an increase in the corporation income  
+tax and a reduction in the individual income tax. Would 
+you support such a petition? Explain your logic.
+ 2.2 For each of the following statements, do you agree or 
+ disagree? Why?
+a. Economic theory predicts unequivocally that a payroll tax 
+reduction will increase the supply of labor.
+b. Corporate income taxes levied on a monopolist are likely 
+to be regressive because the monopoly can pass on its 
+burden to consumers.
+c. If labor supply is relatively elastic, the burden of a payroll 
+tax falls largely on workers.
+ 2.3 In calculating total faculty compensation, the adminis-
+tration of Doughnut University includes payroll taxes 
+(Social Security taxes) paid as a benefit to faculty. After all, 
+those tax payments are earning future entitlements for 
+the faculty under Social Security. However, the American 
+Association of University Professors has argued that, far 
+from being a benefit, the employer’s contribution is simply 
+a tax and that its burden falls on the faculty even though it 
+is paid by the university. Discuss both sides of this debate.
+ 2.4 The graph below represents equilibrium in a competitive 
+labor market both before and after a payroll tax, which is 
+levied on the employer, has been implemented. Before the 
+payroll tax, the equilibrium quantity of labor was  
+55 units. Supply curve S1 represents supply as a function 
+of what firms pay, including the tax. S0 represents labor 
+ supply as a function of what workers take home.
+a. What is the amount of the per-unit payroll tax?
+b. What is the per-unit price of labor faced by firms 
+ immediately after the tax is levied?
+c. What wage will workers receive immediately after the tax 
+is levied?
+d. What are the quantity of labor demanded and the quan-
+tity of labor supplied immediately after the tax is levied?
+e. If, after the tax is levied, the equilibrium quantity of labor 
+settles at 40 units, what will be the new equilibrium wage?
+f. If, after the tax is levied, the equilibrium quantity of labor 
+settles at 40 units, what are the amounts of the workers’ 
+share of the tax burden, the firms’ share of the tax burden, 
+and the total tax collection?
+0
+40
+55
+24
+28
+Units of labor, L
+Wage rate ($)
+S0 (as a function of workers’
+take-home pay)
+D (as a function of
+what ﬁrms pay)
+16
+30
+20
+S1 (as a function of
+what ﬁrms pay)
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+Chapter 19  Public Finance: The Economics of Taxation 443 
+ 2.5 The market demand for product X is given by  
+Qd = 6 - 1/2P and the market supply for good X is  
+given by Qs = 2P -14, where P = price per unit.
+a. Draw a supply-and-demand graph with these curves. 
+What are the equilibrium price and the equilibrium 
+quantity?
+b. A per-unit excise tax is imposed on product X, and the 
+market supply with the tax is now given by Qs = 2P - 19. 
+Add this supply curve to your graph and identify the new 
+equilibrium price and equilibrium quantity. What is the 
+value of the per-unit tax? How much of this per-unit tax 
+will be paid by consumers and how much will be paid by 
+the producer?
+19.3 ExCESS BURDENS AND ThE PRINCIPlE  
+Of NEUTRAlITy
+Learning Objective: Summarize the causes and effects of 
+excess burdens.
+ 3.1 Taxes on necessities that have low demand elasticities im-
+pose large excess burdens because consumers can’t avoid 
+buying them. Do you agree or disagree with that state-
+ment? Explain.
+ 3.2 You are given the following information on a proposed 
+“cigar tax” in the Republic of Panatela. Panatela collects 
+no other specific excise taxes, and all other government 
+revenues come from a neutral lump-sum tax. (A  
+lump-sum tax is a tax of a fixed sum paid by all  
+people regardless of their circumstances.) Assume 
+further that the burden of the tax is fully borne by 
+consumers.
+Now consider the following data:
+■
+■
+Cigars consumed before the tax: 18 million
+■
+■
+Cigars consumed after the tax: 14 million
+■
+■
+Average price per cigar: $20 (not including  
+the tax)
+■
+■
+Tax rate: 25 percent
+Estimate the size of the excess burden of the tax. 
+What is the excess burden as a percentage of revenues 
+collected from the tax?
+ 3.3 Assume that at a price of $12 per pound, the quantity  
+of cashews demanded is 50 pounds. Now assume  
+that the government imposes an excise tax on  
+cashews of $3 per pound. Draw a graph showing  
+demand when  consumers are relatively responsive  
+to the tax and  quantity  demanded falls by 40 percent, 
+and when  consumers are relatively nonresponsive  
+to the tax and quantity  demanded falls by  
+10 percent. Calculate the amount of the excess  
+burden of this tax for each s ituation and show this  
+on the graph.
+19.4 ThE PRINCIPlE Of SECOND BEST
+Learning Objective: Explain the principle of second best.
+ 4.1 For each of the following statements, do you agree or 
+ disagree? Why?
+a. Taxing for externalities causes distortions that always 
+ result in excess burdens.
+b. It is possible for a distorting tax to improve economic 
+welfare.
+c. An optimal system of excise taxes would impose the 
+heaviest taxes on those goods with relatively elastic 
+demands.
+19.5 TAx EqUITy
+Learning Objective: Explain what is meant by tax equity.
+ 5.1 Suppose a special tax was introduced that used the value 
+of one’s automobile as the tax base. Each person would 
+pay taxes equal to 10 percent of the value of his or her car. 
+Would the tax be proportional, regressive, or progressive? 
+What assumptions do you make in answering this ques-
+tion? What distortions do you think would appear in the 
+economy if such a tax were introduced?
+19.6 SOCIAl ChOICE
+Learning Objective: Discuss social choice theories and issues.
+ 6.1 Annie, Blake, and Cornelia are triplets who are trying 
+to decide on a name for their new bakery. They have 
+narrowed their decision down to three choices, and the 
+preferences of each are listed in the table. Will their prefer-
+ences lead to a voting paradox? If yes, explain why. If no, 
+which company name will be selected?
+Company Name
+Annie
+Blake
+Cornelia
+ABC Bakery
+1st
+3rd
+2nd
+Triple Threat
+3rd
+1st
+3rd
+Bake n’ Take
+2nd
+2nd
+1st
+ 6.2 The town of Mt. Pilot has a 3-member town council that 
+is considering new infrastructure projects for the town: 
+building a new park, buying a new fire truck, and repav-
+ing Main Street. The town only has enough money to pay 
+for one of the projects. The preferences of each council 
+member for each project are shown in the table. Will 
+these preferences lead to a voting paradox? Explain your 
+answer by using the results of the votes for each of the 
+three head-to-head match-ups.
+Company Name
+Barney
+floyd
+howard
+New Park
+1st
+2nd
+3rd
+New Fire Truck
+3rd
+1st
+2nd
+Repaving Main street
+2nd
+3rd
+1st
+444
+When the macroeconomy is doing 
+well, jobs are easy to find, incomes are 
+generally rising, and profits of corpora-
+tions are high. On the other hand, if the 
+macroeconomy is in a slump, new jobs 
+are scarce, incomes are not growing 
+well, and profits are low. Students who 
+entered the job market in the boom of 
+the late 1990s in the United States, on 
+average, had an easier time finding a 
+job than did those who entered in the 
+recession of 2008–2009. The sluggish 
+economy that continued into 2013 had 
+negative effects on millions of people. 
+Given the large effect that the macroeconomy can have on our lives, it is important that we 
+ understand how it works.
+We begin by discussing the differences between microeconomics and macroeconomics that 
+we glimpsed in Chapter 1. Microeconomics examines the functioning of individual  industries 
+and the behavior of individual decision-making units, typically firms and  households. With 
+a few assumptions about how these units behave (firms maximize profits; households maxi-
+mize utility), we can derive useful conclusions about how markets work and how resources are 
+allocated.
+Instead of focusing on the factors that influence the production of particular products 
+and the behavior of individual industries, macroeconomics focuses on the determinants of 
+total national output. Macroeconomics studies not household income but national income, 
+not  individual prices but the overall price level. It does not analyze the demand for labor in the 
+ automobile industry but instead total employment in the economy.
+Both microeconomics and macroeconomics are concerned with the decisions of house-
+holds and firms. Microeconomics deals with individual decisions; macroeconomics deals with 
+the sum of these individual decisions. Aggregate is used in macroeconomics to refer to sums. 
+When we speak of aggregate behavior, we mean the behavior of all households as well as the 
+behavior of all firms. We also speak of aggregate consumption and aggregate investment, which 
+refer to total consumption and total investment in the economy, respectively.
+Because microeconomists and macroeconomists look at the economy from different per-
+spectives, you might expect that they would reach somewhat different conclusions about the 
+way the economy behaves. This is true to some extent. Microeconomists generally conclude 
+that markets work well. They see prices as flexible, adjusting to maintain equality between 
+quantity supplied and quantity demanded. Macroeconomists, however, observe that important 
+prices in the economy—for example, the wage rate (or price of labor)—often seem “sticky.” 
+Sticky prices are prices that do not always adjust rapidly to maintain equality between quantity 
+supplied and quantity demanded. Microeconomists do not expect to see the quantity of apples 
+Chapter Outline 
+and learning 
+ObjeCtives 
+20.1 Macroeconomic 
+Concerns p. 445
+Describe the three 
+primary concerns of 
+macroeconomics.
+20.2 The 
+Components of the 
+Macroeconomy p. 448
+Discuss the interac-
+tion  between the four 
+components of the 
+macroeconomy.
+20.3 A Brief History 
+of Macroeconomics 
+p. 451
+Summarize the macroeco-
+nomic history of the United 
+States between 1929  
+and 1970.
+20.4 The U.S. 
+Economy Since  
+1970 p. 453
+Describe the U.S. economy 
+since 1970.
+Introduction to 
+Macroeconomics
+Part IV 
+ConCepts and problems in maCroeConomiCs
+20 

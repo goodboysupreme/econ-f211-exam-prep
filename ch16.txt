@@ -1,0 +1,2017 @@
+Chapter 16  Externalities, Public Goods, and Common Resources 361 
+Externalities and Environmental Economics
+An externality exists when the actions or decisions of one person or group impose a cost or 
+bestow a benefit on second or third parties. Externalities are sometimes called spillovers or 
+ neighborhood effects. Inefficient decisions result when decision makers fail to consider social costs 
+and benefits.
+The presence of externalities is a significant phenomenon in modern life. Examples are 
+everywhere: Air, water, land, sight, and sound pollution; traffic congestion; automobile  accidents; 
+abandoned housing; nuclear accidents; and secondhand cigarette smoke are only a few. Reports 
+of melting ice caps have fueled worry among scientists and others across the world about global 
+warming. Concern about air quality is a major political issue in much of the  developing world. 
+The study of externalities is a major concern of environmental economics.
+The growth of China and India has put increased pressure on the environment. As new 
+countries industrialize, strains on global air and water systems are inevitable. We have become 
+increasingly aware of the global nature of externalities.
+Marginal Social Cost and Marginal Cost Pricing
+In the absence of externalities, when a firm weighs price and marginal cost to decide output, it is 
+weighing the full benefits to society of additional production against the full costs to society of 
+that production. Those who benefit from the production of a product are the people or house-
+holds who end up consuming it. The price of a product is a good measure of what an additional 
+unit of that product is “worth” because those who value it more highly already buy it. People 
+who value it less than the current price are not buying it. If marginal cost includes all costs—that 
+is, all costs to society—of producing a marginal unit of a good, additional production will be 
+efficient, provided P is greater than MC. Up to the point where P = MC , each unit of produc-
+tion yields benefits in excess of cost. Figure 16.1(a) shows a firm and an industry in which no 
+externalities exist.
+Suppose, however, that the production of the firm’s product imposes external costs on 
+society as well. A firm producing detergent may dump wastewater into a local river as a by-
+product of its detergent production, affecting the local community. A steel firm may produce 
+carbon emissions as well as steel, contributing both to air pollution and global warming. These 
+are costs of producing steel or detergent just as much as is the labor or capital costs of making 
+those goods. What would happen to the firm and industry in Figure 16.1(a) if we made the firms 
+responsible financially for the external costs they impose? Figure 16.1(b) shows what happens 
+graphically when we add the external costs to the financial costs of the firm. The curve labeled 
+MSC, marginal social cost, is the sum of the marginal cost of producing the product and the cor-
+rectly measured marginal external cost involved in the process of production.
+When we correctly include the external costs in the firm’s budget, the firm’s marginal 
+costs rise, shifting up to the curve labeled MSC on the right hand side of Figure 16.1(b). The 
+industry supply curve, which is just the sum of the marginal cost curves of the firms in the 
+industry, also then shifts up to the curve labeled S' in the figure. A new equilibrium occurs at 
+the intersection of the original demand curve and the new supply curve and now embeds the 
+full cost of production of this good. The new price is P**, and each firm chooses quantity q**, 
+which equates its new higher marginal cost with the industry price. Industry output at the 
+optimum is Q**.
+Notice what has happened. Making the firms responsible for their external costs increases 
+the costs they see. This reduces firm and industry output and increases the price. Fewer units 
+will be sold, but the price they are sold at will now reflect all the costs of production, both 
+ private and social.
+We can also use Figure 16.1 to show what happens when decision makers are not made 
+responsible for the external costs they impose. Without being charged for their external costs, 
+firms will continue to produce at q*, and the industry will produce at Q*, charging the price P*. 
+You can see that the industry is producing too much output. In particular, it overproduces by 
+Q*−Q**. There is a social loss from this over production. We can see the costs of producing 
+these units by reading along the MSC curve between Q** and Q*. It is labeled in the figure as 
+16.1 Learning Objective
+Understand the market failure 
+associated with externalities 
+and the possible solutions to 
+this set of issues.
+externality Actions of one 
+party impose costs or benefits 
+on a second party.
+marginal social cost (MSC)  
+The total cost to society of  
+producing an additional unit of 
+a good or service. MSC is equal 
+to the sum of the marginal cost 
+of producing the product and 
+the correctly measured mar-
+ginal external cost involved in 
+the process of production.
+362 part III Market Imperfections and the Role of Government
+segment AB. The value of these extra units can be seen by looking at the demand curve, which is 
+shown in the figure as the segment AC. We can see easily that these added units generate more 
+cost than their value to consumers. That is what we mean when we say there is overproduction 
+or that the production level is inefficient. Indeed the triangle ABC is a measure of the efficiency 
+loss from this overproduction. It should look familiar as it parallels the deadweight loss from 
+ underproduction in the monopoly case and was also covered in another context in Chapter 4.
+The analysis thus far should give you some insight into the kinds of policy solutions likely 
+to help in the environmental area. The central issue in externalities is that some decisions are 
+being made without taking into account full costs. Solutions will thus involve figuring out ways 
+to make individuals and firms take these costs into account. Sometimes this process is called 
+“internalizing the externalities.” We will discuss some policy options later in this chapter.
+Acid Rain and the Clean Air Act 
+Acid rain is an excellent example of an externality and 
+of the issues and conflicts involved in dealing with externalities. When manufacturing firms 
+and power plants in the Midwest burn coal with a high-sulfur content, smoke from those plants 
+mixes with moisture in the atmosphere. The result is a dilute acid that is windblown north to 
+Canada and east to New York and New England, where it falls to Earth as rain. The same sources 
+produce acid rain in Germany, Sweden, and Norway.
+How does the acid rain problem look to the different parties involved? For manufacturing 
+firms and public utilities generating the sulfur dioxide that creates acid rain, burning high-sulfur 
+coal delivers cheap power and employment to residents of the Midwest. Paying to clean up the 
+damage or changing the fuel mix to reduce sulfur would result in higher electricity prices. Some 
+firms would likely go out of business, and jobs would be lost. For residents in other parts of 
+a. A proﬁt-maximizing ﬁrm: No externalities
+The industry
+A representative ﬁrm
+b.  A proﬁt-maximizing ﬁrm: Externality
+The industry
+A representative ﬁrm
+Units of output
+Units of output
+Price per unit ($)
+0
+0
+P*
+P*
+Q*
+q*
+MC
+D
+S
+Units of output
+Units of output
+Price per unit ($)
+0
+0
+P**
+P*
+P**
+P*
+Q*
+Q**
+q*
+q**
+D
+C
+A
+B
+S'
+S
+MSC
+MC
+Marginal
+external
+cost
+▸
+▸FiguRe 16.1 Profit 
+Maximizing Firm 
+With and Without 
+externalities
+(a) Without externalities, 
+ optimum output Q* is produced 
+at the level where P = MC.
+(b) With externalities, Q* is 
+ inefficient and the optimum 
+ output is Q**. The price has 
+risen from P* to P**.
+Chapter 16  Externalities, Public Goods, and Common Resources 363 
+the United States and Canada, particularly those near wildlife areas, the burning of high-sulfur 
+coal and the resulting acid rain results in fish kills and deforestation. Often these citizens are 
+far enough away from the power plants producing the sulfur dioxide that they are not even 
+ benefiting from the cheaper power. As in many areas of economics, the hard issue here is how 
+to  balance benefits to one set of claimants with costs to another.
+In complex cases of externalities, like acid rain, governments often get involved. The United 
+States began its regulatory work in reducing acid rain with the Clean Air Act in 1990. Since 
+then, the United States has made substantial progress in reducing the problem of acid rain, and 
+many acidified lakes and streams now once again support fish life. Recently, the United States 
+has employed an innovative “cap-and-trade” program to control emissions, which we will 
+ discuss later in this chapter. For acid rain, which travels across national boundaries, agreements 
+between Canada and the United States have also played an important role.
+Other externalities Clearly, the most significant and hotly debated issue of externalities is 
+global warming. The 2007 Nobel Peace Prize was awarded to former Vice President Al Gore and 
+the Intergovernmental Panel on Climate Change, a group of 2,500 researchers from 130 nations 
+that issued a number of reports linking human activity to the recent rise of the average tempera-
+ture on Earth. Although there is some disagreement, most scientists predict that absent a change 
+in policy major adverse consequences such as dramatically rising sea levels are likely. The global 
+E co no m i c s  i n  P r ac t i c E 
+Adjusting to an Environmental Disaster: The Dust Bowl
+In economics we often distinguish between short- and 
+ long-run effects of various policies or actions. Whether we 
+think about consumer reactions to price increases or firm 
+reactions to cost increases or demand shifts, we normally 
+assume that the ability of people and institutions to react to 
+these new circumstances as time passes softens their impact. 
+The same arguments have been applied in environmental 
+areas, including the case of global warning, where it is argued 
+that changing patterns of agriculture and overall land use can 
+mitigate some of the economic consequences of tempera-
+ture increases. A recent, interesting study of the short- and 
+long-run effects of the U.S. Dust Bowl in the 1930s provides 
+a counterpoint.1
+In the late nineteenth century, as agriculture spread 
+through the plains in the United States, grasslands were 
+replaced by crops. When times were good and rainfall ade-
+quate, farms and farmers thrived. But in the 1930s the U.S. 
+plains experienced a severe drought, with large-scale crop 
+failure. Subsequent dust storms blew topsoil off the lands, 
+creating what some dubbed black Sundays, as valuable soil 
+from Oklahoma, Texas, and the Dakotas ended up in the 
+Atlantic Ocean. By the 1940s many of the plains areas had 
+lost almost three-fourths of their topsoil cover. The conse-
+quence was an eroded landscape, with a much diminished 
+ability to sustain crops and families. Many of you will have 
+read John Steinbeck’s The Grapes of Wrath, which describes 
+the travails of the Joad family as they left their home in 
+Oklahoma to head to California in this period.
+Hornbeck’s recent work asks the question: How long 
+did it take for the U.S. plains to recover from this man-
+made environmental disaster? His conclusion? Large and 
+Thinking PrACTiCAlly
+1. Why do you think adjustment to the Dust Bowl was 
+so slow?
+1 Richard Hornbeck, “The Enduring Impact of the American Dust Bowl: 
+Short and Long Run Adjustments to Environmental Catastrophe” American 
+Economic Review, June 2012, 1477–1507.
+widespread economic effects were felt throughout the 
+1940s and 1950s and most of the long-run adjustment 
+occurred not with recovery of the plains or a change in 
+crop choice but with the movement of people out of the 
+region much as Steinbeck described. Perhaps for environ-
+mental recovery and readjustment, the long run may be 
+long indeed.
+364 part III Market Imperfections and the Role of Government
+nature of the problem, coupled with the fact that warming will hurt some countries—those with 
+big coastlines and warm current temperatures—more than others makes finding a solution to 
+this issue especially hard.
+Individual actions can also create externalities. When I drive during rush hour, I increase 
+congestion faced by other drivers. If I smoke, your health may be compromised. Again the key 
+issue is weighing the costs and benefits to all parties.
+Some examples of Positive externalities 
+Thus far we have described a series of negative 
+externalities. But externalities can also be positive. In some cases, when other people or firms 
+engage in an activity, there are side benefits from that activity. From an economics perspective, 
+there are problems with positive externalities as well.
+Ian Ayres and Steve Levitt have studied a fascinating example of a product with positive 
+externalities, LoJack. LoJack is a device that allows police to track a car when it is stolen. When a 
+car has a LoJack device installed, the gains to stealing that car are sharply reduced. These devices 
+not only help recover cars but also help catch car thieves. Suppose that 90 percent of the cars in 
+a community had LoJack installed. If all LoJack cars were identified—the way houses are that 
+have burglar alarms—potential thieves could look for the unmarked cars. As it happens, LoJack 
+does not come with any identifying mark. From a thief’s perspective, any car has a 90 percent 
+chance of having a LoJack installed. As a result, the benefits from stealing any car are reduced. 
+With reduced benefits, fewer thefts occur. Ayres and Levitt have found that the size of these 
+positive externalities are large; they estimate that the purchaser of a LoJack captures, as an indi-
+vidual, only 10 percent of the value of the device.1
+We also see positive externalities in the case of vaccinations. The more people who are 
+ vaccinated, and thus less likely to become ill, the less likely it is that a disease will spread. But 
+the less likely the disease, the lower the private benefits to people from getting a vaccination. 
+With communicable diseases, health precautions taken by an individual have positive external 
+ benefits to the rest of the community.
+The problem with positive externalities should now be clear. For this type of externality, 
+the individuals in charge have too little incentive to engage in the activity. Too few LoJacks are 
+bought; too few people wash their hands often; too few people would vaccinate their children 
+unless forced to do so by school systems.
+Costs and Benefits of Pollution
+If you look back at Figure 16.1, you will see that the optimum amount of output for the  pollution- 
+emitting firm analyzed in the figure is positive. This tells us that at the optimum this firm is pro-
+ducing emissions, with some cost to the environment. In general, we will find that at the optimum 
+the level of emissions of most pollutants is not zero. This may surprise you but is an important 
+application of economics to a serious world issue.
+Note that the title of this subsection has both “costs” and “benefits” in it. The social costs of 
+pollution are likely clear to you. They might include health problems from smog or loss of fish 
+species from water pollution. But what are the social benefits of pollution? The social benefits of 
+pollution are the costs we avoid by not eliminating the pollution while still being able to enjoy the 
+goods that create the pollution in the first place. You could eliminate the carbon you emit by not 
+driving, but that would have a cost to you. Or you could turn in your gas-powered car and buy 
+a hybrid, which would cost money. Not doing those things is a benefit to you, one that we want 
+to weigh against the costs to society of having you drive. Similarly, a steel plant gets a benefit 
+from pollution both from the profits it earns selling steel and from avoiding costs of refitting the 
+steel plant. The marginal social benefit of pollution is the incremental benefit to society from 
+ producing one more unit of pollution. The benefit is the cost saved from polluting.
+We can use this idea to determine the optimum amount of pollution in a society. The goal 
+is to use the absorptive capacity of our environment as efficiently as possible. The principle we 
+1 Ian Ayres and Steven D. Levitt, “Measuring Positive Externalities from Unobservable Victim Precautions: An Empirical 
+Analysis of Lojack,” Quarterly Journal of Economics 108, (1), 1998.
+marginal social benefit of 
+ pollution The incremental 
+benefit to society from produc-
+ing one more unit of pollution.
+Chapter 16  Externalities, Public Goods, and Common Resources 365 
+will apply should be familiar to you from other contexts. Each unit of pollution that is emitted 
+has a marginal social cost, borne by society, perhaps in the form of health losses or lost recre-
+ational opportunities from polluted waterways. Continuing to produce that unit of pollution 
+also has a benefit, represented by the marginal social benefit of pollution. Again, the benefit 
+comes from resources saved in not having to eliminate the externality. We compare the two. 
+If an incremental unit of pollution has a marginal social benefit in excess of its marginal social 
+cost, we produce it; otherwise we do not. In other words, if on the margin society benefits more 
+from controlling the emission than it costs to do that control, then the emission is controlled. 
+Otherwise it is not. At the optimum, the marginal social cost of pollution emitted will exactly 
+equal the marginal social benefit from emissions.
+Figure 16.2 presents this analysis graphically. Along the horizontal axis we measure the 
+level of pollution; here we have used tons of carbon emitted. On the vertical axis we represent 
+the marginal social cost of experiencing carbon emissions (green line) and the marginal social 
+benefit from pollution (purple line). It is interesting to think about the slopes of these two 
+curves. As we increase emissions levels, the MSC increases; the MSC curve slopes up. This tells 
+us that as we increase emissions the added cost of one more unit of  emissions goes up. For 
+many pollutants the environment can absorb low levels reasonably well, so marginal costs 
+at low levels are low. As we dump more pollutants into the environment, however, the harm 
+to nature generally increases. Adding a little bit of smoke to a clear sky may have little effect 
+as it dissipates; adding that same smoke to an already hazy sky may have serious health con-
+sequences. In some cases the MSC curve may increase quite dramatically as the environment 
+approaches a saturation point. The marginal social benefit curve shown in the figure has, by 
+contrast, a downward slope. At high levels of emissions (to the right), there are often cheap 
+ways to eliminate some emissions. Cutting back a ton of carbon  emissions at this level may be 
+quite cheap. Thus, the benefits from being able to pollute are small. In the driving example, it 
+is easy to think of some trips you could avoid taking at all with little  detriment. As we cut back 
+emissions, however, moving to the left on the graph, technology for reductions may reach a 
+limit and eliminating the last little bit of pollution may in fact be  possible only by  eliminating 
+production altogether. If you had to give up driving altogether, that lost benefit might be high 
+indeed.
+We see the optimum emissions level in Figure 16.2 is Q*, found at the intersection of the 
+MSC and MSB curves. At this point, society is using its environment most efficiently, weighing 
+the reduction in costs from experiencing pollution against the lost benefits from changing con-
+sumption or investing resources in mitigation.
+Drawing the marginal curves as we have done and identifying the optimal level of pollution 
+is a relatively straightforward application of the principles of marginalism that we have covered 
+often in this text. It is a more difficult challenge to empirically measure these curves. The MSC of 
+emissions ranges from health costs, to aesthetics, to loss of species diversity, or even to increases 
+Quantity of
+carbon
+emitted (tons)
+Social optimum
+MSB
+MSC
+Marginal social
+cost; marginal
+social benefit
+Q*
+▸
+◂FiguRe 16.2 Socially 
+Optimal Polution Level
+At the optimum, Q*, marginal 
+social benefit equals marginal 
+social cost.
+366 part III Market Imperfections and the Role of Government
+in risks to populations from rising sea levels. Many of these risks are uncertain. Environmental 
+economists working with natural scientists have spent considerable time trying to provide rea-
+sonable estimates of what these costs might be. Nor is it easy to estimate the marginal social 
+benefit curves, which requires us to assess the costs of technological solutions to emissions 
+problems.
+We have explored externalities and, focusing on pollution, have seen the characteristics of 
+an optimal solution to the externality problem. But how do we move to the optimal level? Here 
+there is much debate, both about how much progress can be made by private action and about 
+the right type of government policy instruments to use.
+Internalizing Externalities
+A number of mechanisms are available to provide decision makers with incentives to weigh 
+the external costs and benefits of their decisions, a process called internalization. In some cases, 
+externalities are internalized through bargaining and negotiation without government involve-
+ment. In other cases, private bargains fail and the only alternative may be government action of 
+some kind.
+Four approaches have been taken to solving the problem of externalities: (1) private bargain-
+ing and negotiation, (2) environmental standards, (3) government-imposed taxes and subsidies, 
+and (4) sale or auctioning of rights to impose externalities. Although each is best suited for a dif-
+ferent set of circumstances, all provide decision makers with an incentive to weigh the external 
+effects of their decisions.
+Private Bargaining and Negotiation 
+Many of you probably live in dormitories. Now 
+and again you may have found yourself with a neighbor who is much noisier than you would 
+like. For you the noise is an externality, one that prevents you from either sleeping or studying. 
+For the neighbor, the noise has its benefits, likely produced by a party. How do you handle this 
+externality? For most people in this situation, the first step is obvious: Knock on the neigh-
+bor’s door and ask him to be quieter. In fact, good manners are a societal reaction to incipient 
+ externalities. As societies increase in population density, more and more activities fall under the 
+category of “not done in public.” Consider what has happened over time to the social accept-
+ability of smoking, for example. Even fashion can create externalities. In 2010, in anticipation of 
+its Expo, the Chinese government cracked down on the tendency of its citizens in Shanghai to 
+wear their pajamas outside the home, believing that this attire has negative externalities for their 
+international guests.
+Even when there are no social norms against an activity, private bargains and negotiation 
+can often solve an externality problem. The first formal model of how private negotiations 
+might work in this setting was described by Ronald Coase in 1960.2 The Coase theorem, which 
+is a staple topic in both law and economics classes, tells us that under certain conditions, private 
+bargaining can solve the externality problem without government action.
+To see how the Coase theorem works, let us return to the problem of your noisy neighbor. 
+Suppose your polite request has been turned down and that this neighbor parties every day. 
+How might the Coase theorem help us here? How can we use bargaining to help us get some 
+sleep? Coase would tell us that the first step is to learn what the rules are; it will turn out that it 
+won’t matter what the rules are, only that both parties to a dispute know the rules. Negotiations 
+are difficult when the two parties don’t agree on who has what rights. Let us assume, at least 
+at first, that in your dormitory there are no rules against noise and that everyone in the dorm 
+is aware of this lenient policy. In a system with no rules and a rude neighbor, do you have any 
+recourse?
+Coase would answer yes. If your neighbor has the right to make noise all the time and you 
+object to that noise, you can try to pay him not to make so much noise. If your neighbor is party-
+ing every day, it is likely that diminishing returns have set in. His first party of the month might 
+2 See Ronald Coase, “The Problem of Social Cost,” Journal of Law and Economics, 1960. Coase won the 1991 Nobel Prize in 
+Economics.
+Coase theorem Under  certain 
+conditions, when externalities 
+are present, private  parties 
+can arrive at the efficient 
+solution without government 
+involvement.
+Chapter 16  Externalities, Public Goods, and Common Resources 367 
+be worth a good deal to him, but by the time party 30 comes around, even he might be tired of the 
+noise and mess! By day 30 of noise, you likely would value quiet a good deal. With nonstop par-
+tying, it is likely that your marginal cost from the noise of the last party exceeds your neighbor’s 
+marginal benefit from that noise. In short, current noise levels are socially inefficient and there is 
+room for a deal! Of course, as your neighbor cuts back in his partying because of your bribes, his 
+value of the marginal hour of noise goes up, and the marginal cost to you of listening begins to 
+fall. At some point, you can no longer bribe the neighbor to be quiet because his marginal benefit 
+from one more noisy party exceeds its cost to you. We have reached a socially optimal level of 
+noise. Notice this level balances your value of silence against your neighbor’s benefit from noise.
+Suppose, on the other hand, your dormitory had strict noise rules. Now the neighbor who 
+wanted to party would have to bribe you not to report him. Again we would expect payments 
+to continue as long as there was a difference in marginal values. In the end, exactly the same 
+amount of partying would go on, one that just balanced the interests of the people involved. 
+Coase tells us that the optimal level, in which the marginal cost from experiencing the external-
+ity exactly equals the marginal benefit from that externality, will be achieved no matter how the 
+original property rights are arranged. All that differs is who is paying whom.
+We learn from Coase that under certain conditions, private negotiations will push society 
+to the right level of output even with externalities. What features of a situation are required for 
+this type of solution to work? First, as noted, basic rights must be understood by all parties. If 
+rights are not spelled out, arguments about who has what right interfere with the bargaining 
+process. A second condition is that people must be able to bargain without impediment or costs. 
+When people live next to one another, bargaining is a lot easier. Finally, private negotiation 
+works best when the number of parties involved is few in number. If one party to a bargain is a 
+large group, such as all residents of a town or a large area as in the previous acid rain example, 
+private negotiations work less well.
+In some cases, especially involving neighbors, the offer of compensation might be made in 
+some form other than cash. You may offer your dormmate goodwill, a favor or two, or help with 
+his school work. In this example, rather than using bribes, you might just pay to insulate your 
+room. Of course, your willingness to do this would depend on how much insulation costs, how 
+much you suffered from the noise, and how long you expected to live next door.
+Coase’s critics are quick to point out that the conditions required for bargaining to produce 
+the efficient result are not always present. The biggest problem with Coase’s system is also a 
+common problem. Often one party to a bargain is a large group of people, and our reasoning 
+may be subject to a fallacy of composition.
+Suppose a power company in Pittsburgh is polluting the air. The damaged parties are the 
+100,000 people who live near the plant. Let us assume the plant has the right to pollute. The 
+Coase theorem predicts that the people who are damaged by the smoke will get together and 
+offer a bribe. If the bribe is sufficient to induce the power plant to stop polluting or reduce the 
+pollutants with air scrubbers, it will accept the bribe and cut down on the pollution. If the bribe 
+is not sufficient, the pollution will continue, but the firm will have weighed all the costs and 
+the result will be efficient.
+However, not everyone will contribute to the bribe fund. First, each contribution is so small 
+relative to the whole that no single contribution makes much of a difference. Making a contri-
+bution may seem unimportant or unnecessary to some. Second, all people get to breathe the 
+cleaner air whether they contribute to the bribe or not. Many people will not participate simply 
+because they are not compelled to, and the private bargain breaks down—the bribe that the 
+group comes up with will be less than the full damages unless everyone participates. (We discuss 
+these two problems—the drop-in-the-bucket and the free-rider—later in this chapter.) When the 
+number of damaged parties is large, government taxes or regulation may be the only avenue to 
+a remedy.
+As we have just seen, for bargaining to result in an efficient outcome, the initial assignment 
+of rights must be clear to both parties. When rights are established by law, more often than not 
+some mechanism to protect those rights is also built into the law. In some cases where a  nuisance 
+exists, for example, there may be legal remedies. In such cases, the victim can go to court and ask 
+for an injunction that forbids the damage-producing behavior from continuing.
+Injunctive remedies are irrelevant when the damage has already been done. Consider acci-
+dents. If your leg has already been broken as the result of an automobile accident, enjoining the 
+injunction A court order 
+forbidding the continua-
+tion of behavior that leads to 
+damages.
+368 part III Market Imperfections and the Role of Government
+driver of the other car from drinking and driving will not work—it is too late. In these cases, 
+rights must be protected by liability rules, rules that require A to compensate B for  damages 
+imposed. In theory, such rules are designed to do the same thing that taxing a polluter is 
+designed to do: provide decision makers with an incentive to weigh all the consequences, actual 
+and potential, of their decisions. Just as taxes do not stop all pollution, liability rules do not stop 
+all accidents.
+However, the threat of liability actions does induce people to take more care than they 
+might otherwise. Product liability is a good example. If a person is damaged in some way 
+because a product is defective, the producing company is, in most cases, held liable for the 
+damages, even if the company took reasonable care in producing the product. Producers have 
+a powerful incentive to be careful. If consumers know they will be generously compensated for 
+any damages, however, they may not have as powerful an incentive to be careful when using the 
+product.
+environmental Standards 
+One of the most important policy tools used to deal with 
+externalities are standards, rules that directly govern how firms and individuals who produce 
+externalities behave.
+Direct regulation of externalities takes place at federal, state, and local levels. The Environ-
+mental Protection Agency (EPA) is a federal agency established by an act of Congress in 1970. 
+Since the 1960s, Congress has passed a great deal of legislation that sets specific  standards 
+for permissible discharges into the air and water. Every state has a division or department 
+charged with regulating activities that are likely to harm the environment. Most airports in 
+the United States have landing patterns and hours that are regulated by local governments to 
+minimize noise.
+Many criminal penalties and sanctions for violating environmental regulations are like the 
+taxes imposed on polluters. Not all violations and crimes are stopped, but violators and crimi-
+nals face “costs.” For the outcome to be efficient, the penalties they expect to pay should reflect 
+the damage that their actions impose on society.
+How strict should the standards be that the government imposes? This is a question we have 
+already answered! Look back at Figure 16.2. We see from this that looking at both benefits and 
+costs, we find the optimal level of pollution is Q*. In setting standards, most economists believe 
+that the government should be trying to set rules so that Q* is achieved. The goal of policy is to set 
+up rules such that decision makers end up producing the optimal level of emissions.
+It turns out that under some common circumstances, setting standards to achieve Q* will 
+be difficult. Standards often involve setting rules on how firms produce. For example, we might 
+require firms to install filters on the top of their smokestacks to reduce their emissions. But 
+specifying what firms should do often results in higher costs for reducing pollution than we 
+could achieve in other ways. Forcing a utility plant to install a filter might be much more expen-
+sive than allowing it to cut emissions by the same amount by changing the type of fuel it burns. 
+It is hard to use standards to encourage firms to choose the right technology to reduce emis-
+sions. When firms creating the externality have different marginal costs of reducing their pol-
+lution, it is also difficult to find the right standard to set. In these circumstances, when methods 
+to reduce emissions are varied, and polluters differ widely in their ability to control emissions, 
+most economists favor managing externalities by turning to a type of price system, using either 
+taxes or a tradable permits market.
+Taxes and Subsidies 
+When private negotiations fail, economists have traditionally advo-
+cated marginal taxes and subsidies as a direct way of forcing firms to consider external costs or 
+benefits. When a firm imposes an external social cost, the reasoning goes, a per-unit tax should 
+be imposed equal to the damages of each successive unit of output produced by the firm—the 
+tax should be exactly equal to marginal external costs.3
+liability rules laws that 
+require A to compensate B for 
+damages that A imposed on B.
+3 As we discuss later in this chapter, damage costs are difficult to measure. It is often assumed that they are proportional to the 
+volume of pollutants discharged into the air or water. Instead of taxes, governments often impose effluent charges, which make the 
+cost to polluters proportional to the amount of pollution caused. We will use tax to refer to both taxes and effluent charges.
+Chapter 16  Externalities, Public Goods, and Common Resources 369 
+Return to look at Figure 16.1(b). We saw in this figure how a firm would do the right thing 
+in terms of emissions if only it faced the right marginal cost curve, the MSC. We can use the tax 
+system to do exactly this! Suppose we impose a tax on this firm exactly equal to the marginal 
+external cost it imposes on society. The firm now faces a marginal cost curve that is the same as 
+the marginal social cost curve—its marginal cost curve is now MSC. It experiences the external-
+ity cost as a financial cost; it pays the government taxes to “use” the environment, just as it pays 
+workers to use their labor. Remember that the industry supply curve is the sum of the marginal 
+cost curves of the individual firms. This means that as a result of the tax, the industry supply 
+curve shifts to the left, driving output down to the optimal level and the price up. Because a 
+profit-maximizing firm equates price with marginal cost, the new price to consumers covers 
+the resource costs of producing the product and the external costs created by the pollution that 
+results from these goods being produced. The consumer decision process is once again efficient 
+at the margin because marginal social benefit as reflected in market price is equal to the full 
+social marginal cost of the product.
+We argued previously that standards sometimes created problems when there are multiple 
+ways to reduce emissions and when firms differ in the marginal benefits they received from pol-
+luting (or thought of another way, their marginal costs of cleaning up). Emission taxes will work 
+much better in this regard. Suppose in drawing the marginal social benefit curve in Figure 16.2 
+we were combining information from two different polluters. One firm, A, finds it easy to avoid 
+polluting. Perhaps it is a new plant, easily able to switch to a different type of fuel. For A, the 
+marginal benefit of polluting is relatively low because avoiding that pollution is easy. A second 
+firm, B, is old and can stop polluting only at great expense. Ideally, if we want to reduce as much 
+pollution as possible per dollar, we should have the firm that can reduce pollution cheaply do 
+more of it. And that is exactly what a tax will do. If the government sets a tax at $10 per ton of 
+carbon emitted, both firms will take actions that reduce carbon as long as those actions cost 
+them less than $10 per ton. For Firm A, there may be many such actions, so it will cut back a lot 
+before it becomes too expensive to do any more. For Firm B, perhaps little reduction will occur. 
+Both firms will look across technological solutions to find the ones that reduce emissions at the 
+lowest costs. In the end, the key policy goal is to make sure the right amount of total reduction 
+occurs, and taxes will accomplish this at lower costs than will a standard.
+Figure 16.3 shows us how a tax would work for Firms A and B. Before we impose a tax, 
+each firm is polluting at its maximum level, thinking of pollution as free. Each firm produces 
+Q0 worth of emissions. Total industry emissions is thus 2Q0. Suppose now the government, 
+based on information about both firms and about the MSCs of emissions, wants to reduce 
+emissions in half to Q0. Looking at the information it has gathered, it sets the tax at T*. Every 
+unit of emissions produced by the firm costs it T*, so you can think of T* as the per-unit price 
+of emissions.
+Look first at Firm A. At its original level of emissions, Q0, the tax per unit is quite a bit 
+higher than the marginal benefit it gets from polluting. So it starts to cut back using whatever 
+Emissions (tons)
+Marginal
+benefit (MB)
+to
+firm
+$
+tax = T*
+QA
+MBA
+MBB
+½QO
+QB
+QO
+▸
+◂FiguRe 16.3 
+ 
+Optimal emissions Taxes 
+for Firms with Different 
+Marginal Benefit Curves
+if a per-unit tax exactly equal 
+to marginal external costs is 
+imposed on a firm, the firm will 
+weigh the tax against its  marginal 
+benefits from polluting and 
+choose an optimal emissions 
+level. here two firms differ in 
+their marginal benefits and thus 
+choose different levels. in equilib-
+rium each firm chooses a level so 
+that the MSB = the tax. The result 
+is that the optimal pollution level 
+is achieved at the lowest costs.
+370 part III Market Imperfections and the Role of Government
+ technological opportunities it has. As long as the price of the emission is more than the benefit 
+to the firm of not cleaning up, the firm reduces its emissions. For firm A, emissions fall all the 
+way to QA. At that point, it is too expensive to cut back any further. Firm B, with much higher 
+benefits from polluting, ends up producing QB emissions. If the tax has been set right, the sum 
+of QA and QB will be Q0, or one half the original emission level of 2Q0. The tax has  accomplished 
+its task of reducing emission levels.
+Suppose we had instead used standards to achieve the emissions reduction, requiring each 
+firm to produce ½Q0 rather than allowing firms to choose emissions based on their costs? Firm 
+B is now producing more emissions than the standards would have required and would need 
+to reduce further. We can see from the marginal benefit curve of Firm B how much it would 
+lose by having to cut back its emissions further. Firm A’s emissions under the tax  system are 
+lower than ½Q0, the standard allowance, so Firm A could increase its emissions. So a  common 
+standard benefits Firm A and costs Firm B. But notice, Firm A gains less from the  ability to have 
+higher emissions than Firm B loses in having to reduce its emissions. Therefore, on net, using a 
+standard to achieve the desired emissions level gives us higher costs. The  emissions tax has not 
+only reduced emissions as firms face the true price of those emissions, but it has also done so 
+at minimum cost by encouraging firms with the lower benefits from polluting to do less of it 
+ relative to other firms.
+The control of carbon emissions is one area in which many economists have argued 
+strongly for the use of a tax, though we have not yet seen one at the federal level. Carbon emis-
+sions come from many different industries and consumers, with different marginal social 
+benefit curves. Automobiles and airplanes create considerable emissions; power plants also 
+emit considerable carbon. Moreover, each of these actors has multiple ways to reduce emis-
+sions, from fuel choice to filters to technology choice. As we have seen, with big differences in 
+marginal benefit curves taxes can achieve the same results as standards but at lower costs. The 
+Economics in Practice box on the next page describes the carbon taxes that some firms have begun 
+to impose on their own divisions to improve their environmental performance.
+Measuring Social Costs 
+To use taxes and subsidies, social costs from externalities must be 
+estimated in financial terms. For the detergent plant polluting the nearby river to be properly 
+taxed, the government must evaluate the costs done to residents downstream in money terms. 
+This evaluation is difficult but not impossible. When legal remedies are pursued, judges are 
+forced to make such estimates as they decide on compensation to be paid. Surveys of “willing-
+ness to pay,” studies of property values in affected versus nonaffected areas, and  sometimes the 
+market value of recreational activities can provide basic data.4
+In the case of some externalities, social costs involve health problems or loss of life. Here, 
+monetary costs are more difficult to estimate. Nevertheless, in many settings policy makers 
+make judgments that implicitly set values on life and health. In making choices about traffic 
+safety or occupational hazards, government agencies routinely put a dollar value on lives. As 
+individuals, when we decide the risks to take, we too are implicitly valuing our health and lives.
+Subsidizing External Benefits 
+Sometimes activities or decisions generate external benefits 
+instead of costs, as in the LoJack example. Investors who revitalize a downtown area—an old 
+theater district in a big city, for example—provide benefits to many people, both in the city and 
+in surrounding areas.
+Activities that provide such external social benefits may be subsidized at the margin to give 
+decision makers an incentive to consider them. Just as ignoring social costs can lead to ineffi-
+cient decisions, so too can ignoring social benefits. Government subsidies for housing and other 
+development, either directly through specific expenditure programs or indirectly through tax 
+exemptions, have been justified on such grounds.
+Tradeable emissions Permits: Selling or Auctioning Pollution Rights As we have 
+seen, the right to impose environmental externalities is beneficial to the parties causing the ex-
+ternal costs. In a sense, the right to dump in a river or to pollute the air or the ocean is a valuable 
+resource as it permits a firm to produce its goods and avoid any costs of cleanup. Thinking of the 
+4 Kenneth Arrow et al., “Report of the NOAA Panel on Contingent Valuations,” January 1993.
+Chapter 16  Externalities, Public Goods, and Common Resources 371 
+privilege to dump in this way suggests an alternative mechanism for controlling pollution: sell-
+ing or auctioning the pollution rights to the highest bidder. The Clean Air Act of 1990 takes this 
+cap-and-trade approach to controlling the emissions from our nation’s power plants. Emissions 
+related to acid rain from each plant are capped; that is, emissions are limited to a specified level. 
+The lower the level specified, the more air quality will improve. The plant is issued a permit allow-
+ing it to emit only at that level. This permit can be used or can be traded to another firm in what 
+has developed into a large auction market. For a firm with low costs of abating pollution, it is 
+often in the firm’s best interest to cut back below its permit levels and sell its unused permits to a 
+firm with higher abatement costs. In this way, the given level of emissions chosen by the govern-
+ment will be achieved at the lowest possible costs as a result of market trades. Environmentalists 
+can also buy up permits and leave them unused, resulting in improvements in air quality beyond 
+what the government mandated. These cap-and-trade programs are being used around the world 
+in an attempt to reduce greenhouse gases responsible for global warming.
+A simple example will help illustrate the potential gains from a cap-and-trade system, pick-
+ing up from the two firm example we discussed previously but using a bit of arithmetic. Table 
+16.1 shows the situation facing the two polluting firms. Assume that each firm emits 5 units of 
+pollution per period and the government wants to reduce the total amount of pollution from the 
+E co no m i c s  i n  P r ac t i c E 
+Imposing Internal Carbon Prices
+As we have seen in this chapter, many economists favor 
+the use of carbon prices to reflect the social cost of carbon 
+emissions on the environment. Although we do not yet have 
+a nationwide tax on carbon, we have seen a number of orga-
+nizations using their own internal carbon “taxes” to change 
+the behavior of their workers.
+Walt Disney and Microsoft are two of the leaders among 
+U.S. companies in using carbon taxes. As you likely know, 
+Disney runs a number of parks and also has a sizeable fleet of 
+cruise ships. The potential for carbon emissions from these 
+businesses is large, especially from the cruise ships, which 
+use a good deal of fuel. Beginning in 2009, Disney decided 
+to try to make its own executives more sensitive to the way 
+their decisions affected carbon emissions by imposing an 
+internal carbon fee. For a range of corporate activities and 
+investments, carbon emissions were calculated and then a 
+division running an operation or planning an investment 
+was charged by the center for the carbon their operations or 
+investments produced. This fee increased the perceived costs 
+to those decision makers of high-carbon-emission choices 
+and made those emissions much more salient to these execu-
+tives. Next time you visit a Disney park, pay attention to the 
+trains. Many of them are run using vegetable oil recycled 
+from the Disney kitchens.
+Microsoft similarly uses internal carbon prices. For the 
+Microsoft executives one major source of carbon emis-
+sions is air travel. It is now Microsoft practice to charge 
+divisions carbon fees for the trips taken by their exec-
+utives. The clear hope is that these fees will incentiv-
+ize executives to substitute video meetings for in-person 
+meetings when possible.
+Thinking PrACTiCAlly
+1. Why might the social cost of capital be a good carbon 
+fee to use from an economic efficiency perspective?
+There are a number of universities that are also experi-
+menting with the use of internal carbon fees to make both 
+students and faculty more aware of the social costs of carbon. 
+Yale University is one of these universities.
+A key question in the use of these internal fees is what 
+price to use. A number of agencies in the federal govern-
+ment, including the Environmental Protection Agency, use 
+the social cost of carbon as their fee. In 2015, at a 3 percent 
+discount rate, that price was $39 per ton of carbon when they 
+consider the costs of various policies.
+372 part III Market Imperfections and the Role of Government
+current level of 10 to 4. To do this, the government caps each firm’s allowed pollution level at 2. 
+Thus, each firm must pay to cut its pollution levels by 3 units. The process of reducing  pollution is 
+sometimes called pollution abatement. The table shows the marginal cost of abatement for each firm 
+and the total costs. (In our language, the marginal cost of abatement is just the marginal benefit 
+to the firm of not abating). For Firm A, for example, the first unit of pollution reduced or abated 
+costs only $5. So the marginal benefit from being allowed to pollute is $5. As the firm tries to abate 
+more pollution, doing so becomes more costly; the marginal costs of reducing pollution rise. If 
+Firm A wants to reduce its pollution levels from 5 units to 2, as the government requires, it must 
+spend $21, $5 for the first unit, $7 for the second unit, and $9 for the third unit. Firm B finds reduc-
+ing pollution to be more expensive. If it tries to reduce pollution by 3 units, it will have costs of $45. 
+A cap-and-trade policy gives each of these firms two permits and allows them to trade permits if 
+they so choose. What will the firms want to do?
+Firm A can reduce its emissions from 2 units to 1 unit by spending $12 more on abate-
+ment. It would then have a permit to sell to Firm B. How much would Firm B be willing to pay 
+for this permit? At the moment, the firm is abating 3 units, and the marginal cost of that third 
+unit is $23. This tells us that Firm B would be willing to pay up to $23 to buy a permit to allow 
+it to continue polluting up to a level of 3. So there is room for a deal. Indeed, the permit price 
+will be somewhere between the $12 demanded by Firm A and the $23 that Firm B is willing 
+to spend. Because Firm A’s marginal costs of abatement are lower than Firm B’s, we expect 
+Firm A to do more abatement and sell its extra permit to B. You should be able to see from 
+the numbers that Firm A will not sell its last permit to B. To abate another unit, Firm A would 
+have marginal costs of $17. To avoid abatement, however, Firm B would pay only $14. There is 
+no room for a deal. Once the trade of one permit by A to B has occurred, there are still only 4 
+units of pollution, but now Firm A is emitting 1 unit and Firm B is emitting 3 units. What are 
+the total costs of this  pollution reduction? When both firms were reducing their emission lev-
+els equally, the total costs were $21 for Firm A and $45 for Firm B, for a total of $66. Now costs 
+are $33 for A and $22 for B, for a total of $55. (Of course, A will also be receiving a  payment 
+for the permit.)
+Europe implemented the world’s first mandatory trading scheme for carbon dioxide 
+emissions in 2005 in response to its concern for global warming. Carbon dioxide emissions 
+are a major source of global warming. The first phase of the plan, which was over at the end 
+of 2007, involved around 12,000 factories and other facilities. The participating firms were 
+oil refineries; power generation facilities; and glass, steel, ceramics, lime, paper, and chemical 
+factories. These 12,000 plants represented 45 percent of total European Union (EU) emissions. 
+The EU set an absolute cap on carbon dioxide emissions and then allocated allowances to gov-
+ernments. The nations in turn distributed the allowances to the separate plants. In the second 
+phase from 2008 through 2012, a number of large sectors were added, including agriculture 
+and petrochemicals.
+In both the United States and Europe, the allowances are given out to the selected plants free 
+of charge even though the allowances will trade at a high price once they are distributed. Many 
+are now questioning whether the government should sell them in the market or collect a fee from 
+the firms. As it is, many of the firms that receive the allocations get a huge windfall. During the 
+second phase in Europe, the governments are allowed to auction more than 10 percent of the 
+allowances issued.
+Table 16.1 Permit Trading
+Firm A
+Firm A
+Firm A
+Firm B
+Firm B
+Firm B
+Reduction of pollu-
+tion by Firm A (in 
+units of pollution)
+MC of reducing  
+pollution for Firm A
+TC of reducing  
+pollution for Firm A
+Reduction of pollu-
+tion by Firm B (in 
+units of pollution)
+MC of reducing  
+pollution for Firm B
+TC of reducing  
+pollution for Firm B
+1
+$ 5
+$ 5
+1
+$ 8
+$  8
+2
+  7
+ 12
+2
+ 14
+  22
+3
+  9
+ 21
+3
+ 23
+  45
+4
+ 12
+ 33
+4
+ 35
+  80
+5
+ 17
+ 50
+5
+ 50
+ 130
+Chapter 16  Externalities, Public Goods, and Common Resources 373 
+Another example of selling externality rights comes from Singapore, where the right to 
+buy a car is auctioned each year. Despite high taxes and the need for permits to drive in down-
+town areas, the roads in Singapore have become congested. The government decided to limit 
+the number of new cars on the road because the external costs associated with them (conges-
+tion and pollution) were becoming high. With these limits imposed, the decision was made to 
+distribute car ownership rights to those who place the highest value on them. It seems likely 
+that taxi drivers, trucking companies, bus lines, and traveling salespeople will buy the licenses; 
+families who drive for convenience instead of taking public transportation will find the licenses 
+too expensive. Congestion and pollution are not the only externalities that Singapore takes seri-
+ously: In 2005 the fine for littering was as high as $1,000; for failing to flush a public toilet, more 
+than $100; and for eating on a subway, $300.
+Public (Social) Goods
+Another source of market failure lies in public goods, often called social or collective goods. 
+Public goods are defined by two closely related characteristics: They are nonrival in consump-
+tion, and their benefits are nonexcludable. As we will see, these goods represent a market 
+failure because they have characteristics that make it difficult for the private sector to produce 
+them profitably. In an unregulated market economy with no government to see that they are 
+produced, public goods would at best be produced in insufficient quantity and at worst not 
+produced at all.
+16.2 Learning Objective
+Discuss the characteristics and 
+provision of public goods.
+public goods (social or 
+ collective goods) goods that 
+are nonrival in  consumption 
+and their benefits are 
+nonexcludable.
+E co no m i c s  i n  P r ac t i c E 
+Emissions and Electricity Prices
+The cap-and-trade program introduced in Europe and 
+described in the text effectively resulted in a price for carbon 
+in Europe, thus increasing the costs for carbon-producing 
+firms. Electricity firms are among the largest of the carbon 
+producers, and one might therefore expect increases in elec-
+tricity prices to be a result. A recent study with Spanish data 
+provides some evidence on this.
+We can use the supply and demand analysis we have 
+already learned to look at this question from a theoretical 
+perspective. The carbon tax increases the marginal costs of 
+electricity producers. Thus, the supply curve for the electric-
+ity market is shifted upward to the left. With stable demand, 
+we would expect prices to rise for electricity. The question is 
+by how much. And, we already know the answer to that as 
+well: It depends on the elasticity of supply and demand!
+Fortunately, our researchers were able to use excellent 
+data from Spain to estimate quite precisely the marginal costs 
+for the electricity market. They also know a good deal about 
+the structure of the Spanish market, so that the firm interac-
+tions in this oligopoly market could also be modeled well. 
+In this market, Fabra and Mar found almost a complete pass 
+through: for a one Euro cost increase, electricity prices rose 
+by 0.86 Euros. This is a high pass through and likely comes 
+from two features of this market: quite inelastic aggregate 
+demand for electricity and the fact that all firms faced similar 
+cost increases, so that the firms had little incentive to com-
+pete by altering markups.
+Thinking PrACTiCAlly
+1. What do you think would have happened to pass 
+through if the largest of the electricity providers had 
+been heavily invested in solar power, which does not 
+produce carbon?
+Based on Natalia Fabra and Mar Reguant, “Pass-Through of Emissions 
+Costs in Electricity Markets,” American Economic Review, September, 2014, 
+2872–2899.
+374 part III Market Imperfections and the Role of Government
+The Characteristics of Public Goods
+A good is nonrival in consumption when A’s consumption of it does not interfere with B’s con-
+sumption of it. This means that the benefits of the goods are collective; they accrue to everyone. 
+National defense, for instance, benefits us all. The fact that I am protected in no way detracts 
+from the fact that you are protected; every citizen is protected just as much as every other citi-
+zen. If the air is cleaned up, my breathing that air does not interfere with your breathing it, and 
+(under ordinary circumstances) that air is not used up as more people breathe it. Private goods, 
+in contrast, are rival in consumption. If I eat a hamburger, you cannot eat it too.
+Goods can sometimes generate collective benefits and still be rival in consumption. This 
+happens when crowding occurs. A park or a pool can accommodate many people at the same 
+time, generating collective benefits for everyone. However, when too many people crowd in on 
+a hot day, they begin to interfere with each other’s enjoyment.
+Public goods are also nonexcludable. Once the good is produced, people cannot be excluded 
+for any reason from enjoying its benefits. Once a national defense system is established, it protects 
+everyone.
+Before we go on, it is important to note that goods are either public or private by virtue of 
+their characteristics (nonrival and nonexcludable) and not by virtue of whether they are pro-
+duced by the public sector. If the government decided to make it a law that hamburgers were 
+an entitlement (that is, all people could have all the hamburgers they wanted at government 
+expense), that decision would not make hamburgers into public goods. It is an example of the 
+government’s providing a private good free of charge to all. The government’s decision not to 
+exercise the power to exclude doesn’t change the nature of a hamburger.
+The real problem with public goods is that private producers may simply not have any 
+incentive to produce them or to produce the right amount. For a private profit-making firm 
+to produce a good and make a profit, it must be able to withhold that good from those who do 
+not pay. McDonald’s can make money selling chicken sandwiches only because customers do 
+not get the chicken sandwich unless they pay for it first. If payment were optional, McDonald’s 
+would not be in business for long.
+Consider an entrepreneur who decides to offer better police protection to the city of 
+Metropolis. Careful (and we assume correct) market research reveals that the citizens of Metropolis 
+want high-quality protection and are willing to pay for it. Not everyone is willing to pay the same 
+amount. Some can afford more, others less. People also have different preferences and different 
+feelings about risk. Our entrepreneur hires a sales force and begins to sell his service. Soon he 
+encounters a problem. Because his company is private, payment is optional. He cannot force any-
+one to pay. Payment for a hamburger is voluntary too, but a hamburger can be withheld for non-
+payment. The good that our new firm is selling, however, is by nature a public good.
+As a potential consumer of a public good, you face a dilemma. You want more police pro-
+tection, and let us say that you are even willing to pay $50 a month for it. But nothing is contin-
+gent on your payment. First, if the good is produced, the crime rate falls and all residents benefit. 
+You get that benefit whether or not you pay for it. You get a free ride. That is why this dilemma 
+is called the free-rider problem. Second, your payment is small relative to the amount that must 
+be collected to provide the service. Thus, the amount of police protection actually produced 
+will not be significantly affected by how much you contribute or whether you contribute at all. 
+This is the drop-in-the-bucket problem. Consumers acting in their own self-interest have no 
+incentive to contribute voluntarily to the production of public goods. Some will feel a moral 
+responsibility or social pressure to contribute, and those people indeed may do so. Nevertheless, 
+the economic incentive is missing, and most people do not find room in their budgets for many 
+voluntary payments. The public goods problem can also be thought of as a large-number, 
+ prisoners’ dilemma game theory problem. (For a full discussion, see Chapter 14.)
+Public Provision of Public Goods
+All societies, past and present, have had to face the problem of providing public goods. When 
+members of society get together to form a government, they do so to provide themselves with 
+goods and services that will not be provided if they act separately. Like any other good or ser-
+vice, a body of laws (or system of justice) is produced with labor, capital, and other inputs. Law 
+nonrival in consumption A 
+characteristic of public goods: 
+One person’s enjoyment of the 
+benefits of a public good does 
+not interfere with another’s 
+consumption of it.
+nonexcludable A character-
+istic of public goods: Once a 
+good is produced, no one can 
+be excluded from enjoying its 
+benefits.
+free-rider problem A prob-
+lem intrinsic to public goods: 
+Because people can enjoy the 
+benefits of public goods whether 
+or not they pay for them, they 
+are usually unwilling to pay  
+for them.
+drop-in-the-bucket problem  
+A problem intrinsic to public 
+goods: The good or service 
+is usually so costly that its 
+ provision generally does not 
+depend on whether any single 
+person pays.
+Chapter 16  Externalities, Public Goods, and Common Resources 375 
+and the courts yield social benefits, and they must be set up and administered by some sort of 
+collective, cooperative effort.
+Notice that we are talking about public provision, not public production. Once the government 
+decides what service it wants to provide, it often contracts with the private sector to produce 
+the good. Much of the material for national defense is produced by private defense contractors. 
+Highways, government offices, data processing services, and so on, are usually produced by 
+private firms.
+One of the immediate problems of public provision is that it frequently leads to public dis-
+satisfaction. It is easy to be angry at government. Part, but certainly not all, of the reason for this 
+dissatisfaction lies in the nature of the goods that government provides. Firms that produce or sell 
+private goods post a price—we can choose to buy any quantity we want, or we can walk away with 
+nothing. It makes no sense to get angry at a shoe store because no one can force you to shop there.
+You cannot shop for collectively beneficial public goods. When it comes to national 
+defense, the government must choose one and only one kind and quantity of (collective) output 
+to produce. Because none of us can choose how much should be spent or what it should be 
+spent on, most of us are dissatisfied. Even if the government does its job with reasonable effi-
+ciency, at any given time, about half of us think we have too much national defense and about 
+half of us think we have too little.
+Optimal Provision of Public Goods
+In the early 1950s, economist Paul Samuelson, building on the work of Richard Musgrave, dem-
+onstrated that there exists an optimal, or a most efficient, level of output for every public good. The 
+discussion of the Samuelson and Musgrave solution that follows leads us straight to the thorny 
+problem of how societies, as opposed to individuals, make choices.
+The Samuelson–Musgrave Theory 
+An efficient economy produces what people want. 
+Private producers, whether perfect competitors or monopolists, are constrained by the market 
+demand for their products. If they cannot sell their products for more than it costs to produce 
+them, they will be out of business. Because private goods permit exclusion, firms can withhold 
+their products until households pay. Buying a product at a posted price reveals that it is “worth” 
+at least that amount to you and to everyone who buys it.
+Market demand for a private good is the sum of the quantities that each household decides 
+to buy (as measured on the horizontal axis) at each price. The diagrams in Figure 16.4 review 
+the derivation of a market demand curve. Assume that society consists of two people, A and B. 
+At a price of $1, A demands 9 units of the private good and B demands 13. Market demand at a 
+A
+B
+The market (A + B)
+3
+1
+0
+11
+22
+13
+9
+3
+1
+0
+Units of output
+Units of output
+Units of output
+9
+2
+3
+1
+0
+Price per unit ($)
+DA
+DB
+DA + B
+▸
+▴FiguRe 16.4 With Private goods, Consumers Decide What Quantity to Buy; 
+Market Demand is the Sum of Those Quantities at each Price
+At a price of $3, A buys 2 units and B buys 9 for a total of 11. At a price of $1, A buys 9 units and B buys 13 
+for a total of 22. We all buy the quantity of each private good that we want. Market demand is the horizontal 
+sum of all individual demand curves.
+376 part III Market Imperfections and the Role of Government
+price of $1 is 22 units. If price were to rise to $3, A’s quantity demanded would drop to 2 units 
+and B’s would drop to 9 units; market demand at a price of $3 is 2 + 9 = 11 units. The point is 
+that the price mechanism forces people to reveal what they want, and it forces firms to produce 
+only what people are willing to pay for, but it works this way only because exclusion is possible.
+People’s preferences and demands for public goods are conceptually no different from 
+their preferences and demands for private goods. You may want fire protection and be willing 
+to pay for it in the same way you want to listen to music. To demonstrate that an efficient level 
+of production exists, Samuelson assumes that we know people’s preferences. Figure 16.5 shows 
+demand curves for buyers A and B. If the public good were available in the private market at a 
+price of $6, A would buy X1 units. Put another way, A is willing to pay $6 per unit to obtain X1 
+units of the public good. B is willing to pay only $3 per unit to obtain X1 units of the public good.
+Remember, public goods are nonrival or nonexcludable—benefits accrue simultaneously to 
+everyone. One and only one quantity can be produced, and that is the amount that everyone gets. 
+When X1 units are produced, A gets X1 and B gets X1. When X2 units are produced, A gets X2 and 
+B gets X2.
+To arrive at market demand for public goods, we do not sum quantities. Instead, we add the 
+amounts that individual households are willing to pay for each potential level of output. In Figure 16.5, A is 
+A
+B
+The market (A + B)
+Price per unit ($)
+6
+2
+0
+X1
+X2
+DA
+Price per unit ($)
+3
+2
+X1
+X2
+Price per unit ($)
+9
+4
+X1
+X2
+0
+Units of output
+DB
+DA + B
+▸
+▸FiguRe 16.5 With 
+Public goods, There 
+is Only One Level of 
+Output and Consumers 
+Are Willing to Pay 
+Different Amounts for 
+each Potential Level
+A is willing to pay $6 per unit 
+for X1 units of the public good. 
+B is willing to pay only $3 for X1 
+units. Society—in this case A and 
+B—is willing to pay a total of $9 
+for X1 units of the good. Because 
+only one level of output can be 
+chosen for a public good, we 
+must add A’s contribution to B’s 
+to determine market demand. 
+This means adding demand 
+curves vertically.
+Chapter 16  Externalities, Public Goods, and Common Resources 377 
+willing to pay $6 per unit for X1 units and B is willing to pay $3 per unit for X1 units. Thus, if 
+society consists only of A and B, society is willing to pay $9 per unit for X1 units of public good 
+X. For X2 units of output, society is willing to pay a total of $4 per unit.
+For private goods, market demand is the horizontal sum of individual demand curves; we 
+add the different quantities that households consume (as measured on the horizontal axis). For 
+public goods, market demand is the vertical sum of individual demand curves—we add the dif-
+ferent amounts that households are willing to pay to obtain each level of output (as measured on 
+the vertical axis).
+Samuelson argued that once we know how much society is willing to pay for a public good, 
+we need only compare that amount to the cost of its production. Figure 16.6 reproduces A’s 
+and B’s demand curves and the total demand curve for the public good. As long as society (in 
+this case, A and B) is willing to pay more than the marginal cost of production, the good should 
+be produced. If A is willing to pay $6 per unit of public good and B is willing to pay $3 per unit, 
+society is willing to pay $9.
+Given the MC curve as drawn in Figure 16.6, the efficient level of output is X1 units. If at that 
+level A is charged a fee of $6 per unit of X produced and B is charged a fee of $3 per unit of X, 
+everyone should be happy. Resources are being drawn from the production of other goods and 
+services only to the extent that people want the public good and are willing to pay for it. We have 
+arrived at the optimal level of provision for public goods. At the optimal level, society’s total 
+willingness to pay per unit is equal to the marginal cost of producing the good.
+The Problems of Optimal Provision 
+One major problem exists, however. To pro-
+duce the optimal amount of each public good, the government must know something that 
+it  cannot possibly know—everyone’s preferences. Because exclusion is impossible, nothing 
+forces households to reveal their preferences. Furthermore, if we ask households directly 
+about their willingness to pay, we run up against the same problem encountered by our pro-
+tection-services salesperson mentioned previously. If your actual payment depends on your 
+answer, you have an incentive to hide your true feelings. Knowing that you cannot be excluded 
+from enjoying the benefits of the good and that your payment is not likely to have an appre-
+ciable influence on the level of output finally produced, what incentive do you have to tell the 
+truth—or to contribute?
+How does society decide which public goods to provide? We assume that members of 
+society want certain public goods. Private producers in the market cannot make a profit by 
+producing these goods, and the government cannot obtain enough information to measure 
+society’s demands accurately. No two societies have dealt with this dilemma in the same way. 
+In some countries, dictators simply decide for the people. In other countries, representative 
+political bodies speak for the people’s preferences. In still other countries, people vote directly. 
+None of these solutions works perfectly.
+optimal level of provision for 
+public goods The level at 
+which society’s total willingness 
+to pay per unit is equal to the 
+marginal cost of producing the 
+good.
+MC
+X1
+0
+DA
+DB
+DA + B
+PA + B = 9
+PA = 6
+PB = 3
+Units of output
+Price per unit ($)
+▸
+◂FiguRe 16.6 
+ 
+Optimal Production of  
+a Public good
+Optimal production of a public 
+good means producing as long as 
+society’s total willingness to pay 
+per unit (DA + B) is greater than 
+the marginal cost of  producing 
+the good.
+378 part III Market Imperfections and the Role of Government
+Local Provision of Public Goods: Tiebout Hypothesis
+In 1956, economist Charles Tiebout made this point: To the extent that local governments 
+are responsible for providing public goods, an efficient market-choice mechanism may exist. 
+Consider a set of towns that are identical except for police protection. Towns that choose to spend 
+a great deal of money on police are likely to have a lower crime rate. A lower crime rate will attract 
+households who are risk-averse and who are willing to pay higher taxes for a lower risk of being 
+a crime victim. Those who are willing to bear greater risk or have fewer resources may choose to 
+live in the low-tax/high-crime towns. Also, if some town is efficient at crime prevention, it will 
+attract residents—given that each town has limited space, property values will be bid up in this 
+town. The higher home price in this town is the “price” of the lower crime rate.
+According to the Tiebout hypothesis, an efficient mix of public goods is produced when 
+local prices (in the form of taxes or higher housing costs) come to reflect consumer preferences 
+just as they do in the market for private goods. What is different in the Tiebout world is that 
+ people exercise consumer sovereignty not by “buying” different combinations of goods in a 
+market, but by “voting with their feet” (choosing among bundles of public goods and tax rates 
+produced by different towns and participating in local government).
+Common Resources
+In the seventeenth century and previously in England, many villages had large common green 
+areas in which villagers grazed their sheep. The areas were unowned, but in some sense held in 
+common, and indeed these areas were called commons. Some of you may have learned about 
+the enclosure movement in which many of these common areas were privatized and common 
+grazing eliminated.
+In most parts of the world, the open sea, beyond territorial limits around individual coun-
+tries, is currently common area, available and open to all to fish, subject to a handful of interna-
+tional fishing rules. Like the original grazing grounds, the sea has no owner. Economists refer 
+to areas like the commons and fishing grounds as common resources. Common resources, like 
+public goods, are nonexcludeable. One cannot keep someone from setting out a fishing line 
+in open sea, nor from sending their sheep to graze in the common pasture. But, in contrast to 
+public goods, the consumption of a common resource by one person has an effect on the avail-
+ability of that resource to others. If I catch too many fish, the population will suffer and there 
+will be none left for future generations. If I breed too many sheep, the grass will not regenerate 
+and your sheep will starve.
+Economists have worried for a long time about the management of commons. Of central 
+concern is overuse. Suppose I own a lake stocked with fish. If I overfish it and there are not 
+enough fish to reproduce, I suffer the consequences. My children and I lose the pleasure of fish-
+ing and my lake loses value. To a large extent, I have the right incentives to protect my fish stock. 
+If I overfish, I alone bear the consequences. But if we all own the lake in common, as a commu-
+nity, then when I fish too much, we share the costs, while I get all the benefits of catching more 
+fish. It should not surprise you to learn that, under these conditions, overuse is common.
+When is overuse most problematic? In agrarian England, there is some evidence of over-
+grazing of the commons, especially in larger villages. But not all commons are overused. In 
+some communities, both grazing and fishing are controlled by custom and mutual forbear-
+ance. If there is low productivity in extraction methods, overuse is also less of a problem. But 
+where a common resource is shared by many, and technology is well developed, overuse is 
+more likely. In modern times, overfishing of the sea is a problem that worries many policy 
+makers.
+As with externalities, there are several policy instruments we can use to control overuse 
+of a commons. Standards are common; there are in most areas times of the year one cannot 
+fish and limits on the size of fish that can be landed. Taxes are also common, typically levied 
+by limiting and charging for fishing licenses. For some commons problems, a solution is 
+found by privatizing the resource, as England did in the enclosure movement. If a common 
+area is turned into a private resource, the owner will have incentives for using that resource 
+efficiently.
+Tiebout hypothesis An 
+ efficient mix of public goods 
+is produced when local land/
+housing prices and taxes come 
+to reflect consumer preferences 
+just as they do in the market 
+for private goods.
+16.3 Learning Objective
+Understand why the market 
+undersupplies common 
+resources.
+common resource A resource 
+that is nonexcludeable but rival 
+in consumption.
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+Chapter 16  Externalities, Public Goods, and Common Resources 379 
+S u m m a R y 
+16.1 ExTERnALITIES And EnvIROnMEnTAL 
+ECOnOMICS p. 361
+1. Often when we engage in transactions or make economic 
+decisions, second or third parties suffer consequences that 
+decision makers have no incentive to consider. These are 
+called externalities. A classic example of an external cost is 
+pollution.
+2. When external costs are not considered in economic 
+ decisions, we may engage in activities or produce products 
+that are not “worth it.” When external benefits are not 
+considered, we may fail to do things that are indeed “worth 
+it.” The result is an inefficient allocation of resources.
+3. A number of alternative mechanisms have been used to 
+ control externalities: (1) private bargaining and negotitia-
+tions, (2) environmental standards, (3) government-imposed 
+taxes and subsidies, and (4) sale or auctioning of rights to 
+impose externalities.
+16.2 PuBLIC (SOCIAL) GOOdS p. 373
+4. In an unfettered market, certain goods and services that 
+ people want will not be produced in adequate amounts. 
+These public goods have characteristics that make it  difficult 
+or impossible for the private sector to produce them 
+profitably.
+5. Public goods are nonrival in consumption (their benefits fall col-
+lectively on members of society or on groups of members), and 
+their benefits are nonexcludable (it is generally impossible to ex-
+clude people who have not paid from enjoying the benefits of 
+public goods). An example of a public good is national defense.
+6. One of the problems of public provision is that it leads to 
+public dissatisfaction. We can choose any quantity of private 
+goods that we want, or we can walk away without buying 
+any. When it comes to public goods such as national de-
+fense, the government must choose one and only one kind 
+and quantity of (collective) output to produce.
+7. Theoretically, there exists an optimal level of provision for each 
+public good. At this level, society’s willingness to pay per 
+unit equals the marginal cost of producing the good. To dis-
+cover such a level, we would need to know the preferences 
+of each individual citizen.
+8. According to the Tiebout hypothesis, an efficient mix of public 
+goods is produced when local land/housing prices and taxes 
+come to reflect consumer preferences just as they do in the 
+market for private goods.
+16.3 COMMOn RESOuRCES p. 378
+9. Common resources are nonexcludeable but rival in consump-
+tion. A central problem with common resources is overuse.
+R E v i E w  T E R m S  a n d  C o n C E P T S 
+Coase theorem, p. 366
+common resource, p. 378
+drop-in-the-bucket problem, p. 374
+externality, p. 361
+free-rider problem, p. 374
+injunction, p. 367
+liability rules, p. 368
+marginal social cost (MSC), p. 361
+marginal social benefit of pollution, p. 364
+nonexcludable, p. 374
+nonrival in consumption, p. 374
+optimal level of provision for public  
+goods, p. 377
+public goods (social or collective  
+goods), p. 373
+Tiebout hypothesis, p. 378
+P R o b l E m S
+Similar problems are available on MyEconLab .
+16.1 ExTERnALITIES And EnvIROnMEnTAL 
+ECOnOMICS
+Learning Objective: Understand the market failure associated 
+with externalities and the possible solutions to this set of issues.
+ 1.1 In October, 2015, a 5p carrier plastic bag charge went into 
+effect in England for supermarkets and major retailers; sim-
+ilar charges were already in effect in Wales, Scotland, and 
+Ireland that had shown a steep drop in plastic bag usage.
+a. Explain the rationale behind this “Pigovian” tax.
+b. Using a graph explain its expected effects, given the 
+prior observations in Wales and Ireland. What might 
+these imply about the demand and supply elasticities for 
+plastic bags?
+c. What might be some unwelcome consequences as a result 
+of this charge?
+ 1.2 [related to the Economics in Practice on p. 371] The 
+kingdom of Freedonia is divided into two countries: East 
+Babalu and West Babalu. In an effort to reduce carbon di-
+oxide emissions, the kingdom has enacted a carbon tax on 
+all electricity providers. In East Babalu, a gloomy country 
+with cloudy skies and rain every day of the year, 90 percent 
+of households rely on electricity to power their homes. 
+In West Babalu, a tropical paradise where the sun shines 
+bright every day, only 10 percent of households get power 
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+380 part III Market Imperfections and the Role of Government
+from electricity providers, with the rest using solar panels 
+to directly power their homes. Use supply and demand 
+curves to show the effect of this carbon tax on the resi-
+dents of both East Babalu and West Babalu, and explain 
+which country’s residents will bear a greater burden of the 
+tax. Assume that all electricity providers in the kingdom of 
+Freedonia will face similar cost increases as a result of the 
+carbon tax.
+ 1.3 In his 2009 paper entitled, The Economic Effects of Climate 
+Change, Richard Tol wrote that “Climate change is the mother 
+of all externalities: larger, more complex, and more uncertain than 
+any other environmental problem”.
+a. Using the concept of externalities, analyse the reason 
+for that scope and complexity when climate change is 
+concerned.
+b. What are the developed world’s obligations to the 
+ developing countries?  Should the developed  countries 
+risk their own sense of well-being to meet these 
+ obligations? Supportyour answer.
+c. Search the web to find the major issues involved in 
+ climate change.
+ 1.4 A paper factory dumps polluting chemicals into the 
+Snake River. Thousands of citizens live along the river, 
+and they bring suit, claiming damages. You are asked by 
+the judge to testify at the trial as an impartial expert. The 
+court is considering four possible solutions, and you are 
+asked to comment on the potential efficiency and equity 
+of each. Your testimony should be brief.
+a. Deny the merits of the case and affirm the polluter’s right 
+to dump. The parties will achieve the optimal solution 
+without government.
+b. Find in favor of the plaintiff. The polluters will be held 
+ liable for damages and must fully compensate citizens for 
+all past and future damages imposed.
+c. Order an immediate end to the dumping, with no 
+ damages awarded.
+d. Refer the matter to the Environmental Protection Agency, 
+which will impose a tax on the factory equal to the 
+ marginal damage costs. Proceeds will not be paid to  
+the damaged parties.
+ 1.5 [related to the Economics in Practice on p. 371] 
+Microsoft and Disney are just two of a growing number 
+of organizations using internal carbon taxes in an at-
+tempt to reduce carbon emissions, and the carbon prices 
+being used to set the internal taxes vary widely. (In 2015, 
+Microsoft priced carbon at $6-$7 per metric ton, and 
+Disney used a price of $10 - $20 per metric ton.) Do some 
+research to find three other companies or organizations 
+that have also implemented an internal carbon tax. What 
+are these companies or organizations doing with the 
+revenue from these internal taxes? What price has each 
+assigned to carbon, and how do the prices compare to 
+the social cost of carbon as set by the Environmental 
+Protection Agency?
+ 1.6 The Coase theorem implies that we never need to worry 
+about regulating externalities because the private indi-
+viduals involved will reach the efficient outcome through 
+negotiations. Is that statement true or false? Justify your 
+answer and use examples.
+ 1.7 [related to the Economics in Practice on p. 363] The 
+Economics in Practice suggests that economists often distin-
+guish between short-run and long-run effects of policies 
+or actions when adjusting to environmental disasters. 
+Research a recent environmental disaster (such as the New 
+England blizzard in early 2015, Hurricane Sandy in 2012, 
+the 2015 earthquake in Nepal, or the BP oil spill in 2010.) 
+Explain the major environmental impact the  disaster had 
+on the affected area, how long you think it will take for the 
+area to recover from the disaster, and why you believe the 
+adjustment to the disaster will take either a relatively short 
+or long time.
+ 1.8 The following diagram represents the profit-maximizing 
+price and output for a firm in a perfectly competi-
+tive  industry with no externalities. Use this diagram to 
+ explain what will happen if the production of the product 
+imposes external costs on society and these costs are not 
+factored into production decisions.
+ 1.9 Refer to the previous question but assume that the 
+ government has imposed a per-unit tax on this product 
+that is exactly equal to the marginal damage costs. Use 
+the diagram to show what will happen to production, 
+output, and price.
+ 1.10 Two firms, Vesuvius and Etna, are each emitting 9 units of 
+pollution, and the government wants to reduce the total 
+level of pollution from the current level of 18 to 6. To do 
+this, the government caps each firm’s allowed  pollution 
+level at 3. Each firm must now pay to cut  pollution levels 
+by 6 units. A cap-and-trade policy gives each of these 
+firms three permits and allows them to trade permits if 
+they choose. Based on the table below which represents 
+the situation faced by these two firms, what will the firms 
+want to do?
+vesuvius
+Etna
+Pollution 
+Reduction, 
+units
+MC of 
+Reducing 
+Pollution
+TC of 
+Reducing 
+Pollution
+Pollution 
+Reduction, 
+units
+MC of 
+Reducing 
+Pollution
+TC of 
+Reducing 
+Pollution
+1
+$ 5
+$  5
+1
+$10
+$ 10
+2
+  6
+  11
+2
+ 13
+  23
+3
+  8
+  19
+3
+ 17
+  40
+4
+ 11
+  30
+4
+ 22
+  62
+5
+ 15
+  45
+5
+ 28
+  90
+6
+ 22
+  67
+6
+ 37
+ 127
+7
+ 31
+  98
+7
+ 48
+ 175
+8
+ 42
+ 140
+8
+ 60
+ 235
+9
+ 57
+ 197
+9
+ 75
+ 310
+q*
+Price per unit ($)
+0
+P*
+Units of output
+MC
+Chapter 16  Externalities, Public Goods, and Common Resources 381 
+MyEconLab  Visit www.myeconlab.com to complete these exercises online and get instant  
+feedback. Exercises that update with real-time data are marked with art 
+.
+ 1.11 Velma, a book editor for a local publishing company,  
+and Daphne, an opera singer in a local opera company, 
+share a townhouse in Miami. Velma enjoys reading and 
+editing books at home, and Daphne enjoys rehearsing 
+her arias at home. Daphne is willing to pay Velma $200 
+per week if she will find another place to read and edit 
+books. Velma offers Daphne $240 per week to find 
+someplace else to rehearse. If Daphne has the right to 
+rehearse in her home, explain why the townhouse will 
+be free of aria rehearsals. If Velma has the right to read 
+and edit books in her home, explain why the townhouse 
+will still be free of aria rehearsals.
+16.2 PuBLIC (SOCIAL) GOOdS
+Learning Objective: Discuss the characteristics and provision 
+of public goods.
+ 2.1 The existence of “public goods” is an example of potential 
+market failure and suggests that a government or public 
+sector can improve the outcome of completely free mar-
+kets. Write a brief summary of the arguments for govern-
+ment provision of public goods. (Make sure you consider 
+the discussion of a prisoners’ dilemma in Chapter 14.) 
+The following three arguments suggest that government 
+may not improve the outcome as much as we might 
+anticipate.
+a. Public goods theory: Because public goods are collective, the 
+government is constrained to pick a single level of output 
+for all of us. National defense is an example. The govern-
+ment must pick one level of defense expenditure. Some 
+will think it is too much, some will think it is too little, and 
+no one is happy.
+b. Problems of social choice: It is impossible to choose collec-
+tively in a rational way that satisfies voters/consumers of 
+public goods.
+c. Public choice and public officials: Once elected or appointed, 
+public officials tend to act in accordance with their own 
+preferences and not out of concern for the public.
+Which of the three arguments do you find to be most 
+persuasive?
+ 2.2 For the following goods state whether each falls in 
+the category of private goods, mixed goods or public 
+goods by employing the criteria of exclusivity and 
+ rivalry in consumption. Explain your answers.
+a. Cable TV
+b. A piece of cheesecake
+c. Grades in a class
+d. Street lamps in Main Street, USA
+ 2.3 Explain why you agree or disagree with each of the 
+ following statements:
+a. The government should be involved in providing health 
+care for all citizens because health care is a “public 
+good.”
+b. From the standpoint of economic efficiency, an unregu-
+lated market economy tends to underproduce public 
+goods.
+ 2.4 Bonnie and Clyde share a street on their way to their 
+homes and wish to illuminate it. Bonnie’s demand 
+for street lamps is given by P = $4, while Clyde’s 
+ demand for streetlamps is given by P = $6. Street lamp 
+ production involves marginal costs given by MC = 5Q, 
+where Q = number of street lamps. 
+a. What is the optimal level of street lamps installed?
+b. How much should Bonnie and Clyde each be charged?
+c. Graph (a)-(b) in a diagram.
+d. How would your answers to the above change if MC = $3? 
+If MC = $12?
+10
+25
+DB
+DE
+50
+50
+Price ($)
+Price ($)
+Bert’s Demand
+A
+= 50 – 5 PA
+Ernie’s Demand
+Q E
+Q B
+A = 50 – 2 PA
+0
+0
+▸
+▴FiguRe 1 
+ 2.5 Government involvement in general scientific research 
+has been justified on the grounds that advances in knowl-
+edge are public goods—once produced, information can 
+be shared at virtually no cost. A new production technol-
+ogy in an industry could be made available to all firms, 
+reducing costs of production, driving down price, and 
+benefiting the public. The patent system, however, allows 
+private producers of “new knowledge” to exclude others 
+from enjoying the benefits of that knowledge. Inventors 
+would have little incentive to produce new knowledge if 
+there was no possibility of profiting from their inventions. 
+If one company holds exclusive rights to an advanced 
+production process, it produces at lower cost but can use 
+382 part III Market Imperfections and the Role of Government
+the exclusion to acquire monopoly power and charge the 
+monopoly price.
+a. On balance, is the patent system a good or bad thing? 
+Explain.
+b. Is government involvement in scientific research a good 
+idea? Discuss.
+ 2.6 The recent economic growth resulting from govern-
+ment policies of newly industrializing nations such as 
+India and China has increased environmental strains 
+on global air and water systems. The negative exter-
+nalities associated with this economic growth demon-
+strate that the best economic system is one in which 
+all economic decisions are made by individual house-
+holds and firms without any government involvement. 
+Comment briefly.
+16.3 COMMOn RESOuRCES
+Learning Objective: Understand why the market undersupplies 
+common resources.
+ 3.1 Iceland faced a problem of overfishing and witnessed 
+their cod and herring populations nearly disappearing 
+in the 1960s and 1970s. The overuse of a common re-
+source like fish is often referred to as “The Tragedy of the 
+Commons”. 
+a. Explain how fisheries exemplify the overuse of a common 
+resource.
+b. In 1983, after a failed system of limiting the number 
+of boats that could fish in given days, the government 
+addressed over-fishing by introducing a system of 
+“Individual Tradable Quotas (Permits)”, set by a  scientific 
+committee and allocated to each vessel. As a result, 
+30 years later, Iceland managed to have a healthy, growing 
+stock of fish. Explain how this system is expected to lead 
+to such an efficient outcome.
+383 
+17 
+In previous chapters, we as-
+sumed that consumers and 
+firms made choices based on 
+perfect information about the 
+qualities of the goods they were 
+choosing among. Under these 
+circumstances, we could inter-
+pret their choices as revealing 
+to us their true preferences. 
+Similarly, when firms choose 
+how many workers to hire or 
+how much capital to use, we 
+ assumed that they know the 
+productivity of those work-
+ers or that capital. Of course, 
+in 
+many 
+settings, 
+perfect 
+ information seems to be a rea-
+sonable assumption to make. 
+Every day you may choose 
+whether to have cereal or eggs 
+for breakfast. Every evening 
+you may decide what to have 
+for  dinner and whether to go 
+to the movies or stay home and 
+study. Even for these choices, 
+a little uncertainty can creep 
+in; perhaps a new cereal is on 
+the  market or a new movie 
+has been  released. But assum-
+ing that these choices are made 
+with perfect  information does 
+not seem too far a stretch.
+In some markets, however, consumers and firms clearly make decisions with quite limited 
+information. When you decide to insure your car against theft, you don’t know whether the 
+car will be stolen. When you decide to buy a used car, it is not easy to figure out how good that 
+car really is. If you are choosing between a sales job that pays a flat salary and one that pays a 
+commission for every sale you make, you have to predict how good your sales skills will be to 
+ determine which is the better offer. In many markets, including some important markets, con-
+sumers as well as firms make decisions while having only some of the information they need. In 
+this chapter, we will explore the economics of these  markets. As we go through this chapter, you 
+will see how both the recent healthcare reform  discussion and the 2008–2009 banking crisis can 
+be understood using economic tools.
+Uncertainty and 
+Asymmetric 
+Information
+Chapter Outline 
+and learning 
+ObjeCtives 
+17.1  Decision 
+Making Under 
+Uncertainty: The 
+Tools p. 384
+Define the concepts of ex-
+pected value and expected 
+utility and how these mea-
+sures relate to risk attitudes.
+17.2  Asymmetric 
+Information p. 388
+Describe the characteristics, 
+implications, and solutions 
+for asymmetric situations.
+17.3  Incentives p. 393
+Discuss the benefits of 
+ effective incentive design.
+384 Part III Market Imperfections and the Role of Government
+Decision Making Under Uncertainty:  
+The Tools
+In Chapter 6, we laid out the fundamental principles of consumer choice assuming perfect 
+information. To adapt this model  to cases in which there is uncertainty, we need to develop a 
+few more tools.
+Expected Value
+Suppose I offer you the following deal: You flip a coin 100 times. Every time the coin is a head, 
+you pay me $1. Whenever the coin lands on tails, I pay you a dollar. We call the amount that one 
+player—in this case, me—receives in each of the situations the payoff. Here my payoff is +$1 for 
+heads and -$1 for tails. In the case of a coin toss, the probability of heads is ½, as is the probabil-
+ity of tails. This tells us that the financial value of this deal to me, or its expected value, is $0. Half 
+the time I win a dollar, and half the time I lose a dollar. Formally, we define the expected value  of 
+an uncertain situation or deal as the sum of the payoffs associated with each possible outcome 
+multiplied by the probability that outcome will occur. Again, in the case of a coin toss with the 
+payoffs described, the expected value (EV) is
+EV = 1/2($1) + 1/2(-$1) = 0
+The coin toss is an easy example, in part because there are only two outcomes. But the 
+definition of expected value holds for any deal in which I can describe both the payoffs and 
+the probabilities of all possible outcomes. If I play a game in which I receive $1 every time I roll a 
+die and end up with an even number and I pay $1 every time the die comes up odd, this deal also 
+has an expected value of $0. Half the time (3 of 6 possible outcomes) I receive $1, and half the 
+time (3 of 6 possible outcomes) I pay $1.
+The two games just described are known as fair games or fair bets. A fair game has an 
+expected value of $0. The expected financial gains from playing a fair game are equal to the 
+financial costs of that game. In the two fair games we described, the stakes are quite low. 
+Suppose instead of $1 payoffs, we made the payoffs $1,000 for heads and -$1,000 for tails. 
+As you can see, the expected value of that deal is $0 just as it was in the $1 game. But we have 
+learned in watching people’s behavior that although some people might be willing to play a fair 
+game with $1 payoffs, few people will play $1,000-payoff fair games. What is it about people 
+that makes them change their minds about taking a fair bet when the stakes get high? We will 
+explore this question next using some of the tools already covered in Chapter 6.
+Expected Utility
+Recall from Chapter 6 that consumers make choices to maximize utility. The idea of maximiz-
+ing utility will also help us understand the way in which those consumers make choices in risky 
+situations.
+Chapter 6 introduced you to the idea of diminishing marginal utility—the more of any 
+one good consumed in a period, the less incremental satisfaction (utility) will be generated 
+by each additional (marginal) unit of that good. Review Figure 6.3 on p. 153 and notice the 
+form the utility curve takes when we have diminishing marginal utility for a good. The curve 
+flattens as we increase units of the good consumed. Now think about what happens to your 
+utility level when we increase not the number of units of a particular good, but your overall 
+income. Figure 17.1 graphs the total utility of a typical consumer, Jacob, as a function of his 
+income. On the y-axis, we have assigned units of total utility, while on the x-axis we have 
+annual income. The shape of the utility curve tells us that Jacob has diminishing marginal 
+utility from income. The first $20,000 of income is important to Jacob, moving him from 
+a total utility level of 0 to 10; this first $20,000 might allow him to buy food and shelter, for 
+example. Moving from $20,000 to $40,000 brings an increase in well-being from 10 to 15. 
+Notice that the second $20,000 adds 5 to the total utility level, whereas the first $20,000 
+17.1 Learning Objective
+Define the concepts of 
+expected value and expected 
+utility and how these measures 
+relate to risk attitudes.
+payoff The amount that 
+comes from a possible 
+ outcome or result.
+expected value The sum of 
+the payoffs associated with 
+each possible outcome of 
+a situation weighted by its 
+ probability of occurring.
+fair game or fair bet A game 
+whose expected value is zero.
+diminishing marginal utility  
+The more of any one good 
+ consumed in a given period, 
+the less incremental satisfac-
+tion is generated by consuming 
+a marginal or incremental unit 
+of the same good.
+ChaPter 17  Uncertainty and Asymmetric Information 385 
+adds 10. And the pattern continues as we add $20,000 increments to income. Each dollar 
+increases total utility, but at a decreasing rate. The result is a curve as shown in Figure 17.1 
+that flattens as we move from left to right, with smaller gains in total utility from equal gains 
+in income.
+You should see that the assumption of diminishing marginal utility of income reflects the 
+diminishing marginal utility of goods that we talked about in Chapter 6. Income counts for less 
+the more we have because the value of what we can buy with that money on the margin falls as 
+we buy more.
+As you think about Figure 17.1, remember that we are describing the relationship between 
+utility and income for a given individual. The figure does not tell us that rich people get less util-
+ity from an incremental dollar than do poor people. Indeed, it might be argued that one rea-
+son some rich people work so hard to make money is that they get a great deal of utility from 
+increases in income relative to the average person. But rich or poor, Figure 17.1 tells us that as 
+your income increases, the marginal utility of another dollar falls.
+How does Figure 17.1 help us explain people’s unwillingness to play fair games with larger 
+stakes? Suppose Jacob, the individual whose preferences are shown in Figure 17.1, is currently 
+earning $40,000. We see that $40,000 corresponds to a total utility level of 15. Now a firm offers 
+Jacob a different type of salary structure. Rather than earning $40,000 for sure, at the end of the 
+year, a manager will toss a coin. If it is heads, Jacob will earn $60,000; but if the coin turns up 
+tails, his earnings will fall to $20,000. This is a high stakes game of the sort described previously. 
+Notice that the expected value of the two salaries is the same. With one, Jacob earns $40,000 
+with certainty. With the second, he earns $20,000 half the time and $60,000 half the time, for an 
+expected value of
+EV = 1/2 ($20,000) + 1/2 ($60,000) = $40,000
+From an expected value perspective, the two salary offers are identical. So if we simply 
+looked at the expected values, we might expect Jacob to be indifferent between the two wage 
+offers. But if you put yourself in Jacob’s shoes, probably you would not find the coin-tossing 
+salary to be as attractive as the fixed $40,000 wage. If we think back to the model introduced 
+in Chapter 6, we can see why. Consumers make choices not to maximize income per se but to 
+maximize their utility levels. Figure 17.1 tells us that although utility increases with income, the 
+relationship is not linear. So to decide what Jacob will do, we need to look at his utility under the 
+two contracts.
+What can we say about Jacob’s utility under the two salary contracts? With a fixed $40,000 
+salary, total utility is at a level of 15, as we saw previously. If his income falls to $20,000, that 
+utility level falls from 15 to 10, a substantial drop. With a possible earnings level of $60,000, 
+the total utility level goes up; but notice that it only increases from 15 to 18. The drop in 
+income causes a bigger loss in utility than comes from a gain in income. Of course, this results 
+from the diminishing marginal utility of income. In fact, we can define expected utility as the 
+sum of the utilities coming from all possible outcomes of a deal, weighted by the probability of 
+each occurring. You can see that the expected utility is like the expected value, but the payoffs 
+expected utility The sum of 
+the utilities coming from all 
+possible outcomes of a deal, 
+weighted by the probability of 
+each occurring.
+10
+0
+Income
+Income
+$20,000 $40,000 $60,000 $80,000
+15
+18
+19
+Utility
+◂
+◂Figure 17.1  The 
+relationship Between 
+utility and income
+The figure shows the way in 
+which utility increases with 
+income for a hypothetical 
+ person, Jacob. Notice that  utility 
+increases with income but at a 
+decreasing rate: the curve gets 
+flatter as income increases. 
+This curve shows diminishing 
+ marginal utility of income.
+386 Part III Market Imperfections and the Role of Government
+are in utility terms rather than in dollars. In the coin-toss salary offer, if you look again at 
+Figure 17.1, the expected utility (EU) is
+EU = 1/2 U($20,000) + 1/ 2 U(60,000), which reduces to
+EU = 1/2 (10) + 1/2 (18) = 14
+Because Jacob’s utility from a fixed salary of $40,000 is 15, he will not take the coin-toss sal-
+ary alternative.
+Of course, in practice, workers are not paid wages based on the toss of a coin. Nevertheless, 
+many wage contracts contain some uncertainty. Many of you have probably had jobs where 
+your wages were uncertain in ways you could not control. Understanding the difference 
+between expected value maximization and expected utility maximization helps us understand 
+these job contracts.
+In uncertain situations, consumers make choices to maximize their expected utility. 
+Looking at Figure 17.1, you should now see why people may take small fair bets but will avoid 
+fair games with high stakes. For small games, both alternatives lie within a small region of the 
+utility curve. The utility of gaining one more dollar or losing it is almost identical. When we 
+compare outcomes at different points on the utility curve, the differences in marginal utility 
+become more pronounced. This makes large fair bets quite unattractive. The prospect of losing 
+and moving down the marginal utility (MU) curve is much more troublesome to you than the 
+prospect of moving up the curve is pleasurable.
+Attitudes Toward Risk
+We have now seen that diminishing marginal utility of income means that the typical individual 
+will not play a large stakes fair game. Individuals, like Jacob, who prefer a certain payoff to an 
+uncertain payoff with an equal expected value are called risk-averse. Risk aversion thus comes 
+from the assumption of diminishing marginal utility of income and can be seen in the shape 
+of the utility curve. You are unwilling to take a risk because the costs of losing in terms of your 
+well-being or utility exceed the gains of possibly winning. People who are willing to take a fair 
+bet, one that has an expected value of zero, are known as risk-neutral. For these individuals, 
+the  marginal utility of income is constant so that the relationship between total utility and 
+income in a graph like Figure 17.1, for example, would be a straight, upward-sloping line. Again, 
+we have seen that some people will be risk-neutral when the stakes are low. Finally, some people, 
+in some circumstances, may actually prefer uncertain games to certain outcomes. Individuals 
+who pay to play a game with an expected value of zero or less are known as risk-loving. Since 
+most people are risk-averse in most situations, we will concentrate on this case.
+The fact that people are, in general, risk-averse is seen in many markets. Most people who 
+own houses buy fire insurance even when not required to do so. In general, a fire insurance pol-
+icy costs a homeowner more than it is worth in terms of expected value; this is how insurance 
+companies make money. People pay for this insurance because they are risk-averse: The possible 
+loss of their home is important relative to the value of the premiums they have to pay to protect 
+it. When people invest in a risky business, there has to be some chance that they will “make 
+it big” to induce them to put up their money. The riskier the business in the sense that it may 
+fail, the bigger the upside potential needs to be. This too is an indication of risk aversion. The 
+presence of risk and uncertainty do not by themselves pose a problem for the workings of the 
+market. The risk that your house might burn down does not prevent you from buying a house; 
+it simply encourages you, if you are risk-averse, to buy insurance. In fact, many markets are 
+designed to allow people to trade risk. Individuals who are risk-averse seek out other individuals 
+(or more commonly firms) who are willing to take on those risks for a price.
+What is the maximum price a risk-averse person will pay to avoid taking a risk? Figure 17.2 
+gives us another look at the same individual, Jacob, we examined in Figure 17.1. Suppose Jacob 
+is currently earning $40,000 but faces a 50 percent chance of suffering an unpreventable disabil-
+ity that will reduce his income level to $0. Thus, the expected value of Jacob’s income is
+EV = 1/2($40,000) + 1/2($0) = $20,000
+risk-averse Refers to a 
+ person’s preference of a certain 
+payoff over an uncertain one 
+with the same expected value.
+risk-neutral Refers to a 
+ person’s willingness to take a 
+bet with an expected value of 
+zero.
+risk-loving Refers to a per-
+son’s willingness to take bets 
+with negative expected values.
+ChaPter 17  Uncertainty and Asymmetric Information 387 
+Suppose further that there are many individuals just like Jacob. On average, in any year, 
+half would become disabled and half would not. If an insurance company offered policies to 
+all of them, offering to replace their $40,000 salaries should they become disabled, on average, 
+this policy would cost the company $20,000 per person. In other words, the expected value 
+tells us what, on average, it would cost a firm that pooled large numbers of identical people 
+to offer them insurance against an income loss of this size. If the individuals are willing to pay 
+the insurance company more than this expected value, there is a potential deal to be made. In 
+fact, looking at Figure 17.2 shows us that the deal offered by the insurance company to cover 
+earnings losses in the case of a disability is worth more than $20,000 to a risk-averse indi-
+vidual like Jacob. Uninsured, Jacob faces a 50 percent chance of earning $0 and a 50 percent 
+chance of earning $40,000. Looking at the graph, we see that the expected utility of Jacob in 
+his uninsured state is
+EU = 1/2 U($0) + 1/2 U($40,000)
+EU = 1/2(0) + 1/2(15) = 7.5
+But a utility level of 7.5 corresponds, as we look at Figure 17.2, to a certain income level of 
+x, which is below the $20,000 level. In other words, Jacob would be indifferent between a certain 
+income of $x and remaining uninsured. But because $x is less than $20,000, we know that Jacob 
+is willing to pay a premium to avoid this disability risk. So there is room for a deal between the 
+insurance company and risk-averse individuals. Because insurance companies can pool risks 
+across many different people, they will be risk-neutral, willing to take on the risks of individuals 
+for a price. In this example, the distance between $20,000, the expected value of the risk, and $x 
+tells us the bargaining range between Jacob and the insurers.
+You may now be wondering how economists explain gambling. Every day people through-
+out the United States buy lottery tickets even though they know that lotteries are not a fair 
+bet. The Powerball lottery in Connecticut is one example. The winning number is  generated 
+by choosing 5 numbers out of a pool of 59, then choosing another number from a pool of 
+35. The probability of getting all 6 numbers correct and winning the lottery’s top prize is 1 in 
+175  million. The top prize in the lottery varies but is typically in the $10 million to $150  million 
+range. The prize is taxable, and winning the top prize would push a winner into the top tax 
+bracket with a tax rate of almost 40 percent. When the prize level is high, many people play the 
+lottery and there is a risk of multiple winners, with prize sharing. Thus, in all cases, the expected 
+value of the typical lottery is highly negative. Playing the slots at a casino also has a negative 
+expected value, as do all professional games of chance. If this were not true, casinos would go 
+out of business and the state would not make money from its lottery. Nevertheless, individuals 
+buy lottery tickets and gamble in a range of forms. One explanation for this risk-taking behav-
+ior may, of course, be that some people find gambling fun and gamble not just in the hopes 
+of winning but for the experience. For other people, gambling may be an addiction. Trying to 
+understand more fully why people gamble while they seem to be risk-averse in most other ways 
+remains an interesting research area in economics.
+10
+7.5
+0
+Income
+$20,000
+$x
+$40,000
+$60,000
+15
+18
+Total utility
+Utility
+◂
+◂Figure 17.2  risk 
+Aversion and insurance 
+Markets
+With a 50 percent chance of 
+earning $40,000 and a 50 
+percent chance of becoming 
+disabled and earning $0, Jacob 
+has an EV of income of $20,000. 
+But his expected utility is halfway 
+between the utility of $40,000 
+(15) and the utility of 0 (0), or 
+7.5. $x is the amount of certain 
+earnings Jacob would accept to 
+avoid a 50 percent chance of 
+earning $0.
+388 Part III Market Imperfections and the Role of Government
+Asymmetric Information
+In the discussion so far, we have described the way people behave in situations in which 
+ everyone involved in the deal is equally uncertain. Again, the coin toss is a classic case. When 
+you offer me a coin toss game, neither you nor I know how the coin will fall. Unless you have 
+somehow fixed the coin, it is an unknowable game of chance. In these situations, we have seen 
+how to use the idea of expected utility to understand choices and we have seen how markets 
+arise to enable risk trading. In other situations, though, the playing field may be less even, with 
+one party to the transaction having more information relevant to the transaction than the other 
+party. Economists refer to these circumstances as ones of asymmetric information. Asymmetric 
+information creates possibilities of market failure by making it harder for individuals to make 
+deals that would otherwise be attractive.
+We are surrounded by situations with asymmetric information. A homeowner has better 
+information than does his or her insurance company about how careful his or her family is, how 
+often family members use candles, and whether anyone smokes. All of these factors are  important 
+to an insurance company trying to set an insurance price. When you applied to  college, you likely 
+knew more about your work ethic than did the colleges to which you applied.
+In this section, we will explore several classic types of asymmetric situations. We will look 
+at the nature of the market failure that arises when we have asymmetric information, and we will 
+consider some of the mechanisms that individuals and markets use to deal with these problems.
+Adverse Selection
+A common saying in the car market is that once you drive a new car off the lot, it loses a sub-
+stantial part of its original value. Why might this be true? Physical depreciation is likely small 
+after only a few miles, for example. The answer can be found in the theory of adverse selection, 
+a theory whose development was cited by the Nobel Committee in its award to George Akerlof 
+in 2001. Adverse selection is a category of asymmetric information problems. In adverse selec-
+tion, the quality of what is being offered in a transaction matters and is not easily demonstrated. 
+For example, consumers might be willing to pay for high-quality used cars. But it is hard to tell 
+which cars are good and which cars are not, and sellers will not, in general, have an incentive 
+to be completely truthful. Insurance companies might be willing to offer inexpensive health 
+insurance to people who take good care of themselves. But it is not easy to figure out who those 
+people are, and insurance buyers are not likely to want to tell the company about their bad 
+habits. As we will see, under these conditions, high-quality products and high-quality consum-
+ers are often squeezed out of markets, giving rise to the term adverse selection. In the Economics in 
+Practice on page 390, we will explore some issues in adverse selection and genetic testing. But first 
+we will explore the used car market, the setting Akerlof first wrote about.
+Adverse Selection and Lemons 
+Suppose you were in the market for a slightly used car 
+of a particular make, perhaps from 2009. Having read a number of automotive magazines, you 
+learned that half of these cars are lemons (bad cars) and half are peaches (good cars). Given your 
+own tastes, a peach of this model year is worth $12,000 to you, whereas a lemon is worth only 
+$3,000. What would you pay if you were unable to tell a peach from a lemon?
+One possible solution to this problem might involve thinking back to the lesson on expected 
+value. The data we described suggest that the expected value of this type of used car is $7,500, 
+which we calculate as 1>2($12,000) + 1>2($3,000). From expected utility theory, you might  conclude 
+that as a risk averse person you would pay somewhat less than this—let’s say $7,000.
+The problem with this calculation, however, is that you have forgotten that you will be try-
+ing to buy this car from a rational, utility-maximizing car seller. Under these circumstances, it 
+will not be equally likely that the car offered will be a peach or a lemon. So the original calcula-
+tion you made of the expected values will not be right. Let us see how a potential seller of a used 
+car sees the situation.
+Suppose you offer current owners of a random 2009 car the $7,000 that we calculated. 
+Which owners will want to sell? Owners of cars likely know whether they have peaches or 
+lemons. After all, they have been driving these cars for a while. The game we are playing here is 
+17.2 Learning Objective
+Describe the characteristics, 
+implications, and solutions for 
+asymmetric situations.
+asymmetric information One 
+of the parties to a transaction 
+has information relevant to 
+the transaction that the other 
+party does not have.
+adverse selection A situ-
+ation in which asymmetric 
+information results in high-
+quality goods or high-quality 
+ consumers being squeezed 
+out of transactions because 
+they cannot demonstrate the 
+quality of the product they are 
+offering for sale.
