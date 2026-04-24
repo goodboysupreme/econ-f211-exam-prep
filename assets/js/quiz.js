@@ -5,95 +5,115 @@ const ANSWER_KEYS = {
   '21': ['b','b','c','c','c','b','b','b','b','b','b','b'],
 };
 
+function getContainer(ch) {
+  return document.getElementById('q' + ch + '-container');
+}
+
 function updateProgress(ch) {
-  const form = document.getElementById('quiz-' + ch);
-  if (!form) return;
+  const container = getContainer(ch);
+  if (!container) return;
   const total = ANSWER_KEYS[ch].length;
   const answered = new Set();
-  form.querySelectorAll('input[type=radio]:checked').forEach(r => {
-    answered.add(r.name);
-  });
+  container.querySelectorAll('input[type=radio]:checked').forEach(r => answered.add(r.name));
   const count = answered.size;
-  const pct = Math.round((count / total) * 100);
-  const fill = document.getElementById('progress-fill-' + ch);
-  const label = document.getElementById('progress-label-' + ch);
-  if (fill) fill.style.width = pct + '%';
+  const fill = document.getElementById('prog' + ch);
+  const label = document.getElementById('prog' + ch + '-text');
+  if (fill) fill.style.width = Math.round((count / total) * 100) + '%';
   if (label) label.textContent = count + ' / ' + total;
 }
 
 function submitQuiz(ch) {
-  const form = document.getElementById('quiz-' + ch);
-  if (!form) return;
+  const container = getContainer(ch);
+  if (!container) return;
   const key = ANSWER_KEYS[ch];
   let score = 0;
 
   key.forEach((correct, i) => {
-    const qNum = i + 1;
-    const selected = form.querySelector('input[name="q' + qNum + '"]:checked');
-    const options = form.querySelectorAll('label[data-q="' + qNum + '"]');
-    options.forEach(lbl => {
-      lbl.classList.remove('correct', 'wrong');
+    const name = 'q' + ch + '_' + i;
+    const allInputs = container.querySelectorAll('input[name="' + name + '"]');
+    allInputs.forEach(inp => {
+      inp.closest('label').classList.remove('correct', 'wrong', 'selected');
     });
-    if (selected) {
-      const selectedLabel = form.querySelector('label[data-q="' + qNum + '"][data-val="' + selected.value + '"]');
-      if (selected.value === correct) {
+
+    const checked = container.querySelector('input[name="' + name + '"]:checked');
+    const correctInput = container.querySelector('input[name="' + name + '"][value="' + correct + '"]');
+
+    if (checked) {
+      if (checked.value === correct) {
         score++;
-        if (selectedLabel) selectedLabel.classList.add('correct');
+        checked.closest('label').classList.add('correct');
       } else {
-        if (selectedLabel) selectedLabel.classList.add('wrong');
-        const correctLabel = form.querySelector('label[data-q="' + qNum + '"][data-val="' + correct + '"]');
-        if (correctLabel) correctLabel.classList.add('correct');
+        checked.closest('label').classList.add('wrong');
+        if (correctInput) correctInput.closest('label').classList.add('correct');
       }
     } else {
-      const correctLabel = form.querySelector('label[data-q="' + qNum + '"][data-val="' + correct + '"]');
-      if (correctLabel) correctLabel.classList.add('correct');
+      if (correctInput) correctInput.closest('label').classList.add('correct');
     }
-    form.querySelectorAll('input[name="q' + qNum + '"]').forEach(r => r.disabled = true);
+
+    allInputs.forEach(inp => inp.disabled = true);
   });
 
   const total = key.length;
   const pct = Math.round((score / total) * 100);
-  const banner = document.getElementById('result-' + ch);
+
+  const scoreNum = document.getElementById('score' + ch + '-num');
+  const resultMsg = document.getElementById('result' + ch + '-msg');
+  const banner = document.getElementById('result' + ch);
+  const scoreBadge = document.getElementById('score' + ch);
+
+  if (scoreNum) scoreNum.textContent = score;
+  if (scoreBadge) scoreBadge.textContent = 'Score: ' + score + '/' + total;
+  if (resultMsg) resultMsg.textContent = pct >= 70 ? '✓ Great work' : '✗ Keep studying';
   if (banner) {
-    banner.textContent = 'Score: ' + score + ' / ' + total + ' (' + pct + '%)';
-    banner.className = 'result-banner ' + (pct >= 70 ? 'pass' : 'fail');
-    banner.style.display = 'block';
+    banner.classList.add('show');
     banner.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }
 
-  const fill = document.getElementById('progress-fill-' + ch);
-  const label = document.getElementById('progress-label-' + ch);
+  const fill = document.getElementById('prog' + ch);
+  const label = document.getElementById('prog' + ch + '-text');
   if (fill) fill.style.width = '100%';
   if (label) label.textContent = total + ' / ' + total;
 }
 
 function resetQuiz(ch) {
-  const form = document.getElementById('quiz-' + ch);
-  if (!form) return;
+  const container = getContainer(ch);
+  if (!container) return;
   const key = ANSWER_KEYS[ch];
 
-  form.querySelectorAll('input[type=radio]').forEach(r => {
+  container.querySelectorAll('input[type=radio]').forEach(r => {
     r.checked = false;
     r.disabled = false;
-  });
-  form.querySelectorAll('label.correct, label.wrong').forEach(lbl => {
-    lbl.classList.remove('correct', 'wrong');
+    r.closest('label').classList.remove('correct', 'wrong', 'selected');
   });
 
-  const banner = document.getElementById('result-' + ch);
-  if (banner) banner.style.display = 'none';
+  const banner = document.getElementById('result' + ch);
+  if (banner) banner.classList.remove('show');
 
-  const fill = document.getElementById('progress-fill-' + ch);
-  const label = document.getElementById('progress-label-' + ch);
+  const scoreBadge = document.getElementById('score' + ch);
+  if (scoreBadge) scoreBadge.textContent = 'Score: —';
+
+  const fill = document.getElementById('prog' + ch);
+  const label = document.getElementById('prog' + ch + '-text');
   if (fill) fill.style.width = '0%';
   if (label) label.textContent = '0 / ' + key.length;
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('input[type=radio]').forEach(r => {
-    r.addEventListener('change', () => {
-      const ch = r.closest('form') ? r.closest('form').id.replace('quiz-', '') : null;
-      if (ch) updateProgress(ch);
+  document.querySelectorAll('.option-label').forEach(label => {
+    label.addEventListener('click', function() {
+      const radio = this.querySelector('input[type="radio"]');
+      if (!radio || radio.disabled) return;
+      const match = radio.name.match(/^q(\d+)_/);
+      if (!match) return;
+      const ch = match[1];
+      const container = getContainer(ch);
+      if (container) {
+        container.querySelectorAll('input[name="' + radio.name + '"]').forEach(r => {
+          r.closest('label').classList.remove('selected');
+        });
+      }
+      this.classList.add('selected');
+      updateProgress(ch);
     });
   });
 });
